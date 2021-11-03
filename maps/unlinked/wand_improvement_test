@@ -1,0 +1,27 @@
+arch map
+name wand_improvement_test
+width 2
+height 1
+msg
+Created:  2020-02-02 Kevin Zheng
+Modified: 2020-02-02 Kevin Zheng
+endmsg
+end
+arch scroll
+identified_name wand improvement scroll
+identified_name_pl wand improvement scrolls
+arch event_apply
+title Python
+slaying /python/items/wand_improvement_scroll.py
+end
+end
+arch scroll
+x 1
+identified_name wand charging scroll
+identified_name_pl wand charging scrolls
+arch event_apply
+name charge
+title Python
+slaying /python/items/wand_improvement_scroll.py
+end
+end

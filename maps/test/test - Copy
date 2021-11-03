@@ -1,0 +1,1445 @@
+arch map
+name test
+width 10
+height 10
+msg
+Created:  2020-08-27 Acer
+Modified: 2020-08-27 Acer
+endmsg
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+y 1
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+y 2
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+y 3
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+y 4
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+y 5
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+y 6
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch grass
+y 7
+end
+arch grass
+y 8
+end
+arch grass
+y 9
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 1
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 1
+y 1
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 1
+y 2
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 1
+y 3
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 1
+y 4
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 1
+y 5
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 1
+y 6
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch grass
+x 1
+y 7
+end
+arch grass
+x 1
+y 8
+end
+arch grass
+x 1
+y 9
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 2
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 2
+y 1
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 2
+y 2
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 2
+y 3
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 2
+y 4
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 2
+y 5
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 2
+y 6
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch grass
+x 2
+y 7
+end
+arch grass
+x 2
+y 8
+end
+arch grass
+x 2
+y 9
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 3
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 3
+y 1
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 3
+y 2
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 3
+y 3
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 3
+y 4
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 3
+y 5
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 3
+y 6
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch grass
+x 3
+y 7
+end
+arch grass
+x 3
+y 8
+end
+arch grass
+x 3
+y 9
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 4
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 4
+y 1
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 4
+y 2
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 4
+y 3
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 4
+y 4
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 4
+y 5
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 4
+y 6
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch grass
+x 4
+y 7
+end
+arch grass
+x 4
+y 8
+end
+arch grass
+x 4
+y 9
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 5
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 5
+y 1
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 5
+y 2
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 5
+y 3
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 5
+y 4
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 5
+y 5
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 5
+y 6
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch grass
+x 5
+y 7
+end
+arch grass
+x 5
+y 8
+move_block walk
+end
+arch grass
+x 5
+y 9
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 6
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 6
+y 1
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 6
+y 2
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 6
+y 3
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 6
+y 4
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 6
+y 5
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 6
+y 6
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch grass
+x 6
+y 7
+end
+arch grass
+x 6
+y 8
+end
+arch grass
+x 6
+y 9
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 7
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 7
+y 1
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 7
+y 2
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 7
+y 3
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 7
+y 4
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 7
+y 5
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 7
+y 6
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch grass
+x 7
+y 7
+end
+arch grass
+x 7
+y 8
+end
+arch grass
+x 7
+y 9
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 8
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 8
+y 1
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 8
+y 2
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 8
+y 3
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 8
+y 4
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 8
+y 5
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 8
+y 6
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch grass
+x 8
+y 7
+end
+arch grass
+x 8
+y 8
+end
+arch grass
+x 8
+y 9
+end
+arch blue_key
+slaying sea_test
+x 8
+y 9
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 9
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 9
+y 1
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 9
+y 2
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 9
+y 3
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 9
+y 4
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 9
+y 5
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch locked_blue_door1
+name sea test
+slaying sea_test
+msg
+The Sea is Deep...
+endmsg
+face sea.111
+animation sea
+x 9
+y 6
+smoothlevel 20
+move_block walk
+no_magic 0
+damned 0
+anim_speed 5
+client_anim_sync 1
+arch earth
+end
+end
+arch grass
+x 9
+y 7
+end
+arch grass
+x 9
+y 8
+end
+arch grass
+x 9
+y 9
+end

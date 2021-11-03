@@ -1,0 +1,118 @@
+arch map
+name minitrade
+width 5
+height 5
+msg
+Creator: Gnat the Gnu
+Email: gnu@foo.bar
+Date: Mon Jan 18 15:47:50 1999
+Modified: 2020-02-03 Acer
+endmsg
+end
+arch battleground
+y 1
+end
+arch amcrystalstone
+y 2
+end
+arch battleground
+y 3
+end
+arch battleground
+x 1
+end
+arch earth
+x 1
+y 1
+end
+arch earth
+x 1
+y 2
+end
+arch earth
+x 1
+y 3
+end
+arch amcrystalstone
+x 1
+y 4
+end
+arch amcrystalstone
+x 2
+end
+arch amcrystalstone
+x 2
+y 1
+end
+arch amcrystalstone
+x 2
+y 2
+end
+arch food_table
+name Pacified Beholder Mount
+slaying beholdereye
+face behold_gen.111
+food 1
+x 2
+y 2
+arch scroll_new
+name Sleeping Beholder
+face beholder.151
+level 20
+arch spell_summon_pet_monster
+other_arch beholder
+randomitems none
+end
+end
+end
+arch detector
+x 2
+y 2
+invisible 1
+connected 4039281
+end
+arch magic_mouth
+msg
+Hint: Feed this mound the eyes of the
+Beholder...
+endmsg
+x 2
+y 2
+connected 4039281
+activate_on_release 0
+end
+arch amcrystalstone
+x 2
+y 3
+end
+arch battleground
+x 2
+y 4
+end
+arch amcrystalstone
+x 3
+y 1
+end
+arch earth
+x 3
+y 2
+end
+arch amcrystalstone
+x 3
+y 3
+end
+arch earth
+x 3
+y 4
+end
+arch battleground
+x 4
+end
+arch amcrystalstone
+x 4
+y 1
+end
+arch battleground
+x 4
+y 2
+end

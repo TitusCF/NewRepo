@@ -1,0 +1,35 @@
+arch map
+name <unnamed>
+difficulty 1
+region wilderness
+width 3
+height 3
+msg
+Creator: MikeeUSA
+Email: gnu@foo.bar
+Date: Sun Jun 18 10:48:43 2000
+Modified: 2020-08-31 Acer
+endmsg
+end
+arch silverore
+end
+arch silverore
+y 1
+nrof 2
+end
+arch worthlessore_b
+y 2
+nrof 2
+end
+arch silverore1kg
+x 1
+nrof 3
+end
+arch worthlessoresmall_b
+x 1
+y 2
+end
+arch worthlessore_b
+x 2
+y 2
+end

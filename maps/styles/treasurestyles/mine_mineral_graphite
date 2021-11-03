@@ -1,0 +1,49 @@
+arch map
+difficulty 1
+width 3
+height 3
+msg
+Creator: Mikeeusa
+Email: gnu@foo.bar
+Date: Sun Jun 18 10:48:43 2000
+endmsg
+end
+arch graphite
+nrof 1
+end
+arch graphite
+y 1
+nrof 1
+end
+arch graphite
+y 2
+nrof 1
+end
+arch graphite
+x 1
+nrof 1
+end
+arch graphite
+x 1
+y 1
+nrof 1
+end
+arch graphite
+x 1
+y 2
+nrof 1
+end
+arch graphite
+x 2
+nrof 1
+end
+arch graphite
+x 2
+y 1
+nrof 1
+end
+arch graphite
+x 2
+y 2
+nrof 1
+end

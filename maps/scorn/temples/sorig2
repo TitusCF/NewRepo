@@ -1,0 +1,782 @@
+arch map
+name Temple to Sorig, Level 2
+width 11
+height 10
+msg
+Creator: Raphael Quinet
+Email: quinet@gamers.org
+Date: Sun Jan 24 21:14:52 1999
+Modified: 2020-09-30 Titus
+endmsg
+end
+arch dungeon_floor
+end
+arch stwall_2_2_2
+end
+arch dungeon_floor
+y 1
+end
+arch stwall_2_1_1
+y 1
+end
+arch dungeon_floor
+y 2
+end
+arch swall_1_4_half
+y 2
+end
+arch stwall_2_1_1
+y 2
+end
+arch dungeon_floor
+y 3
+end
+arch stwall_2_1_1
+y 3
+end
+arch dungeon_floor
+y 4
+end
+arch stwall_2_1_1
+y 4
+end
+arch dungeon_floor
+y 5
+end
+arch stwall_2_1_1
+y 5
+end
+arch dungeon_floor
+y 6
+end
+arch stwall_2_1_1
+y 6
+end
+arch dungeon_floor
+y 7
+end
+arch stwall_2_1_1
+y 7
+end
+arch dungeon_floor
+y 8
+end
+arch stwall_2_1_1
+y 8
+end
+arch dungeon_floor
+y 9
+end
+arch stwall_2_2_1
+y 9
+end
+arch dungeon_floor
+x 1
+end
+arch stwall_2_1_2
+x 1
+end
+arch dungeon_floor
+x 1
+y 1
+end
+arch stair_down
+slaying sorig
+hp 4
+sp 4
+x 1
+y 1
+end
+arch dungeon_floor
+x 1
+y 2
+end
+arch swall_2_1_2
+x 1
+y 2
+end
+arch dungeon_floor
+x 1
+y 3
+end
+arch corpse
+name fried corpse
+x 1
+y 3
+end
+arch dungeon_floor
+x 1
+y 4
+end
+arch dungeon_floor
+x 1
+y 5
+end
+arch dungeon_floor
+x 1
+y 6
+end
+arch dungeon_floor
+x 1
+y 7
+end
+arch dungeon_floor
+x 1
+y 8
+end
+arch lightningwall_3
+x 1
+y 8
+speed 0.0
+level 100
+connected 293
+activate_on_release 0
+arch spell_sm_lightning
+end
+end
+arch dungeon_floor
+x 1
+y 9
+end
+arch stwall_2_1_2
+x 1
+y 9
+end
+arch dungeon_floor
+x 2
+end
+arch stwall_2_1_2
+x 2
+end
+arch dungeon_floor
+x 2
+y 1
+end
+arch dungeon_floor
+x 2
+y 2
+end
+arch swall_2_2_3
+x 2
+y 2
+end
+arch dungeon_floor
+x 2
+y 3
+end
+arch swall_2_1_1
+x 2
+y 3
+end
+arch dungeon_floor
+x 2
+y 4
+end
+arch swall_2_1_1
+x 2
+y 4
+end
+arch dungeon_floor
+x 2
+y 5
+end
+arch swall_2_1_1
+x 2
+y 5
+end
+arch dungeon_floor
+x 2
+y 6
+end
+arch swall_2_1_1
+x 2
+y 6
+end
+arch dungeon_floor
+x 2
+y 7
+end
+arch swall_2_2_1
+x 2
+y 7
+end
+arch dungeon_floor
+x 2
+y 8
+end
+arch dungeon_floor
+x 2
+y 9
+end
+arch swall_1_2_half
+x 2
+y 9
+end
+arch stwall_2_1_2
+x 2
+y 9
+end
+arch dungeon_floor
+x 3
+end
+arch stwall_2_1_2
+x 3
+end
+arch dungeon_floor
+x 3
+y 1
+end
+arch dungeon_floor
+x 3
+y 2
+end
+arch dungeon_floor
+x 3
+y 3
+end
+arch dungeon_floor
+x 3
+y 4
+end
+arch fog
+x 3
+y 4
+end
+arch dungeon_floor
+x 3
+y 5
+end
+arch dungeon_floor
+x 3
+y 6
+end
+arch button_handle
+x 3
+y 6
+connected 2934
+activate_on_release 0
+end
+arch dungeon_floor
+x 3
+y 7
+end
+arch swall_2_1_2
+x 3
+y 7
+end
+arch dungeon_floor
+x 3
+y 8
+end
+arch dungeon_floor
+x 3
+y 9
+end
+arch stwall_2_1_2
+x 3
+y 9
+end
+arch dungeon_floor
+x 4
+end
+arch stwall_2_1_2
+x 4
+end
+arch dungeon_floor
+x 4
+y 1
+end
+arch sign
+name warning sign
+msg
+Be careful when making ritual sacrifices:
+high voltages can be dangerous.
+
+System resets after 80 ticks.
+
+Instructions:
+Place corpse on the appropriate altar,
+Before the system has a chance to reset
+place a single scroll in the appropriate place.
+Pull the lever.
+endmsg
+x 4
+y 1
+end
+arch dungeon_floor
+x 4
+y 2
+end
+arch dungeon_floor
+x 4
+y 3
+end
+arch dungeon_floor
+x 4
+y 4
+end
+arch dungeon_floor
+x 4
+y 5
+end
+arch corpse
+x 4
+y 5
+end
+arch dungeon_floor
+x 4
+y 6
+end
+arch dungeon_floor
+x 4
+y 7
+end
+arch altar_trigger
+name corpse
+slaying corpse
+exp 80
+food 1
+x 4
+y 7
+connected 293
+end
+arch dungeon_floor
+x 4
+y 8
+end
+arch fog
+x 4
+y 8
+end
+arch awall_0
+x 4
+y 8
+invisible 0
+end
+arch dungeon_floor
+x 4
+y 9
+end
+arch stwall_2_1_2
+x 4
+y 9
+end
+arch dungeon_floor
+x 5
+end
+arch stwall_2_1_2
+x 5
+end
+arch dungeon_floor
+x 5
+y 1
+end
+arch dungeon_floor
+x 5
+y 2
+end
+arch dungeon_floor
+x 5
+y 3
+end
+arch dungeon_floor
+x 5
+y 4
+end
+arch dungeon_floor
+x 5
+y 5
+end
+arch dungeon_floor
+x 5
+y 6
+end
+arch dungeon_floor
+x 5
+y 7
+end
+arch altar_trigger
+name scroll
+slaying scroll
+exp 80
+food 1
+x 5
+y 7
+connected 453
+end
+arch dungeon_floor
+x 5
+y 8
+end
+arch awall_0
+x 5
+y 8
+invisible 0
+end
+arch dungeon_floor
+x 5
+y 9
+end
+arch stwall_2_1_2
+x 5
+y 9
+end
+arch dungeon_floor
+x 6
+end
+arch stwall_2_1_2
+x 6
+end
+arch dungeon_floor
+x 6
+y 1
+end
+arch dungeon_floor
+x 6
+y 2
+end
+arch dungeon_floor
+x 6
+y 3
+end
+arch dungeon_floor
+x 6
+y 4
+end
+arch dungeon_floor
+x 6
+y 5
+end
+arch dungeon_floor
+x 6
+y 6
+end
+arch creator
+x 6
+y 6
+connected 1234
+activate_on_release 0
+arch scroll_new
+level 1
+identified 1
+arch spell_charging
+end
+end
+end
+arch mat
+x 6
+y 6
+end
+arch dungeon_floor
+x 6
+y 7
+end
+arch swall_2_1_2
+x 6
+y 7
+end
+arch dungeon_floor
+x 6
+y 8
+end
+arch fog
+x 6
+y 8
+end
+arch dungeon_floor
+x 6
+y 9
+end
+arch stwall_2_1_2
+x 6
+y 9
+end
+arch dungeon_floor
+x 7
+end
+arch stwall_2_1_2
+x 7
+end
+arch dungeon_floor
+x 7
+y 1
+end
+arch fog
+x 7
+y 1
+end
+arch dungeon_floor
+x 7
+y 2
+end
+arch swall_2_2_2
+x 7
+y 2
+end
+arch dungeon_floor
+x 7
+y 3
+end
+arch swall_2_1_1
+x 7
+y 3
+end
+arch dungeon_floor
+x 7
+y 4
+end
+arch swall_2_1_1
+x 7
+y 4
+end
+arch dungeon_floor
+x 7
+y 5
+end
+arch swall_2_1_1
+x 7
+y 5
+end
+arch dungeon_floor
+x 7
+y 6
+end
+arch swall_2_1_1
+x 7
+y 6
+end
+arch dungeon_floor
+x 7
+y 7
+end
+arch swall_2_2_4
+x 7
+y 7
+end
+arch dungeon_floor
+x 7
+y 8
+end
+arch dungeon_floor
+x 7
+y 9
+end
+arch swall_1_2_half
+x 7
+y 9
+end
+arch stwall_2_1_2
+x 7
+y 9
+end
+arch dungeon_floor
+x 8
+end
+arch stwall_2_1_2
+x 8
+end
+arch dungeon_floor
+x 8
+y 1
+end
+arch dungeon_floor
+x 8
+y 2
+end
+arch swall_2_1_2
+x 8
+y 2
+end
+arch dungeon_floor
+x 8
+y 3
+end
+arch dungeon_floor
+x 8
+y 4
+end
+arch corpse
+name fried corpse
+x 8
+y 4
+end
+arch dungeon_floor
+x 8
+y 5
+end
+arch dungeon_floor
+x 8
+y 6
+end
+arch dungeon_floor
+x 8
+y 7
+end
+arch dungeon_floor
+x 8
+y 8
+end
+arch lightningwall_7
+x 8
+y 8
+speed 0.0
+level 100
+connected 453
+activate_on_release 0
+arch spell_sm_lightning
+end
+end
+arch dungeon_floor
+x 8
+y 9
+end
+arch stwall_2_1_2
+x 8
+y 9
+end
+arch dungeon_floor
+x 9
+end
+arch stwall_2_2_3
+x 9
+end
+arch dungeon_floor
+x 9
+y 1
+end
+arch stwall_2_1_1
+x 9
+y 1
+end
+arch dungeon_floor
+x 9
+y 2
+end
+arch stwall_2_1_1
+x 9
+y 2
+end
+arch swall_1_3_half
+x 9
+y 2
+end
+arch dungeon_floor
+x 9
+y 3
+end
+arch stwall_2_1_1
+x 9
+y 3
+end
+arch dungeon_floor
+x 9
+y 4
+end
+arch stwall_2_1_1
+x 9
+y 4
+end
+arch dungeon_floor
+x 9
+y 5
+end
+arch stwall_3_2
+x 9
+y 5
+end
+arch dungeon_floor
+x 9
+y 6
+end
+arch stwall_2_1_1
+x 9
+y 6
+end
+arch dungeon_floor
+x 9
+y 7
+end
+arch stwall_3_2
+x 9
+y 7
+end
+arch dungeon_floor
+x 9
+y 8
+end
+arch stwall_2_1_1
+x 9
+y 8
+end
+arch dungeon_floor
+x 9
+y 9
+end
+arch stwall_2_2_4
+x 9
+y 9
+end
+arch dungeon_floor
+x 10
+end
+arch dungeon_floor
+x 10
+y 1
+end
+arch dungeon_floor
+x 10
+y 2
+end
+arch dungeon_floor
+x 10
+y 3
+end
+arch detector
+slaying lightning
+x 10
+y 3
+connected 1234
+end
+arch dungeon_floor
+x 10
+y 4
+end
+arch dungeon_floor
+x 10
+y 5
+end
+arch stwall_closed_1
+x 10
+y 5
+connected 453
+end
+arch dungeon_floor
+x 10
+y 6
+end
+arch dungeon_floor
+x 10
+y 7
+end
+arch stwall_closed_1
+x 10
+y 7
+connected 293
+end
+arch dungeon_floor
+x 10
+y 8
+end
+arch dungeon_floor
+x 10
+y 9
+end
+arch lightningwall_t
+x 10
+y 9
+speed 0.0
+connected 2934
+activate_on_release 0
+arch spell_large_lightning
+end
+end

@@ -1,0 +1,2785 @@
+arch map
+name Alchemy Shop of Scorn
+difficulty 5
+shopitems potion:20;inorganic:60;container:20;*:-60
+shopmax 2000
+width 18
+height 25
+enter_x 14
+enter_y 14
+msg
+Creator: bt foom
+Email: thomas@astro.psu.edu
+Date: Thu May  2 01:57:58 1996
+Modified: 2020-01-16 Acer
+endmsg
+end
+arch shop_empty
+end
+arch wwall_2_2_2
+end
+arch shop_empty
+y 1
+end
+arch wwall_2_1_1
+y 1
+end
+arch shop_empty
+y 2
+end
+arch wwall_3_2
+y 2
+end
+arch shop_empty
+y 3
+end
+arch wwall_2_1_1
+y 3
+end
+arch shop_empty
+y 4
+end
+arch wwall_3_2
+y 4
+end
+arch shop_empty
+y 5
+end
+arch wwall_2_1_1
+y 5
+end
+arch shop_empty
+y 6
+end
+arch wwall_2_1_1
+y 6
+end
+arch shop_empty
+y 7
+end
+arch wwall_2_1_1
+y 7
+end
+arch shop_empty
+y 8
+end
+arch wwall_2_1_1
+y 8
+end
+arch shop_empty
+y 9
+end
+arch wwall_2_1_1
+y 9
+end
+arch shop_empty
+y 10
+end
+arch wwall_2_1_1
+y 10
+end
+arch shop_empty
+y 11
+end
+arch wwall_3_2
+y 11
+end
+arch shop_empty
+y 12
+end
+arch wwall_2_1_1
+y 12
+end
+arch shop_empty
+y 13
+end
+arch wwall_3_2
+y 13
+end
+arch shop_empty
+y 14
+end
+arch wwall_2_1_1
+y 14
+end
+arch shop_empty
+y 15
+end
+arch wwall_2_1_1
+y 15
+end
+arch shop_empty
+y 16
+end
+arch wwall_2_1_1
+y 16
+end
+arch shop_empty
+y 17
+end
+arch wwall_2_1_1
+y 17
+end
+arch shop_empty
+y 18
+end
+arch wwall_2_1_1
+y 18
+end
+arch shop_empty
+y 19
+end
+arch wwall_2_1_1
+y 19
+end
+arch shop_empty
+y 20
+end
+arch wwall_2_1_1
+y 20
+end
+arch shop_empty
+y 21
+end
+arch wwall_2_1_1
+y 21
+end
+arch shop_empty
+y 22
+end
+arch wwall_2_1_1
+y 22
+end
+arch shop_empty
+y 23
+end
+arch wwall_2_1_1
+y 23
+end
+arch shop_empty
+y 24
+end
+arch wwall_2_2_1
+y 24
+end
+arch shop_empty
+x 1
+end
+arch wwall_2_1_2
+x 1
+end
+arch shop_empty
+x 1
+y 1
+end
+arch potion_aethereality
+x 1
+y 1
+no_pick 1
+end
+arch wwall_0
+x 1
+y 1
+invisible 1
+end
+arch shop_empty
+x 1
+y 2
+end
+arch wwall_1_3
+x 1
+y 2
+end
+arch shop_empty
+x 1
+y 3
+end
+arch potion_shielding
+x 1
+y 3
+no_pick 1
+end
+arch wwall_0
+x 1
+y 3
+invisible 1
+end
+arch shop_empty
+x 1
+y 4
+end
+arch wwall_1_3
+x 1
+y 4
+end
+arch shop_empty
+x 1
+y 5
+end
+arch shop_empty
+x 1
+y 6
+end
+arch shop_empty
+x 1
+y 7
+end
+arch table_1x2
+x 1
+y 7
+end
+arch cauldron
+x 1
+y 7
+unpaid 1
+end
+arch shop_empty
+x 1
+y 8
+end
+arch cauldron
+x 1
+y 8
+unpaid 1
+end
+arch shop_empty
+x 1
+y 9
+end
+arch shop_empty
+x 1
+y 10
+end
+arch wwall_0
+x 1
+y 10
+invisible 1
+end
+arch shop_empty
+x 1
+y 11
+end
+arch wwall_1_3
+x 1
+y 11
+end
+arch shop_empty
+x 1
+y 12
+end
+arch potion_cold
+x 1
+y 12
+no_pick 1
+end
+arch wwall_0
+x 1
+y 12
+invisible 1
+end
+arch shop_empty
+x 1
+y 13
+end
+arch wwall_1_3
+x 1
+y 13
+end
+arch shop_empty
+x 1
+y 14
+end
+arch potion_fire
+x 1
+y 14
+no_pick 1
+end
+arch wwall_0
+x 1
+y 14
+invisible 1
+end
+arch shop_empty
+x 1
+y 15
+end
+arch shop_empty
+x 1
+y 16
+end
+arch shop_empty
+x 1
+y 17
+end
+arch shop_empty
+x 1
+y 18
+end
+arch shop_empty
+x 1
+y 19
+end
+arch shop_empty
+x 1
+y 20
+end
+arch shop_empty
+x 1
+y 21
+end
+arch shop_alchemy
+x 1
+y 22
+end
+arch shop_alchemy
+x 1
+y 23
+end
+arch shop_empty
+x 1
+y 24
+end
+arch wwall_2_1_2
+x 1
+y 24
+end
+arch shop_empty
+x 2
+end
+arch wwall_2_1_2
+x 2
+end
+arch shop_empty
+x 2
+y 1
+end
+arch creator
+name potion of aethereality
+x 2
+y 1
+connected 101
+lifesave 1
+arch potion_aethereality
+unpaid 1
+identified 1
+end
+end
+arch button_lever
+name potion of aethereality
+face teleporter.111
+animation teleporter
+x 2
+y 1
+connected 101
+end
+arch shop_empty
+x 2
+y 2
+end
+arch shop_empty
+x 2
+y 3
+end
+arch creator
+name potion of shielding
+x 2
+y 3
+connected 102
+lifesave 1
+arch potion_shielding
+unpaid 1
+identified 1
+end
+end
+arch button_lever
+name potion of shielding
+face teleporter.111
+animation teleporter
+x 2
+y 3
+connected 102
+end
+arch shop_empty
+x 2
+y 4
+end
+arch shop_empty
+x 2
+y 5
+end
+arch shop_empty
+x 2
+y 6
+end
+arch shop_empty
+x 2
+y 7
+end
+arch shop_empty
+x 2
+y 8
+end
+arch shop_empty
+x 2
+y 9
+end
+arch shop_empty
+x 2
+y 10
+end
+arch shop_empty
+x 2
+y 11
+end
+arch shop_empty
+x 2
+y 12
+end
+arch creator
+name potion of cold resistance
+x 2
+y 12
+connected 103
+lifesave 1
+arch potion_cold
+unpaid 1
+identified 1
+end
+end
+arch button_lever
+name potion of cold resistance
+face teleporter.111
+animation teleporter
+x 2
+y 12
+connected 103
+end
+arch shop_empty
+x 2
+y 13
+end
+arch shop_empty
+x 2
+y 14
+end
+arch creator
+name potion of fire resistance
+x 2
+y 14
+connected 104
+lifesave 1
+arch potion_fire
+unpaid 1
+identified 1
+end
+end
+arch button_lever
+name potion of fire resistance
+face teleporter.111
+animation teleporter
+x 2
+y 14
+connected 104
+end
+arch shop_empty
+x 2
+y 15
+end
+arch shop_empty
+x 2
+y 16
+end
+arch shop_potions
+x 2
+y 17
+end
+arch shop_potions
+x 2
+y 18
+end
+arch shop_potions
+x 2
+y 19
+end
+arch shop_potions
+x 2
+y 20
+end
+arch shop_minerals
+x 2
+y 21
+end
+arch shop_minerals
+x 2
+y 22
+end
+arch shop_alchemy
+x 2
+y 23
+end
+arch shop_empty
+x 2
+y 24
+end
+arch wwall_2_1_2
+x 2
+y 24
+end
+arch shop_empty
+x 3
+end
+arch wwall_3_3
+x 3
+end
+arch shop_empty
+x 3
+y 1
+end
+arch wwall_2_1_1
+x 3
+y 1
+end
+arch shop_empty
+x 3
+y 2
+end
+arch wwall_3_2
+x 3
+y 2
+end
+arch shop_empty
+x 3
+y 3
+end
+arch wwall_2_1_1
+x 3
+y 3
+end
+arch shop_empty
+x 3
+y 4
+end
+arch wwall_3_2
+x 3
+y 4
+end
+arch shop_empty
+x 3
+y 5
+end
+arch wwall_1_2
+x 3
+y 5
+end
+arch shop_empty
+x 3
+y 6
+end
+arch shop_empty
+x 3
+y 7
+end
+arch shop_empty
+x 3
+y 8
+end
+arch shop_empty
+x 3
+y 9
+end
+arch shop_empty
+x 3
+y 10
+end
+arch wwall_1_1
+x 3
+y 10
+end
+arch shop_empty
+x 3
+y 11
+end
+arch wwall_3_2
+x 3
+y 11
+end
+arch shop_empty
+x 3
+y 12
+end
+arch wwall_2_1_1
+x 3
+y 12
+end
+arch shop_empty
+x 3
+y 13
+end
+arch wwall_3_2
+x 3
+y 13
+end
+arch shop_empty
+x 3
+y 14
+end
+arch wwall_2_1_1
+x 3
+y 14
+end
+arch shop_empty
+x 3
+y 15
+end
+arch wwall_1_2
+x 3
+y 15
+end
+arch shop_empty
+x 3
+y 16
+end
+arch shop_potions
+x 3
+y 17
+end
+arch shop_potions
+x 3
+y 18
+end
+arch shop_potions
+x 3
+y 19
+end
+arch shop_potions
+x 3
+y 20
+end
+arch shop_minerals
+x 3
+y 21
+end
+arch shop_minerals
+x 3
+y 22
+end
+arch shop_alchemy
+x 3
+y 23
+end
+arch shop_empty
+x 3
+y 24
+end
+arch wwall_3_1
+x 3
+y 24
+end
+arch shop_empty
+x 4
+end
+arch wwall_2_1_2
+x 4
+end
+arch shop_empty
+x 4
+y 1
+end
+arch potion_shielding
+name potion of Water Elemental
+name_pl potions of Water Elemental
+x 4
+y 1
+level 20
+no_pick 1
+arch spell_summon_water_elemental
+end
+end
+arch wwall_0
+x 4
+y 1
+invisible 1
+end
+arch shop_empty
+x 4
+y 2
+end
+arch wwall_1_3
+x 4
+y 2
+end
+arch shop_empty
+x 4
+y 3
+end
+arch shop_empty
+x 4
+y 4
+end
+arch wwall_1_3
+x 4
+y 4
+end
+arch shop_empty
+x 4
+y 5
+end
+arch medium_potion_restoration
+x 4
+y 5
+no_pick 1
+end
+arch wwall_0
+x 4
+y 5
+invisible 1
+end
+arch shop_empty
+x 4
+y 6
+end
+arch shop_empty
+x 4
+y 7
+end
+arch shop_empty
+x 4
+y 8
+end
+arch shop_empty
+x 4
+y 9
+end
+arch shop_empty
+x 4
+y 10
+end
+arch statue2
+x 4
+y 10
+end
+arch shop_empty
+x 4
+y 11
+end
+arch wwall_1_3
+x 4
+y 11
+end
+arch shop_empty
+x 4
+y 12
+end
+arch potion_improve
+x 4
+y 12
+no_pick 1
+end
+arch wwall_0
+x 4
+y 12
+invisible 1
+end
+arch shop_empty
+x 4
+y 13
+end
+arch wwall_1_3
+x 4
+y 13
+end
+arch shop_empty
+x 4
+y 14
+end
+arch potion_heroism
+x 4
+y 14
+no_pick 1
+arch spell_heroism
+end
+end
+arch wwall_0
+x 4
+y 14
+invisible 1
+end
+arch shop_empty
+x 4
+y 15
+end
+arch shop_empty
+x 4
+y 16
+end
+arch shop_empty
+x 4
+y 17
+end
+arch shop_empty
+x 4
+y 18
+end
+arch shop_empty
+x 4
+y 19
+end
+arch shop_empty
+x 4
+y 20
+end
+arch shop_empty
+x 4
+y 21
+end
+arch shop_alchemy
+x 4
+y 22
+end
+arch shop_alchemy
+x 4
+y 23
+end
+arch shop_empty
+x 4
+y 24
+end
+arch wwall_2_1_2
+x 4
+y 24
+end
+arch shop_empty
+x 5
+end
+arch wwall_2_1_2
+x 5
+end
+arch shop_empty
+x 5
+y 1
+end
+arch creator
+name medium potion of life
+x 5
+y 1
+connected 110
+lifesave 1
+arch potion_shielding
+name potion of Water Elemental
+name_pl potions of Water Elemental
+level 20
+unpaid 1
+identified 1
+arch spell_summon_water_elemental
+end
+end
+end
+arch button_lever
+name potion of Water Elemental
+face teleporter.111
+animation teleporter
+x 5
+y 1
+connected 110
+end
+arch shop_empty
+x 5
+y 2
+end
+arch shop_empty
+x 5
+y 3
+end
+arch shop_empty
+x 5
+y 4
+end
+arch shop_empty
+x 5
+y 5
+end
+arch creator
+name medium potion of life
+x 5
+y 5
+connected 107
+lifesave 1
+arch medium_potion_restoration
+unpaid 1
+identified 1
+end
+end
+arch button_lever
+name medium potion of life
+face teleporter.111
+animation teleporter
+x 5
+y 5
+connected 107
+end
+arch shop_empty
+x 5
+y 6
+end
+arch shop_empty
+x 5
+y 7
+end
+arch shop_empty
+x 5
+y 8
+end
+arch shop_empty
+x 5
+y 9
+end
+arch shop_empty
+x 5
+y 10
+end
+arch shop_empty
+x 5
+y 11
+end
+arch shop_empty
+x 5
+y 12
+end
+arch creator
+name improvement potion
+x 5
+y 12
+connected 106
+lifesave 1
+arch potion_improve
+value 10200
+unpaid 1
+identified 1
+end
+end
+arch button_lever
+name improvement potion
+face teleporter.111
+animation teleporter
+x 5
+y 12
+connected 106
+end
+arch wwall_0
+x 5
+y 12
+end
+arch shop_empty
+x 5
+y 13
+end
+arch shop_empty
+x 5
+y 14
+end
+arch creator
+x 5
+y 14
+connected 105
+lifesave 1
+arch potion_heroism
+unpaid 1
+identified 1
+arch spell_heroism
+end
+end
+end
+arch button_lever
+name potion of heroism
+face teleporter.111
+animation teleporter
+x 5
+y 14
+connected 105
+end
+arch shop_empty
+x 5
+y 15
+end
+arch shop_empty
+x 5
+y 16
+end
+arch shop_potions
+x 5
+y 17
+end
+arch shop_potions
+x 5
+y 18
+end
+arch shop_potions
+x 5
+y 19
+end
+arch shop_potions
+x 5
+y 20
+end
+arch shop_minerals
+x 5
+y 21
+end
+arch shop_minerals
+x 5
+y 22
+end
+arch shop_alchemy
+x 5
+y 23
+end
+arch shop_empty
+x 5
+y 24
+end
+arch wwall_2_1_2
+x 5
+y 24
+end
+arch shop_empty
+x 6
+end
+arch wwall_2_1_2
+x 6
+end
+arch shop_empty
+x 6
+y 1
+end
+arch shop_empty
+x 6
+y 2
+end
+arch shop_empty
+x 6
+y 3
+end
+arch shop_empty
+x 6
+y 4
+end
+arch shop_empty
+x 6
+y 5
+end
+arch shop_empty
+x 6
+y 6
+end
+arch shop_empty
+x 6
+y 7
+end
+arch shop_empty
+x 6
+y 8
+end
+arch shop_empty
+x 6
+y 9
+end
+arch shop_empty
+x 6
+y 10
+end
+arch shop_empty
+x 6
+y 11
+end
+arch shop_empty
+x 6
+y 12
+end
+arch shop_empty
+x 6
+y 13
+end
+arch shop_empty
+x 6
+y 14
+end
+arch shop_empty
+x 6
+y 15
+end
+arch shop_empty
+x 6
+y 16
+end
+arch shop_potions
+x 6
+y 17
+end
+arch shop_potions
+x 6
+y 18
+end
+arch shop_potions
+x 6
+y 19
+end
+arch shop_potions
+x 6
+y 20
+end
+arch shop_minerals
+x 6
+y 21
+end
+arch shop_minerals
+x 6
+y 22
+end
+arch shop_alchemy
+x 6
+y 23
+end
+arch shop_empty
+x 6
+y 24
+end
+arch wwall_2_1_2
+x 6
+y 24
+end
+arch shop_empty
+x 7
+end
+arch wwall_3_3
+x 7
+end
+arch shop_empty
+x 7
+y 1
+end
+arch wwall_2_1_1
+x 7
+y 1
+end
+arch shop_empty
+x 7
+y 2
+end
+arch wwall_3_2
+x 7
+y 2
+end
+arch shop_empty
+x 7
+y 3
+end
+arch wwall_2_1_1
+x 7
+y 3
+end
+arch shop_empty
+x 7
+y 4
+end
+arch wwall_3_2
+x 7
+y 4
+end
+arch shop_empty
+x 7
+y 5
+end
+arch wwall_1_2
+x 7
+y 5
+end
+arch shop_empty
+x 7
+y 6
+end
+arch shop_empty
+x 7
+y 7
+end
+arch shop_empty
+x 7
+y 8
+end
+arch shop_empty
+x 7
+y 9
+end
+arch shop_empty
+x 7
+y 10
+end
+arch wwall_1_1
+x 7
+y 10
+end
+arch shop_empty
+x 7
+y 11
+end
+arch wwall_3_2
+x 7
+y 11
+end
+arch shop_empty
+x 7
+y 12
+end
+arch wwall_2_1_1
+x 7
+y 12
+end
+arch shop_empty
+x 7
+y 13
+end
+arch wwall_3_2
+x 7
+y 13
+end
+arch shop_empty
+x 7
+y 14
+end
+arch wwall_2_1_1
+x 7
+y 14
+end
+arch shop_empty
+x 7
+y 15
+end
+arch wwall_1_2
+x 7
+y 15
+end
+arch shop_empty
+x 7
+y 16
+end
+arch shop_empty
+x 7
+y 17
+end
+arch shop_empty
+x 7
+y 18
+end
+arch shop_empty
+x 7
+y 19
+end
+arch shop_empty
+x 7
+y 20
+end
+arch shop_empty
+x 7
+y 21
+end
+arch shop_alchemy
+x 7
+y 22
+end
+arch shop_alchemy
+x 7
+y 23
+end
+arch shop_empty
+x 7
+y 24
+end
+arch wwall_3_1
+x 7
+y 24
+end
+arch shop_empty
+x 8
+end
+arch wwall_2_1_2
+x 8
+end
+arch shop_empty
+x 8
+y 1
+end
+arch shop_empty
+x 8
+y 2
+end
+arch wwall_1_3
+x 8
+y 2
+end
+arch shop_empty
+x 8
+y 3
+end
+arch potion_restoration
+x 8
+y 3
+no_pick 1
+end
+arch wwall_0
+x 8
+y 3
+invisible 1
+end
+arch shop_empty
+x 8
+y 4
+end
+arch wwall_1_3
+x 8
+y 4
+end
+arch shop_empty
+x 8
+y 5
+end
+arch statue2
+x 8
+y 5
+end
+arch shop_empty
+x 8
+y 6
+end
+arch shop_empty
+x 8
+y 7
+end
+arch shop_empty
+x 8
+y 8
+end
+arch shop_empty
+x 8
+y 9
+end
+arch shop_empty
+x 8
+y 10
+end
+arch shop_empty
+x 8
+y 11
+end
+arch wwall_1_3
+x 8
+y 11
+end
+arch shop_empty
+x 8
+y 12
+end
+arch potiondex
+x 8
+y 12
+value 34000
+no_pick 1
+end
+arch wwall_0
+x 8
+y 12
+invisible 1
+end
+arch shop_empty
+x 8
+y 13
+end
+arch wwall_1_3
+x 8
+y 13
+end
+arch shop_empty
+x 8
+y 14
+end
+arch shop_empty
+x 8
+y 15
+end
+arch shop_empty
+x 8
+y 16
+end
+arch shop_potions
+x 8
+y 17
+end
+arch shop_potions
+x 8
+y 18
+end
+arch shop_potions
+x 8
+y 19
+end
+arch shop_potions
+x 8
+y 20
+end
+arch shop_minerals
+x 8
+y 21
+end
+arch shop_minerals
+x 8
+y 22
+end
+arch shop_alchemy
+x 8
+y 23
+end
+arch shop_empty
+x 8
+y 24
+end
+arch wwall_2_1_2
+x 8
+y 24
+end
+arch shop_empty
+x 9
+end
+arch wwall_2_1_2
+x 9
+end
+arch shop_empty
+x 9
+y 1
+end
+arch shop_empty
+x 9
+y 2
+end
+arch shop_empty
+x 9
+y 3
+end
+arch creator
+name supreme potion of life
+x 9
+y 3
+connected 108
+lifesave 1
+arch potion_restoration
+unpaid 1
+identified 1
+end
+end
+arch button_lever
+name supreme potion of life
+face teleporter.111
+animation teleporter
+x 9
+y 3
+connected 108
+end
+arch shop_empty
+x 9
+y 4
+end
+arch shop_empty
+x 9
+y 5
+end
+arch shop_empty
+x 9
+y 6
+end
+arch shop_empty
+x 9
+y 7
+end
+arch shop_empty
+x 9
+y 8
+end
+arch shop_empty
+x 9
+y 9
+end
+arch shop_empty
+x 9
+y 10
+end
+arch shop_empty
+x 9
+y 11
+end
+arch shop_empty
+x 9
+y 12
+end
+arch creator
+name potion of dexterity
+x 9
+y 12
+connected 109
+lifesave 1
+arch potiondex
+value 54000
+unpaid 1
+identified 1
+end
+end
+arch button_lever
+name potion of dexterity
+face teleporter.111
+animation teleporter
+x 9
+y 12
+connected 109
+end
+arch wwall_0
+x 9
+y 12
+end
+arch shop_empty
+x 9
+y 13
+end
+arch shop_empty
+x 9
+y 14
+end
+arch shop_empty
+x 9
+y 15
+end
+arch shop_empty
+x 9
+y 16
+end
+arch shop_potions
+x 9
+y 17
+end
+arch shop_potions
+x 9
+y 18
+end
+arch shop_potions
+x 9
+y 19
+end
+arch shop_potions
+x 9
+y 20
+end
+arch shop_minerals
+x 9
+y 21
+end
+arch shop_minerals
+x 9
+y 22
+end
+arch shop_alchemy
+x 9
+y 23
+end
+arch shop_empty
+x 9
+y 24
+end
+arch wwall_2_1_2
+x 9
+y 24
+end
+arch shop_empty
+x 10
+end
+arch wwall_2_1_2
+x 10
+end
+arch shop_empty
+x 10
+y 1
+end
+arch shop_empty
+x 10
+y 2
+end
+arch shop_empty
+x 10
+y 3
+end
+arch shop_empty
+x 10
+y 4
+end
+arch shop_empty
+x 10
+y 5
+end
+arch shop_empty
+x 10
+y 6
+end
+arch shop_empty
+x 10
+y 7
+end
+arch shop_empty
+x 10
+y 8
+end
+arch shop_empty
+x 10
+y 9
+end
+arch shop_empty
+x 10
+y 10
+end
+arch shop_empty
+x 10
+y 11
+end
+arch shop_empty
+x 10
+y 12
+end
+arch shop_empty
+x 10
+y 13
+end
+arch shop_empty
+x 10
+y 14
+end
+arch shop_empty
+x 10
+y 15
+end
+arch shop_empty
+x 10
+y 16
+end
+arch shop_empty
+x 10
+y 17
+end
+arch shop_empty
+x 10
+y 18
+end
+arch shop_empty
+x 10
+y 19
+end
+arch shop_empty
+x 10
+y 20
+end
+arch shop_empty
+x 10
+y 21
+end
+arch shop_alchemy
+x 10
+y 22
+end
+arch shop_alchemy
+x 10
+y 23
+end
+arch shop_empty
+x 10
+y 24
+end
+arch wwall_2_1_2
+x 10
+y 24
+end
+arch shop_empty
+x 11
+end
+arch wwall_3_3
+x 11
+end
+arch shop_empty
+x 11
+y 1
+end
+arch wwall_2_1_1
+x 11
+y 1
+end
+arch shop_empty
+x 11
+y 2
+end
+arch wwall_2_1_1
+x 11
+y 2
+end
+arch shop_empty
+x 11
+y 3
+end
+arch wwall_2_1_1
+x 11
+y 3
+end
+arch shop_empty
+x 11
+y 4
+end
+arch wwall_2_1_1
+x 11
+y 4
+end
+arch shop_empty
+x 11
+y 5
+end
+arch wwall_2_1_1
+x 11
+y 5
+end
+arch shop_empty
+x 11
+y 6
+end
+arch wwall_2_2_1
+x 11
+y 6
+end
+arch shop_empty
+x 11
+y 7
+end
+arch shop_empty
+x 11
+y 8
+end
+arch shop_empty
+x 11
+y 9
+end
+arch wwall_2_2_2
+x 11
+y 9
+end
+arch woodfloor
+x 11
+y 10
+end
+arch shop_empty
+x 11
+y 10
+end
+arch wwall_2_1_1
+x 11
+y 10
+end
+arch shop_empty
+x 11
+y 11
+end
+arch wwall_2_1_1
+x 11
+y 11
+end
+arch shop_empty
+x 11
+y 12
+end
+arch wwall_2_1_1
+x 11
+y 12
+end
+arch shop_empty
+x 11
+y 13
+end
+arch wwall_2_1_1
+x 11
+y 13
+end
+arch shop_empty
+x 11
+y 14
+end
+arch wwall_2_1_1
+x 11
+y 14
+end
+arch shop_empty
+x 11
+y 15
+end
+arch wwall_2_2_1
+x 11
+y 15
+end
+arch shop_empty
+x 11
+y 16
+end
+arch shop_potions
+x 11
+y 17
+end
+arch shop_potions
+x 11
+y 18
+end
+arch shop_potions
+x 11
+y 19
+end
+arch shop_potions
+x 11
+y 20
+end
+arch shop_minerals
+x 11
+y 21
+end
+arch shop_minerals
+x 11
+y 22
+end
+arch shop_alchemy
+x 11
+y 23
+end
+arch shop_empty
+x 11
+y 24
+end
+arch wwall_3_1
+x 11
+y 24
+end
+arch woodfloor
+x 12
+end
+arch wwall_2_1_2
+x 12
+end
+arch woodfloor
+x 12
+y 1
+end
+arch clock
+x 12
+y 1
+no_pick 1
+end
+arch woodfloor
+x 12
+y 2
+end
+arch woodfloor
+x 12
+y 3
+end
+arch woodfloor
+x 12
+y 4
+end
+arch woodfloor
+x 12
+y 5
+end
+arch woodfloor
+x 12
+y 6
+end
+arch wwall_2_1_2
+x 12
+y 6
+end
+arch shop_empty
+x 12
+y 7
+end
+arch sign
+name INSTRUCTIONS
+msg
+Many stores in Scorn have been updated
+with zero-point storage.
+Simply stand on the pad and activate as
+many times as you would like in order to
+produce your desired quantity of the available
+items.
+endmsg
+x 12
+y 7
+end
+arch shop_empty
+x 12
+y 8
+end
+arch shop_mat
+x 12
+y 8
+end
+arch woodfloor
+x 12
+y 9
+end
+arch wwall_2_1_2
+x 12
+y 9
+end
+arch woodfloor
+x 12
+y 10
+end
+arch shop_mat
+x 12
+y 10
+end
+arch woodfloor
+x 12
+y 11
+end
+arch menu
+x 12
+y 11
+end
+arch woodfloor
+x 12
+y 12
+end
+arch bench_1_4
+x 12
+y 12
+move_block all
+no_magic 1
+damned 1
+end
+arch woodfloor
+x 12
+y 13
+end
+arch dwarf_wiz
+name Izchucio the Alchemist
+msg
+@match alchemy|formula|recipe
+To find alchemical recipes you should
+read old books. They often appear in
+magic shops.
+@match *
+If you're really interested in alchemy
+you'd better buy a day pass and get
+going.
+endmsg
+x 12
+y 13
+end
+arch woodfloor
+x 12
+y 14
+end
+arch shop_empty
+x 12
+y 15
+end
+arch wwall_2_1_2
+x 12
+y 15
+end
+arch shop_empty
+x 12
+y 16
+end
+arch shop_potions
+x 12
+y 17
+end
+arch shop_potions
+x 12
+y 18
+end
+arch shop_potions
+x 12
+y 19
+end
+arch shop_potions
+x 12
+y 20
+end
+arch shop_minerals
+x 12
+y 21
+end
+arch shop_minerals
+x 12
+y 22
+end
+arch shop_alchemy
+x 12
+y 23
+end
+arch woodfloor
+x 12
+y 24
+end
+arch wwall_2_1_2
+x 12
+y 24
+end
+arch woodfloor
+x 13
+end
+arch wwall_2_1_2
+x 13
+end
+arch woodfloor
+x 13
+y 1
+end
+arch table_3
+name lab bench
+x 13
+y 1
+no_pick 1
+end
+arch book_read
+name basic instructions
+msg
+To make an alchemical product, assemble
+your ingredients in the cauldron.
+Then cast the spell alchemy upon it.
+If your recipe is true and your skill is sufficient,
+then you will have made what you hoped for.
+endmsg
+x 13
+y 1
+level 6
+no_pick 1
+end
+arch woodfloor
+x 13
+y 2
+end
+arch woodfloor
+x 13
+y 3
+end
+arch woodfloor
+x 13
+y 4
+end
+arch cauldron
+x 13
+y 4
+no_pick 1
+end
+arch woodfloor
+x 13
+y 5
+end
+arch woodfloor
+x 13
+y 6
+end
+arch wwall_2_2_3
+x 13
+y 6
+end
+arch woodfloor
+x 13
+y 7
+end
+arch wwall_2_1_1
+x 13
+y 7
+end
+arch woodfloor
+x 13
+y 8
+end
+arch wwall_2_1_1
+x 13
+y 8
+end
+arch woodfloor
+x 13
+y 9
+end
+arch wwall_2_2_4
+x 13
+y 9
+end
+arch woodfloor
+x 13
+y 10
+end
+arch woodfloor
+x 13
+y 11
+end
+arch woodfloor
+x 13
+y 12
+end
+arch bench_2_2_3
+x 13
+y 12
+move_block all
+no_magic 1
+damned 1
+end
+arch woodfloor
+x 13
+y 13
+end
+arch bench_2_1_1
+x 13
+y 13
+move_block all
+no_magic 1
+damned 1
+end
+arch woodfloor
+x 13
+y 14
+end
+arch bench_1_2
+x 13
+y 14
+move_block all
+no_magic 1
+damned 1
+end
+arch shop_empty
+x 13
+y 15
+end
+arch wwall_2_1_2
+x 13
+y 15
+end
+arch shop_empty
+x 13
+y 16
+end
+arch shop_empty
+x 13
+y 17
+end
+arch shop_empty
+x 13
+y 18
+end
+arch shop_empty
+x 13
+y 19
+end
+arch shop_empty
+x 13
+y 20
+end
+arch shop_empty
+x 13
+y 21
+end
+arch shop_alchemy
+x 13
+y 22
+end
+arch shop_alchemy
+x 13
+y 23
+end
+arch woodfloor
+x 13
+y 24
+end
+arch wwall_2_1_2
+x 13
+y 24
+end
+arch woodfloor
+x 14
+end
+arch wwall_2_1_2
+x 14
+end
+arch woodfloor
+x 14
+y 1
+end
+arch table_3
+name lab bench
+x 14
+y 1
+no_pick 1
+end
+arch woodfloor
+x 14
+y 2
+end
+arch woodfloor
+x 14
+y 3
+end
+arch woodfloor
+x 14
+y 4
+end
+arch woodfloor
+x 14
+y 5
+end
+arch woodfloor
+x 14
+y 6
+end
+arch woodfloor
+x 14
+y 7
+end
+arch woodfloor
+x 14
+y 8
+end
+arch woodfloor
+x 14
+y 9
+end
+arch woodfloor
+x 14
+y 10
+end
+arch woodfloor
+x 14
+y 11
+end
+arch woodfloor
+x 14
+y 12
+end
+arch woodfloor
+x 14
+y 13
+end
+arch woodfloor
+x 14
+y 14
+end
+arch oakdoor
+slaying /world/world_104_115
+hp 26
+sp 36
+x 14
+y 14
+end
+arch shop_empty
+x 14
+y 15
+end
+arch wwall_2_1_2
+x 14
+y 15
+end
+arch shop_empty
+x 14
+y 16
+end
+arch shop_potions
+x 14
+y 17
+end
+arch shop_potions
+x 14
+y 18
+end
+arch shop_potions
+x 14
+y 19
+end
+arch shop_potions
+x 14
+y 20
+end
+arch shop_minerals
+x 14
+y 21
+end
+arch shop_minerals
+x 14
+y 22
+end
+arch shop_alchemy
+x 14
+y 23
+end
+arch woodfloor
+x 14
+y 24
+end
+arch wwall_2_1_2
+x 14
+y 24
+end
+arch woodfloor
+x 15
+end
+arch wwall_2_1_2
+x 15
+end
+arch woodfloor
+x 15
+y 1
+end
+arch woodfloor
+x 15
+y 2
+end
+arch woodfloor
+x 15
+y 3
+end
+arch woodfloor
+x 15
+y 4
+end
+arch woodfloor
+x 15
+y 5
+end
+arch woodfloor
+x 15
+y 6
+end
+arch wwall_2_2_2
+x 15
+y 6
+end
+arch woodfloor
+x 15
+y 7
+end
+arch wwall_2_1_1
+x 15
+y 7
+end
+arch woodfloor
+x 15
+y 8
+end
+arch wwall_2_2_1
+x 15
+y 8
+end
+arch woodfloor
+x 15
+y 9
+end
+arch woodfloor
+x 15
+y 10
+end
+arch woodfloor
+x 15
+y 11
+end
+arch woodfloor
+x 15
+y 12
+end
+arch woodfloor
+x 15
+y 13
+end
+arch woodfloor
+x 15
+y 14
+end
+arch shop_empty
+x 15
+y 15
+end
+arch wwall_2_1_2
+x 15
+y 15
+end
+arch shop_empty
+x 15
+y 16
+end
+arch shop_potions
+x 15
+y 17
+end
+arch shop_potions
+x 15
+y 18
+end
+arch shop_potions
+x 15
+y 19
+end
+arch shop_potions
+x 15
+y 20
+end
+arch shop_minerals
+x 15
+y 21
+end
+arch shop_minerals
+x 15
+y 22
+end
+arch shop_alchemy
+x 15
+y 23
+end
+arch woodfloor
+x 15
+y 24
+end
+arch wwall_2_1_2
+x 15
+y 24
+end
+arch woodfloor
+x 16
+end
+arch wwall_2_1_2
+x 16
+end
+arch woodfloor
+x 16
+y 1
+end
+arch woodfloor
+x 16
+y 2
+end
+arch woodfloor
+x 16
+y 3
+end
+arch woodfloor
+x 16
+y 4
+end
+arch woodfloor
+x 16
+y 5
+end
+arch dungeon_magic
+x 16
+y 6
+end
+arch woodfloor
+x 16
+y 6
+end
+arch wwall_win2
+x 16
+y 6
+end
+arch grass
+x 16
+y 7
+end
+arch tree4
+x 16
+y 7
+end
+arch woodfloor
+x 16
+y 8
+end
+arch wwall_2_1_2
+x 16
+y 8
+end
+arch woodfloor
+x 16
+y 9
+end
+arch woodfloor
+x 16
+y 10
+end
+arch wwall_1_4
+x 16
+y 10
+end
+arch woodfloor
+x 16
+y 11
+end
+arch stair3_gstone_do
+slaying alclass
+hp 8
+sp 16
+x 16
+y 11
+end
+arch woodfloor
+x 16
+y 12
+end
+arch wwall_1_4
+x 16
+y 12
+end
+arch woodfloor
+x 16
+y 13
+end
+arch woodfloor
+x 16
+y 14
+end
+arch shop_empty
+x 16
+y 15
+end
+arch wwall_2_1_2
+x 16
+y 15
+end
+arch shop_empty
+x 16
+y 16
+end
+arch shop_empty
+x 16
+y 17
+end
+arch shop_empty
+x 16
+y 18
+end
+arch shop_empty
+x 16
+y 19
+end
+arch shop_empty
+x 16
+y 20
+end
+arch shop_empty
+x 16
+y 21
+end
+arch shop_alchemy
+x 16
+y 22
+end
+arch shop_alchemy
+x 16
+y 23
+end
+arch woodfloor
+x 16
+y 24
+end
+arch wwall_2_1_2
+x 16
+y 24
+end
+arch woodfloor
+x 17
+end
+arch wwall_2_2_3
+x 17
+end
+arch woodfloor
+x 17
+y 1
+end
+arch wwall_2_1_1
+x 17
+y 1
+end
+arch woodfloor
+x 17
+y 2
+end
+arch wwall_2_1_1
+x 17
+y 2
+end
+arch woodfloor
+x 17
+y 3
+end
+arch wwall_2_1_1
+x 17
+y 3
+end
+arch woodfloor
+x 17
+y 4
+end
+arch wwall_2_1_1
+x 17
+y 4
+end
+arch woodfloor
+x 17
+y 5
+end
+arch wwall_2_1_1
+x 17
+y 5
+end
+arch woodfloor
+x 17
+y 6
+end
+arch wwall_2_2_4
+x 17
+y 6
+end
+arch grass
+x 17
+y 7
+end
+arch woodfloor
+x 17
+y 8
+end
+arch wwall_2_2_3
+x 17
+y 8
+end
+arch woodfloor
+x 17
+y 9
+end
+arch wwall_2_1_1
+x 17
+y 9
+end
+arch woodfloor
+x 17
+y 10
+end
+arch wwall_3_4
+x 17
+y 10
+end
+arch woodfloor
+x 17
+y 11
+end
+arch wwall_2_1_1
+x 17
+y 11
+end
+arch woodfloor
+x 17
+y 12
+end
+arch wwall_3_4
+x 17
+y 12
+end
+arch woodfloor
+x 17
+y 13
+end
+arch wwall_2_1_1
+x 17
+y 13
+end
+arch woodfloor
+x 17
+y 14
+end
+arch wwall_2_1_1
+x 17
+y 14
+end
+arch shop_empty
+x 17
+y 15
+end
+arch wwall_3_4
+x 17
+y 15
+end
+arch shop_empty
+x 17
+y 16
+end
+arch wwall_2_1_1
+x 17
+y 16
+end
+arch shop_empty
+x 17
+y 17
+end
+arch wwall_2_1_1
+x 17
+y 17
+end
+arch shop_empty
+x 17
+y 18
+end
+arch wwall_2_1_1
+x 17
+y 18
+end
+arch shop_empty
+x 17
+y 19
+end
+arch wwall_2_1_1
+x 17
+y 19
+end
+arch shop_empty
+x 17
+y 20
+end
+arch wwall_2_1_1
+x 17
+y 20
+end
+arch shop_empty
+x 17
+y 21
+end
+arch wwall_2_1_1
+x 17
+y 21
+end
+arch shop_empty
+x 17
+y 22
+end
+arch wwall_2_1_1
+x 17
+y 22
+end
+arch shop_empty
+x 17
+y 23
+end
+arch wwall_2_1_1
+x 17
+y 23
+end
+arch woodfloor
+x 17
+y 24
+end
+arch wwall_2_2_4
+x 17
+y 24
+end

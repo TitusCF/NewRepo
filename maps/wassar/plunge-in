@@ -1,0 +1,54 @@
+arch map
+name Plunge
+region wassar
+width 3
+height 3
+enter_x 1
+enter_y 1
+msg
+Modified: 2020-08-29 Acer
+endmsg
+outdoor 1
+end
+arch deep_sea
+end
+arch sea
+y 1
+end
+arch deep_sea
+y 2
+end
+arch sea
+x 1
+end
+arch shallow_sea
+x 1
+y 1
+move_block -all
+move_allow all
+end
+arch whirlwind_exit
+slaying /wassar/city-b2
+msg
+You are plunged through water! For a second, you feel unable to breathe. The moment passes, and you feel a different atmosphere and a different world.
+endmsg
+hp 24
+sp 24
+x 1
+y 1
+end
+arch sea
+x 1
+y 2
+end
+arch deep_sea
+x 2
+end
+arch sea
+x 2
+y 1
+end
+arch deep_sea
+x 2
+y 2
+end

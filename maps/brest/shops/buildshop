@@ -1,0 +1,12883 @@
+arch map
+name Acme Inc. of Brest, First Floor
+difficulty 1
+region brest
+shopitems building material:95;item builder:95;*:-100
+shopgreed 1.00000
+shopmin 500
+shopmax 20000
+shoprace human
+width 35
+height 20
+enter_x 6
+enter_y 24
+msg
+Created:  2005-11-05 Gene Alexander
+Modified: 2021-03-03 Titus
+endmsg
+end
+arch magic_banned
+end
+arch dungeon_magic
+end
+arch unholy_ground
+end
+arch tile_white_floor
+end
+arch wwall_2_2_2
+end
+arch magic_banned
+y 1
+end
+arch dungeon_magic
+y 1
+end
+arch unholy_ground
+y 1
+end
+arch tile_white_floor
+y 1
+end
+arch wwall_3_2
+y 1
+end
+arch magic_banned
+y 2
+end
+arch dungeon_magic
+y 2
+end
+arch unholy_ground
+y 2
+end
+arch tile_white_floor
+y 2
+end
+arch wwall_2_1_1
+y 2
+end
+arch magic_banned
+y 3
+end
+arch dungeon_magic
+y 3
+end
+arch unholy_ground
+y 3
+end
+arch tile_white_floor
+y 3
+end
+arch wwall_3_2
+y 3
+end
+arch magic_banned
+y 4
+end
+arch dungeon_magic
+y 4
+end
+arch unholy_ground
+y 4
+end
+arch tile_white_floor
+y 4
+end
+arch wwall_2_1_1
+y 4
+end
+arch magic_banned
+y 5
+end
+arch dungeon_magic
+y 5
+end
+arch unholy_ground
+y 5
+end
+arch tile_white_floor
+y 5
+end
+arch wwall_3_2
+y 5
+end
+arch magic_banned
+y 6
+end
+arch dungeon_magic
+y 6
+end
+arch unholy_ground
+y 6
+end
+arch tile_white_floor
+y 6
+end
+arch wwall_2_1_1
+y 6
+end
+arch magic_banned
+y 7
+end
+arch dungeon_magic
+y 7
+end
+arch unholy_ground
+y 7
+end
+arch tile_white_floor
+y 7
+end
+arch wwall_3_2
+y 7
+end
+arch magic_banned
+y 8
+end
+arch dungeon_magic
+y 8
+end
+arch unholy_ground
+y 8
+end
+arch tile_white_floor
+y 8
+end
+arch wwall_2_1_1
+y 8
+end
+arch magic_banned
+y 9
+end
+arch dungeon_magic
+y 9
+end
+arch unholy_ground
+y 9
+end
+arch tile_white_floor
+y 9
+end
+arch wwall_3_2
+y 9
+end
+arch magic_banned
+y 10
+end
+arch dungeon_magic
+y 10
+end
+arch unholy_ground
+y 10
+end
+arch tile_white_floor
+y 10
+end
+arch wwall_2_1_1
+y 10
+end
+arch magic_banned
+y 11
+end
+arch dungeon_magic
+y 11
+end
+arch unholy_ground
+y 11
+end
+arch tile_white_floor
+y 11
+end
+arch wwall_3_2
+y 11
+end
+arch magic_banned
+y 12
+end
+arch dungeon_magic
+y 12
+end
+arch unholy_ground
+y 12
+end
+arch tile_white_floor
+y 12
+end
+arch wwall_2_1_1
+y 12
+end
+arch magic_banned
+y 13
+end
+arch dungeon_magic
+y 13
+end
+arch unholy_ground
+y 13
+end
+arch tile_white_floor
+y 13
+end
+arch wwall_3_2
+y 13
+end
+arch magic_banned
+y 14
+end
+arch dungeon_magic
+y 14
+end
+arch unholy_ground
+y 14
+end
+arch tile_white_floor
+y 14
+end
+arch wwall_2_1_1
+y 14
+end
+arch magic_banned
+y 15
+end
+arch dungeon_magic
+y 15
+end
+arch unholy_ground
+y 15
+end
+arch tile_white_floor
+y 15
+end
+arch wwall_3_2
+y 15
+end
+arch magic_banned
+y 16
+end
+arch dungeon_magic
+y 16
+end
+arch unholy_ground
+y 16
+end
+arch tile_white_floor
+y 16
+end
+arch wwall_2_1_1
+y 16
+end
+arch magic_banned
+y 17
+end
+arch dungeon_magic
+y 17
+end
+arch unholy_ground
+y 17
+end
+arch tile_white_floor
+y 17
+end
+arch wwall_3_2
+y 17
+end
+arch magic_banned
+y 18
+end
+arch dungeon_magic
+y 18
+end
+arch unholy_ground
+y 18
+end
+arch tile_white_floor
+y 18
+end
+arch wwall_2_1_1
+y 18
+end
+arch magic_banned
+y 19
+end
+arch dungeon_magic
+y 19
+end
+arch unholy_ground
+y 19
+end
+arch tile_white_floor
+y 19
+end
+arch wwall_2_2_1
+y 19
+end
+arch magic_banned
+x 1
+end
+arch dungeon_magic
+x 1
+end
+arch unholy_ground
+x 1
+end
+arch tile_white_floor
+x 1
+end
+arch wwall_3_3
+x 1
+end
+arch magic_banned
+x 1
+y 1
+end
+arch unholy_ground
+x 1
+y 1
+end
+arch dungeon_magic
+x 1
+y 1
+end
+arch shop_empty
+x 1
+y 1
+end
+arch wwall_2_2_4
+x 1
+y 1
+end
+arch magic_banned
+x 1
+y 2
+end
+arch dungeon_magic
+x 1
+y 2
+end
+arch unholy_ground
+x 1
+y 2
+end
+arch shop_empty
+x 1
+y 2
+end
+arch magic_banned
+x 1
+y 3
+end
+arch unholy_ground
+x 1
+y 3
+end
+arch dungeon_magic
+x 1
+y 3
+end
+arch shop_empty
+x 1
+y 3
+end
+arch wwall_2_1_2
+x 1
+y 3
+end
+arch magic_banned
+x 1
+y 4
+end
+arch unholy_ground
+x 1
+y 4
+end
+arch dungeon_magic
+x 1
+y 4
+end
+arch creator
+x 1
+y 4
+connected 136
+lifesave 1
+arch building_lever
+unpaid 1
+end
+end
+arch shop_empty
+x 1
+y 4
+end
+arch button_lever
+name Lever Material
+face teleporter.111
+animation teleporter
+x 1
+y 4
+connected 136
+end
+arch magic_banned
+x 1
+y 5
+end
+arch unholy_ground
+x 1
+y 5
+end
+arch dungeon_magic
+x 1
+y 5
+end
+arch shop_empty
+x 1
+y 5
+end
+arch wwall_1_3
+x 1
+y 5
+end
+arch magic_banned
+x 1
+y 6
+end
+arch unholy_ground
+x 1
+y 6
+end
+arch dungeon_magic
+x 1
+y 6
+end
+arch creator
+x 1
+y 6
+connected 166
+lifesave 1
+arch building_horizontal_gate
+unpaid 1
+end
+end
+arch shop_empty
+x 1
+y 6
+end
+arch button_lever
+name Horizontal Gate Material
+face teleporter.111
+animation teleporter
+x 1
+y 6
+connected 166
+end
+arch magic_banned
+x 1
+y 7
+end
+arch unholy_ground
+x 1
+y 7
+end
+arch dungeon_magic
+x 1
+y 7
+end
+arch shop_empty
+x 1
+y 7
+end
+arch wwall_1_3
+x 1
+y 7
+end
+arch magic_banned
+x 1
+y 8
+end
+arch unholy_ground
+x 1
+y 8
+end
+arch dungeon_magic
+x 1
+y 8
+end
+arch creator
+x 1
+y 8
+connected 164
+lifesave 1
+arch building_vertical_gate_inv
+unpaid 1
+end
+end
+arch shop_empty
+x 1
+y 8
+end
+arch button_lever
+name Verticle Inverted Gate Material
+face teleporter.111
+animation teleporter
+x 1
+y 8
+connected 164
+end
+arch magic_banned
+x 1
+y 9
+end
+arch unholy_ground
+x 1
+y 9
+end
+arch dungeon_magic
+x 1
+y 9
+end
+arch shop_empty
+x 1
+y 9
+end
+arch wwall_1_3
+x 1
+y 9
+end
+arch magic_banned
+x 1
+y 10
+end
+arch unholy_ground
+x 1
+y 10
+end
+arch dungeon_magic
+x 1
+y 10
+end
+arch creator
+x 1
+y 10
+connected 163
+lifesave 1
+arch building_vertical_gate
+unpaid 1
+end
+end
+arch shop_empty
+x 1
+y 10
+end
+arch button_lever
+name Vertical Gate Material
+face teleporter.111
+animation teleporter
+x 1
+y 10
+connected 163
+end
+arch magic_banned
+x 1
+y 11
+end
+arch unholy_ground
+x 1
+y 11
+end
+arch dungeon_magic
+x 1
+y 11
+end
+arch shop_empty
+x 1
+y 11
+end
+arch wwall_1_3
+x 1
+y 11
+end
+arch magic_banned
+x 1
+y 12
+end
+arch unholy_ground
+x 1
+y 12
+end
+arch dungeon_magic
+x 1
+y 12
+end
+arch creator
+x 1
+y 12
+connected 161
+end
+arch shop_empty
+x 1
+y 12
+end
+arch button_lever
+name Horizontal Inverted Gate Material
+face teleporter.111
+animation teleporter
+x 1
+y 12
+connected 161
+end
+arch magic_banned
+x 1
+y 13
+end
+arch unholy_ground
+x 1
+y 13
+end
+arch dungeon_magic
+x 1
+y 13
+end
+arch shop_empty
+x 1
+y 13
+end
+arch wwall_1_3
+x 1
+y 13
+end
+arch magic_banned
+x 1
+y 14
+end
+arch unholy_ground
+x 1
+y 14
+end
+arch dungeon_magic
+x 1
+y 14
+end
+arch creator
+x 1
+y 14
+connected 134
+lifesave 1
+arch building_pedestal
+unpaid 1
+end
+end
+arch shop_empty
+x 1
+y 14
+end
+arch button_lever
+name Pedestal Material
+face teleporter.111
+animation teleporter
+x 1
+y 14
+connected 134
+end
+arch magic_banned
+x 1
+y 15
+end
+arch unholy_ground
+x 1
+y 15
+end
+arch dungeon_magic
+x 1
+y 15
+end
+arch shop_empty
+x 1
+y 15
+end
+arch wwall_1_3
+x 1
+y 15
+end
+arch magic_banned
+x 1
+y 16
+end
+arch dungeon_magic
+x 1
+y 16
+end
+arch unholy_ground
+x 1
+y 16
+end
+arch shop_empty
+x 1
+y 16
+end
+arch magic_banned
+x 1
+y 17
+end
+arch unholy_ground
+x 1
+y 17
+end
+arch dungeon_magic
+x 1
+y 17
+end
+arch shop_empty
+x 1
+y 17
+end
+arch wwall_2_1_2
+x 1
+y 17
+end
+arch magic_banned
+x 1
+y 18
+end
+arch dungeon_magic
+x 1
+y 18
+end
+arch unholy_ground
+x 1
+y 18
+end
+arch shop_empty
+x 1
+y 18
+end
+arch magic_banned
+x 1
+y 19
+end
+arch dungeon_magic
+x 1
+y 19
+end
+arch unholy_ground
+x 1
+y 19
+end
+arch tile_white_floor
+x 1
+y 19
+end
+arch wwall_2_1_2
+x 1
+y 19
+end
+arch magic_banned
+x 2
+end
+arch dungeon_magic
+x 2
+end
+arch unholy_ground
+x 2
+end
+arch tile_white_floor
+x 2
+end
+arch wwall_2_1_2
+x 2
+end
+arch magic_banned
+x 2
+y 1
+end
+arch dungeon_magic
+x 2
+y 1
+end
+arch unholy_ground
+x 2
+y 1
+end
+arch shop_empty
+x 2
+y 1
+end
+arch magic_banned
+x 2
+y 2
+end
+arch dungeon_magic
+x 2
+y 2
+end
+arch unholy_ground
+x 2
+y 2
+end
+arch shop_empty
+x 2
+y 2
+end
+arch magic_banned
+x 2
+y 3
+end
+arch unholy_ground
+x 2
+y 3
+end
+arch dungeon_magic
+x 2
+y 3
+end
+arch shop_empty
+x 2
+y 3
+end
+arch wwall_2_1_2
+x 2
+y 3
+end
+arch magic_banned
+x 2
+y 4
+end
+arch unholy_ground
+x 2
+y 4
+end
+arch dungeon_magic
+x 2
+y 4
+end
+arch shop_empty
+x 2
+y 4
+end
+arch building_lever
+x 2
+y 4
+no_pick 1
+end
+arch magic_banned
+x 2
+y 5
+end
+arch unholy_ground
+x 2
+y 5
+end
+arch dungeon_magic
+x 2
+y 5
+end
+arch shop_empty
+x 2
+y 5
+end
+arch magic_banned
+x 2
+y 6
+end
+arch unholy_ground
+x 2
+y 6
+end
+arch dungeon_magic
+x 2
+y 6
+end
+arch shop_empty
+x 2
+y 6
+end
+arch building_horizontal_gate
+x 2
+y 6
+no_pick 1
+end
+arch magic_banned
+x 2
+y 7
+end
+arch unholy_ground
+x 2
+y 7
+end
+arch dungeon_magic
+x 2
+y 7
+end
+arch shop_empty
+x 2
+y 7
+end
+arch magic_banned
+x 2
+y 8
+end
+arch unholy_ground
+x 2
+y 8
+end
+arch dungeon_magic
+x 2
+y 8
+end
+arch shop_empty
+x 2
+y 8
+end
+arch building_vertical_gate_inv
+x 2
+y 8
+no_pick 1
+end
+arch magic_banned
+x 2
+y 9
+end
+arch unholy_ground
+x 2
+y 9
+end
+arch dungeon_magic
+x 2
+y 9
+end
+arch shop_empty
+x 2
+y 9
+end
+arch magic_banned
+x 2
+y 10
+end
+arch unholy_ground
+x 2
+y 10
+end
+arch dungeon_magic
+x 2
+y 10
+end
+arch shop_empty
+x 2
+y 10
+end
+arch building_vertical_gate
+x 2
+y 10
+no_pick 1
+end
+arch magic_banned
+x 2
+y 11
+end
+arch unholy_ground
+x 2
+y 11
+end
+arch dungeon_magic
+x 2
+y 11
+end
+arch shop_empty
+x 2
+y 11
+end
+arch magic_banned
+x 2
+y 12
+end
+arch unholy_ground
+x 2
+y 12
+end
+arch dungeon_magic
+x 2
+y 12
+end
+arch shop_empty
+x 2
+y 12
+end
+arch building_horizontal_gate_inv
+x 2
+y 12
+no_pick 1
+end
+arch magic_banned
+x 2
+y 13
+end
+arch unholy_ground
+x 2
+y 13
+end
+arch dungeon_magic
+x 2
+y 13
+end
+arch shop_empty
+x 2
+y 13
+end
+arch magic_banned
+x 2
+y 14
+end
+arch unholy_ground
+x 2
+y 14
+end
+arch dungeon_magic
+x 2
+y 14
+end
+arch shop_empty
+x 2
+y 14
+end
+arch building_pedestal
+x 2
+y 14
+no_pick 1
+end
+arch magic_banned
+x 2
+y 15
+end
+arch unholy_ground
+x 2
+y 15
+end
+arch dungeon_magic
+x 2
+y 15
+end
+arch shop_empty
+x 2
+y 15
+end
+arch magic_banned
+x 2
+y 16
+end
+arch dungeon_magic
+x 2
+y 16
+end
+arch unholy_ground
+x 2
+y 16
+end
+arch shop_empty
+x 2
+y 16
+end
+arch magic_banned
+x 2
+y 17
+end
+arch unholy_ground
+x 2
+y 17
+end
+arch dungeon_magic
+x 2
+y 17
+end
+arch shop_empty
+x 2
+y 17
+end
+arch wwall_2_2_3
+x 2
+y 17
+end
+arch magic_banned
+x 2
+y 18
+end
+arch dungeon_magic
+x 2
+y 18
+end
+arch unholy_ground
+x 2
+y 18
+end
+arch shop_empty
+x 2
+y 18
+end
+arch wwall_2_1_1
+x 2
+y 18
+end
+arch magic_banned
+x 2
+y 19
+end
+arch dungeon_magic
+x 2
+y 19
+end
+arch unholy_ground
+x 2
+y 19
+end
+arch tile_white_floor
+x 2
+y 19
+end
+arch wwall_3_1
+x 2
+y 19
+end
+arch magic_banned
+x 3
+end
+arch dungeon_magic
+x 3
+end
+arch unholy_ground
+x 3
+end
+arch tile_white_floor
+x 3
+end
+arch wwall_3_3
+x 3
+end
+arch magic_banned
+x 3
+y 1
+end
+arch unholy_ground
+x 3
+y 1
+end
+arch dungeon_magic
+x 3
+y 1
+end
+arch shop_empty
+x 3
+y 1
+end
+arch wwall_2_1_1
+x 3
+y 1
+end
+arch magic_banned
+x 3
+y 2
+end
+arch unholy_ground
+x 3
+y 2
+end
+arch dungeon_magic
+x 3
+y 2
+end
+arch shop_empty
+x 3
+y 2
+end
+arch wwall_2_1_1
+x 3
+y 2
+end
+arch magic_banned
+x 3
+y 3
+end
+arch unholy_ground
+x 3
+y 3
+end
+arch dungeon_magic
+x 3
+y 3
+end
+arch shop_empty
+x 3
+y 3
+end
+arch wwall_2_2_4
+x 3
+y 3
+end
+arch magic_banned
+x 3
+y 4
+end
+arch unholy_ground
+x 3
+y 4
+end
+arch dungeon_magic
+x 3
+y 4
+end
+arch shop_empty
+x 3
+y 4
+end
+arch magic_banned
+x 3
+y 5
+end
+arch unholy_ground
+x 3
+y 5
+end
+arch dungeon_magic
+x 3
+y 5
+end
+arch shop_empty
+x 3
+y 5
+end
+arch magic_banned
+x 3
+y 6
+end
+arch unholy_ground
+x 3
+y 6
+end
+arch dungeon_magic
+x 3
+y 6
+end
+arch shop_empty
+x 3
+y 6
+end
+arch magic_banned
+x 3
+y 7
+end
+arch unholy_ground
+x 3
+y 7
+end
+arch dungeon_magic
+x 3
+y 7
+end
+arch shop_empty
+x 3
+y 7
+end
+arch magic_banned
+x 3
+y 8
+end
+arch unholy_ground
+x 3
+y 8
+end
+arch dungeon_magic
+x 3
+y 8
+end
+arch shop_empty
+x 3
+y 8
+end
+arch magic_banned
+x 3
+y 9
+end
+arch unholy_ground
+x 3
+y 9
+end
+arch dungeon_magic
+x 3
+y 9
+end
+arch shop_empty
+x 3
+y 9
+end
+arch magic_banned
+x 3
+y 10
+end
+arch unholy_ground
+x 3
+y 10
+end
+arch dungeon_magic
+x 3
+y 10
+end
+arch shop_empty
+x 3
+y 10
+end
+arch magic_banned
+x 3
+y 11
+end
+arch unholy_ground
+x 3
+y 11
+end
+arch dungeon_magic
+x 3
+y 11
+end
+arch shop_empty
+x 3
+y 11
+end
+arch magic_banned
+x 3
+y 12
+end
+arch unholy_ground
+x 3
+y 12
+end
+arch dungeon_magic
+x 3
+y 12
+end
+arch shop_empty
+x 3
+y 12
+end
+arch magic_banned
+x 3
+y 13
+end
+arch unholy_ground
+x 3
+y 13
+end
+arch dungeon_magic
+x 3
+y 13
+end
+arch shop_empty
+x 3
+y 13
+end
+arch magic_banned
+x 3
+y 14
+end
+arch unholy_ground
+x 3
+y 14
+end
+arch dungeon_magic
+x 3
+y 14
+end
+arch shop_empty
+x 3
+y 14
+end
+arch magic_banned
+x 3
+y 15
+end
+arch unholy_ground
+x 3
+y 15
+end
+arch dungeon_magic
+x 3
+y 15
+end
+arch shop_empty
+x 3
+y 15
+end
+arch magic_banned
+x 3
+y 16
+end
+arch unholy_ground
+x 3
+y 16
+end
+arch dungeon_magic
+x 3
+y 16
+end
+arch shop_empty
+x 3
+y 16
+end
+arch magic_banned
+x 3
+y 17
+end
+arch unholy_ground
+x 3
+y 17
+end
+arch dungeon_magic
+x 3
+y 17
+end
+arch shop_empty
+x 3
+y 17
+end
+arch building_bed_save
+x 3
+y 17
+no_pick 1
+end
+arch magic_banned
+x 3
+y 18
+end
+arch unholy_ground
+x 3
+y 18
+end
+arch dungeon_magic
+x 3
+y 18
+end
+arch creator
+x 3
+y 18
+connected 142
+lifesave 1
+arch building_bed_save
+unpaid 1
+end
+end
+arch shop_empty
+x 3
+y 18
+end
+arch button_lever
+name Bed of Reality Material
+face teleporter.111
+animation teleporter
+x 3
+y 18
+connected 142
+end
+arch magic_banned
+x 3
+y 19
+end
+arch dungeon_magic
+x 3
+y 19
+end
+arch unholy_ground
+x 3
+y 19
+end
+arch tile_white_floor
+x 3
+y 19
+end
+arch wwall_weak_2
+x 3
+y 19
+end
+arch magic_banned
+x 4
+end
+arch dungeon_magic
+x 4
+end
+arch unholy_ground
+x 4
+end
+arch tile_white_floor
+x 4
+end
+arch wwall_2_1_2
+x 4
+end
+arch magic_banned
+x 4
+y 1
+end
+arch unholy_ground
+x 4
+y 1
+end
+arch dungeon_magic
+x 4
+y 1
+end
+arch creator
+x 4
+y 1
+connected 143
+lifesave 1
+arch building_altar
+unpaid 1
+end
+end
+arch shop_empty
+x 4
+y 1
+end
+arch button_lever
+name Altar Material
+face teleporter.111
+animation teleporter
+x 4
+y 1
+connected 143
+end
+arch magic_banned
+x 4
+y 2
+end
+arch unholy_ground
+x 4
+y 2
+end
+arch dungeon_magic
+x 4
+y 2
+end
+arch shop_empty
+x 4
+y 2
+end
+arch building_altar
+x 4
+y 2
+no_pick 1
+end
+arch magic_banned
+x 4
+y 3
+end
+arch unholy_ground
+x 4
+y 3
+end
+arch dungeon_magic
+x 4
+y 3
+end
+arch shop_empty
+x 4
+y 3
+end
+arch magic_banned
+x 4
+y 4
+end
+arch unholy_ground
+x 4
+y 4
+end
+arch dungeon_magic
+x 4
+y 4
+end
+arch shop_empty
+x 4
+y 4
+end
+arch magic_banned
+x 4
+y 5
+end
+arch unholy_ground
+x 4
+y 5
+end
+arch dungeon_magic
+x 4
+y 5
+end
+arch shop_empty
+x 4
+y 5
+end
+arch magic_banned
+x 4
+y 6
+end
+arch unholy_ground
+x 4
+y 6
+end
+arch dungeon_magic
+x 4
+y 6
+end
+arch shop_empty
+x 4
+y 6
+end
+arch magic_banned
+x 4
+y 7
+end
+arch unholy_ground
+x 4
+y 7
+end
+arch dungeon_magic
+x 4
+y 7
+end
+arch shop_empty
+x 4
+y 7
+end
+arch magic_banned
+x 4
+y 8
+end
+arch unholy_ground
+x 4
+y 8
+end
+arch dungeon_magic
+x 4
+y 8
+end
+arch shop_empty
+x 4
+y 8
+end
+arch magic_banned
+x 4
+y 9
+end
+arch unholy_ground
+x 4
+y 9
+end
+arch dungeon_magic
+x 4
+y 9
+end
+arch shop_empty
+x 4
+y 9
+end
+arch magic_banned
+x 4
+y 10
+end
+arch unholy_ground
+x 4
+y 10
+end
+arch dungeon_magic
+x 4
+y 10
+end
+arch shop_empty
+x 4
+y 10
+end
+arch magic_banned
+x 4
+y 11
+end
+arch unholy_ground
+x 4
+y 11
+end
+arch dungeon_magic
+x 4
+y 11
+end
+arch shop_empty
+x 4
+y 11
+end
+arch magic_banned
+x 4
+y 12
+end
+arch unholy_ground
+x 4
+y 12
+end
+arch dungeon_magic
+x 4
+y 12
+end
+arch shop_empty
+x 4
+y 12
+end
+arch magic_banned
+x 4
+y 13
+end
+arch unholy_ground
+x 4
+y 13
+end
+arch dungeon_magic
+x 4
+y 13
+end
+arch shop_empty
+x 4
+y 13
+end
+arch magic_banned
+x 4
+y 14
+end
+arch unholy_ground
+x 4
+y 14
+end
+arch dungeon_magic
+x 4
+y 14
+end
+arch shop_empty
+x 4
+y 14
+end
+arch magic_banned
+x 4
+y 15
+end
+arch unholy_ground
+x 4
+y 15
+end
+arch dungeon_magic
+x 4
+y 15
+end
+arch shop_empty
+x 4
+y 15
+end
+arch magic_banned
+x 4
+y 16
+end
+arch unholy_ground
+x 4
+y 16
+end
+arch dungeon_magic
+x 4
+y 16
+end
+arch shop_empty
+x 4
+y 16
+end
+arch magic_banned
+x 4
+y 17
+end
+arch unholy_ground
+x 4
+y 17
+end
+arch dungeon_magic
+x 4
+y 17
+end
+arch shop_empty
+x 4
+y 17
+end
+arch magic_banned
+x 4
+y 18
+end
+arch unholy_ground
+x 4
+y 18
+end
+arch dungeon_magic
+x 4
+y 18
+end
+arch shop_empty
+x 4
+y 18
+end
+arch wwall_1_1
+x 4
+y 18
+end
+arch magic_banned
+x 4
+y 19
+end
+arch dungeon_magic
+x 4
+y 19
+end
+arch unholy_ground
+x 4
+y 19
+end
+arch tile_white_floor
+x 4
+y 19
+end
+arch wwall_3_1
+x 4
+y 19
+end
+arch magic_banned
+x 5
+end
+arch dungeon_magic
+x 5
+end
+arch unholy_ground
+x 5
+end
+arch tile_white_floor
+x 5
+end
+arch wwall_3_3
+x 5
+end
+arch magic_banned
+x 5
+y 1
+end
+arch unholy_ground
+x 5
+y 1
+end
+arch dungeon_magic
+x 5
+y 1
+end
+arch shop_empty
+x 5
+y 1
+end
+arch wwall_1_2
+x 5
+y 1
+end
+arch magic_banned
+x 5
+y 2
+end
+arch unholy_ground
+x 5
+y 2
+end
+arch dungeon_magic
+x 5
+y 2
+end
+arch shop_empty
+x 5
+y 2
+end
+arch magic_banned
+x 5
+y 3
+end
+arch unholy_ground
+x 5
+y 3
+end
+arch dungeon_magic
+x 5
+y 3
+end
+arch shop_empty
+x 5
+y 3
+end
+arch magic_banned
+x 5
+y 4
+end
+arch dungeon_magic
+x 5
+y 4
+end
+arch unholy_ground
+x 5
+y 4
+end
+arch shop_empty
+x 5
+y 4
+end
+arch magic_banned
+x 5
+y 5
+end
+arch unholy_ground
+x 5
+y 5
+end
+arch dungeon_magic
+x 5
+y 5
+end
+arch shop_empty
+x 5
+y 5
+end
+arch magic_banned
+x 5
+y 6
+end
+arch dungeon_magic
+x 5
+y 6
+end
+arch unholy_ground
+x 5
+y 6
+end
+arch shop_empty
+x 5
+y 6
+end
+arch magic_banned
+x 5
+y 7
+end
+arch unholy_ground
+x 5
+y 7
+end
+arch dungeon_magic
+x 5
+y 7
+end
+arch shop_empty
+x 5
+y 7
+end
+arch magic_banned
+x 5
+y 8
+end
+arch dungeon_magic
+x 5
+y 8
+end
+arch unholy_ground
+x 5
+y 8
+end
+arch shop_empty
+x 5
+y 8
+end
+arch magic_banned
+x 5
+y 9
+end
+arch unholy_ground
+x 5
+y 9
+end
+arch dungeon_magic
+x 5
+y 9
+end
+arch shop_empty
+x 5
+y 9
+end
+arch magic_banned
+x 5
+y 10
+end
+arch dungeon_magic
+x 5
+y 10
+end
+arch unholy_ground
+x 5
+y 10
+end
+arch shop_empty
+x 5
+y 10
+end
+arch magic_banned
+x 5
+y 11
+end
+arch unholy_ground
+x 5
+y 11
+end
+arch dungeon_magic
+x 5
+y 11
+end
+arch shop_empty
+x 5
+y 11
+end
+arch magic_banned
+x 5
+y 12
+end
+arch dungeon_magic
+x 5
+y 12
+end
+arch unholy_ground
+x 5
+y 12
+end
+arch shop_empty
+x 5
+y 12
+end
+arch magic_banned
+x 5
+y 13
+end
+arch unholy_ground
+x 5
+y 13
+end
+arch dungeon_magic
+x 5
+y 13
+end
+arch shop_empty
+x 5
+y 13
+end
+arch magic_banned
+x 5
+y 14
+end
+arch dungeon_magic
+x 5
+y 14
+end
+arch unholy_ground
+x 5
+y 14
+end
+arch shop_empty
+x 5
+y 14
+end
+arch magic_banned
+x 5
+y 15
+end
+arch unholy_ground
+x 5
+y 15
+end
+arch dungeon_magic
+x 5
+y 15
+end
+arch shop_empty
+x 5
+y 15
+end
+arch magic_banned
+x 5
+y 16
+end
+arch unholy_ground
+x 5
+y 16
+end
+arch dungeon_magic
+x 5
+y 16
+end
+arch shop_empty
+x 5
+y 16
+end
+arch magic_banned
+x 5
+y 17
+end
+arch unholy_ground
+x 5
+y 17
+end
+arch dungeon_magic
+x 5
+y 17
+end
+arch shop_empty
+x 5
+y 17
+end
+arch building_swall
+x 5
+y 17
+no_pick 1
+end
+arch magic_banned
+x 5
+y 18
+end
+arch unholy_ground
+x 5
+y 18
+end
+arch dungeon_magic
+x 5
+y 18
+end
+arch creator
+x 5
+y 18
+connected 149
+lifesave 1
+arch building_swall
+unpaid 1
+end
+end
+arch shop_empty
+x 5
+y 18
+end
+arch button_lever
+name Fence Material
+face teleporter.111
+animation teleporter
+x 5
+y 18
+connected 149
+end
+arch magic_banned
+x 5
+y 19
+end
+arch dungeon_magic
+x 5
+y 19
+end
+arch unholy_ground
+x 5
+y 19
+end
+arch tile_white_floor
+x 5
+y 19
+end
+arch wwall_weak_2
+x 5
+y 19
+end
+arch magic_banned
+x 6
+end
+arch dungeon_magic
+x 6
+end
+arch unholy_ground
+x 6
+end
+arch tile_white_floor
+x 6
+end
+arch wwall_2_1_2
+x 6
+end
+arch magic_banned
+x 6
+y 1
+end
+arch unholy_ground
+x 6
+y 1
+end
+arch dungeon_magic
+x 6
+y 1
+end
+arch creator
+x 6
+y 1
+connected 141
+lifesave 1
+activate_on_push 0
+arch building_brazier
+unpaid 1
+end
+end
+arch shop_empty
+x 6
+y 1
+end
+arch button_lever
+name Brazier Material
+face teleporter.111
+animation teleporter
+x 6
+y 1
+connected 141
+end
+arch magic_banned
+x 6
+y 2
+end
+arch unholy_ground
+x 6
+y 2
+end
+arch dungeon_magic
+x 6
+y 2
+end
+arch shop_empty
+x 6
+y 2
+end
+arch building_brazier
+x 6
+y 2
+no_pick 1
+end
+arch magic_banned
+x 6
+y 3
+end
+arch unholy_ground
+x 6
+y 3
+end
+arch dungeon_magic
+x 6
+y 3
+end
+arch shop_empty
+x 6
+y 3
+end
+arch magic_banned
+x 6
+y 4
+end
+arch dungeon_magic
+x 6
+y 4
+end
+arch unholy_ground
+x 6
+y 4
+end
+arch shop_empty
+x 6
+y 4
+end
+arch magic_banned
+x 6
+y 5
+end
+arch unholy_ground
+x 6
+y 5
+end
+arch dungeon_magic
+x 6
+y 5
+end
+arch shop_empty
+x 6
+y 5
+end
+arch magic_banned
+x 6
+y 6
+end
+arch dungeon_magic
+x 6
+y 6
+end
+arch unholy_ground
+x 6
+y 6
+end
+arch shop_empty
+x 6
+y 6
+end
+arch magic_banned
+x 6
+y 7
+end
+arch unholy_ground
+x 6
+y 7
+end
+arch dungeon_magic
+x 6
+y 7
+end
+arch shop_empty
+x 6
+y 7
+end
+arch magic_banned
+x 6
+y 8
+end
+arch dungeon_magic
+x 6
+y 8
+end
+arch unholy_ground
+x 6
+y 8
+end
+arch shop_empty
+x 6
+y 8
+end
+arch magic_banned
+x 6
+y 9
+end
+arch unholy_ground
+x 6
+y 9
+end
+arch dungeon_magic
+x 6
+y 9
+end
+arch shop_empty
+x 6
+y 9
+end
+arch magic_banned
+x 6
+y 10
+end
+arch dungeon_magic
+x 6
+y 10
+end
+arch unholy_ground
+x 6
+y 10
+end
+arch shop_empty
+x 6
+y 10
+end
+arch magic_banned
+x 6
+y 11
+end
+arch unholy_ground
+x 6
+y 11
+end
+arch dungeon_magic
+x 6
+y 11
+end
+arch shop_empty
+x 6
+y 11
+end
+arch magic_banned
+x 6
+y 12
+end
+arch dungeon_magic
+x 6
+y 12
+end
+arch unholy_ground
+x 6
+y 12
+end
+arch shop_empty
+x 6
+y 12
+end
+arch magic_banned
+x 6
+y 13
+end
+arch unholy_ground
+x 6
+y 13
+end
+arch dungeon_magic
+x 6
+y 13
+end
+arch shop_empty
+x 6
+y 13
+end
+arch magic_banned
+x 6
+y 14
+end
+arch dungeon_magic
+x 6
+y 14
+end
+arch unholy_ground
+x 6
+y 14
+end
+arch shop_empty
+x 6
+y 14
+end
+arch magic_banned
+x 6
+y 15
+end
+arch unholy_ground
+x 6
+y 15
+end
+arch dungeon_magic
+x 6
+y 15
+end
+arch shop_empty
+x 6
+y 15
+end
+arch magic_banned
+x 6
+y 16
+end
+arch unholy_ground
+x 6
+y 16
+end
+arch dungeon_magic
+x 6
+y 16
+end
+arch shop_empty
+x 6
+y 16
+end
+arch magic_banned
+x 6
+y 17
+end
+arch unholy_ground
+x 6
+y 17
+end
+arch dungeon_magic
+x 6
+y 17
+end
+arch shop_empty
+x 6
+y 17
+end
+arch magic_banned
+x 6
+y 18
+end
+arch unholy_ground
+x 6
+y 18
+end
+arch dungeon_magic
+x 6
+y 18
+end
+arch shop_empty
+x 6
+y 18
+end
+arch wwall_1_1
+x 6
+y 18
+end
+arch magic_banned
+x 6
+y 19
+end
+arch dungeon_magic
+x 6
+y 19
+end
+arch unholy_ground
+x 6
+y 19
+end
+arch tile_white_floor
+x 6
+y 19
+end
+arch wwall_3_1
+x 6
+y 19
+end
+arch magic_banned
+x 7
+end
+arch dungeon_magic
+x 7
+end
+arch unholy_ground
+x 7
+end
+arch tile_white_floor
+x 7
+end
+arch wwall_3_3
+x 7
+end
+arch magic_banned
+x 7
+y 1
+end
+arch unholy_ground
+x 7
+y 1
+end
+arch dungeon_magic
+x 7
+y 1
+end
+arch shop_empty
+x 7
+y 1
+end
+arch wwall_1_2
+x 7
+y 1
+end
+arch magic_banned
+x 7
+y 2
+end
+arch unholy_ground
+x 7
+y 2
+end
+arch dungeon_magic
+x 7
+y 2
+end
+arch shop_empty
+x 7
+y 2
+end
+arch magic_banned
+x 7
+y 3
+end
+arch unholy_ground
+x 7
+y 3
+end
+arch dungeon_magic
+x 7
+y 3
+end
+arch shop_empty
+x 7
+y 3
+end
+arch magic_banned
+x 7
+y 4
+end
+arch unholy_ground
+x 7
+y 4
+end
+arch dungeon_magic
+x 7
+y 4
+end
+arch shop_empty
+x 7
+y 4
+end
+arch magic_banned
+x 7
+y 5
+end
+arch unholy_ground
+x 7
+y 5
+end
+arch dungeon_magic
+x 7
+y 5
+end
+arch shop_empty
+x 7
+y 5
+end
+arch magic_banned
+x 7
+y 6
+end
+arch unholy_ground
+x 7
+y 6
+end
+arch dungeon_magic
+x 7
+y 6
+end
+arch shop_empty
+x 7
+y 6
+end
+arch magic_banned
+x 7
+y 7
+end
+arch unholy_ground
+x 7
+y 7
+end
+arch dungeon_magic
+x 7
+y 7
+end
+arch shop_empty
+x 7
+y 7
+end
+arch magic_banned
+x 7
+y 8
+end
+arch unholy_ground
+x 7
+y 8
+end
+arch dungeon_magic
+x 7
+y 8
+end
+arch shop_empty
+x 7
+y 8
+end
+arch magic_banned
+x 7
+y 9
+end
+arch unholy_ground
+x 7
+y 9
+end
+arch dungeon_magic
+x 7
+y 9
+end
+arch shop_empty
+x 7
+y 9
+end
+arch magic_banned
+x 7
+y 10
+end
+arch unholy_ground
+x 7
+y 10
+end
+arch dungeon_magic
+x 7
+y 10
+end
+arch shop_empty
+x 7
+y 10
+end
+arch magic_banned
+x 7
+y 11
+end
+arch unholy_ground
+x 7
+y 11
+end
+arch dungeon_magic
+x 7
+y 11
+end
+arch shop_empty
+x 7
+y 11
+end
+arch magic_banned
+x 7
+y 12
+end
+arch unholy_ground
+x 7
+y 12
+end
+arch dungeon_magic
+x 7
+y 12
+end
+arch shop_empty
+x 7
+y 12
+end
+arch magic_banned
+x 7
+y 13
+end
+arch unholy_ground
+x 7
+y 13
+end
+arch dungeon_magic
+x 7
+y 13
+end
+arch shop_empty
+x 7
+y 13
+end
+arch magic_banned
+x 7
+y 14
+end
+arch unholy_ground
+x 7
+y 14
+end
+arch dungeon_magic
+x 7
+y 14
+end
+arch shop_empty
+x 7
+y 14
+end
+arch magic_banned
+x 7
+y 15
+end
+arch unholy_ground
+x 7
+y 15
+end
+arch dungeon_magic
+x 7
+y 15
+end
+arch shop_empty
+x 7
+y 15
+end
+arch magic_banned
+x 7
+y 16
+end
+arch unholy_ground
+x 7
+y 16
+end
+arch dungeon_magic
+x 7
+y 16
+end
+arch shop_empty
+x 7
+y 16
+end
+arch magic_banned
+x 7
+y 17
+end
+arch unholy_ground
+x 7
+y 17
+end
+arch dungeon_magic
+x 7
+y 17
+end
+arch shop_empty
+x 7
+y 17
+end
+arch building_window
+x 7
+y 17
+no_pick 1
+end
+arch magic_banned
+x 7
+y 18
+end
+arch unholy_ground
+x 7
+y 18
+end
+arch dungeon_magic
+x 7
+y 18
+end
+arch creator
+x 7
+y 18
+connected 165
+lifesave 1
+arch building_window
+unpaid 1
+end
+end
+arch shop_empty
+x 7
+y 18
+end
+arch button_lever
+name Window Material
+face teleporter.111
+animation teleporter
+x 7
+y 18
+connected 165
+end
+arch magic_banned
+x 7
+y 19
+end
+arch dungeon_magic
+x 7
+y 19
+end
+arch unholy_ground
+x 7
+y 19
+end
+arch tile_white_floor
+x 7
+y 19
+end
+arch wwall_weak_2
+x 7
+y 19
+end
+arch magic_banned
+x 8
+end
+arch dungeon_magic
+x 8
+end
+arch unholy_ground
+x 8
+end
+arch tile_white_floor
+x 8
+end
+arch wwall_2_1_2
+x 8
+end
+arch magic_banned
+x 8
+y 1
+end
+arch unholy_ground
+x 8
+y 1
+end
+arch dungeon_magic
+x 8
+y 1
+end
+arch creator
+x 8
+y 1
+connected 139
+lifesave 1
+arch building_fireplace
+unpaid 1
+end
+end
+arch shop_empty
+x 8
+y 1
+end
+arch button_lever
+name Fireplace Material
+face teleporter.111
+animation teleporter
+x 8
+y 1
+connected 139
+end
+arch magic_banned
+x 8
+y 2
+end
+arch unholy_ground
+x 8
+y 2
+end
+arch dungeon_magic
+x 8
+y 2
+end
+arch shop_empty
+x 8
+y 2
+end
+arch building_fireplace
+x 8
+y 2
+no_pick 1
+end
+arch magic_banned
+x 8
+y 3
+end
+arch unholy_ground
+x 8
+y 3
+end
+arch dungeon_magic
+x 8
+y 3
+end
+arch shop_empty
+x 8
+y 3
+end
+arch magic_banned
+x 8
+y 4
+end
+arch unholy_ground
+x 8
+y 4
+end
+arch dungeon_magic
+x 8
+y 4
+end
+arch shop_empty
+x 8
+y 4
+end
+arch unholy_ground
+x 8
+y 5
+end
+arch magic_banned
+x 8
+y 5
+end
+arch dungeon_magic
+x 8
+y 5
+end
+arch shop_empty
+x 8
+y 5
+end
+arch wwall_1_4
+x 8
+y 5
+end
+arch unholy_ground
+x 8
+y 6
+end
+arch magic_banned
+x 8
+y 6
+end
+arch dungeon_magic
+x 8
+y 6
+end
+arch shop_empty
+x 8
+y 6
+end
+arch unholy_ground
+x 8
+y 7
+end
+arch magic_banned
+x 8
+y 7
+end
+arch dungeon_magic
+x 8
+y 7
+end
+arch shop_empty
+x 8
+y 7
+end
+arch unholy_ground
+x 8
+y 8
+end
+arch magic_banned
+x 8
+y 8
+end
+arch dungeon_magic
+x 8
+y 8
+end
+arch shop_empty
+x 8
+y 8
+end
+arch unholy_ground
+x 8
+y 9
+end
+arch magic_banned
+x 8
+y 9
+end
+arch dungeon_magic
+x 8
+y 9
+end
+arch shop_empty
+x 8
+y 9
+end
+arch wwall_2_2_2
+x 8
+y 9
+end
+arch unholy_ground
+x 8
+y 10
+end
+arch magic_banned
+x 8
+y 10
+end
+arch dungeon_magic
+x 8
+y 10
+end
+arch shop_empty
+x 8
+y 10
+end
+arch wwall_1_2
+x 8
+y 10
+end
+arch unholy_ground
+x 8
+y 11
+end
+arch magic_banned
+x 8
+y 11
+end
+arch dungeon_magic
+x 8
+y 11
+end
+arch shop_empty
+x 8
+y 11
+end
+arch unholy_ground
+x 8
+y 12
+end
+arch magic_banned
+x 8
+y 12
+end
+arch dungeon_magic
+x 8
+y 12
+end
+arch shop_empty
+x 8
+y 12
+end
+arch unholy_ground
+x 8
+y 13
+end
+arch magic_banned
+x 8
+y 13
+end
+arch dungeon_magic
+x 8
+y 13
+end
+arch shop_empty
+x 8
+y 13
+end
+arch unholy_ground
+x 8
+y 14
+end
+arch magic_banned
+x 8
+y 14
+end
+arch dungeon_magic
+x 8
+y 14
+end
+arch shop_empty
+x 8
+y 14
+end
+arch unholy_ground
+x 8
+y 15
+end
+arch magic_banned
+x 8
+y 15
+end
+arch dungeon_magic
+x 8
+y 15
+end
+arch shop_empty
+x 8
+y 15
+end
+arch magic_banned
+x 8
+y 16
+end
+arch unholy_ground
+x 8
+y 16
+end
+arch dungeon_magic
+x 8
+y 16
+end
+arch shop_empty
+x 8
+y 16
+end
+arch magic_banned
+x 8
+y 17
+end
+arch unholy_ground
+x 8
+y 17
+end
+arch dungeon_magic
+x 8
+y 17
+end
+arch shop_empty
+x 8
+y 17
+end
+arch magic_banned
+x 8
+y 18
+end
+arch unholy_ground
+x 8
+y 18
+end
+arch dungeon_magic
+x 8
+y 18
+end
+arch shop_empty
+x 8
+y 18
+end
+arch wwall_1_1
+x 8
+y 18
+end
+arch magic_banned
+x 8
+y 19
+end
+arch dungeon_magic
+x 8
+y 19
+end
+arch unholy_ground
+x 8
+y 19
+end
+arch tile_white_floor
+x 8
+y 19
+end
+arch wwall_3_1
+x 8
+y 19
+end
+arch magic_banned
+x 9
+end
+arch dungeon_magic
+x 9
+end
+arch unholy_ground
+x 9
+end
+arch tile_white_floor
+x 9
+end
+arch wwall_3_3
+x 9
+end
+arch magic_banned
+x 9
+y 1
+end
+arch unholy_ground
+x 9
+y 1
+end
+arch dungeon_magic
+x 9
+y 1
+end
+arch shop_empty
+x 9
+y 1
+end
+arch wwall_1_2
+x 9
+y 1
+end
+arch magic_banned
+x 9
+y 2
+end
+arch unholy_ground
+x 9
+y 2
+end
+arch dungeon_magic
+x 9
+y 2
+end
+arch shop_empty
+x 9
+y 2
+end
+arch magic_banned
+x 9
+y 3
+end
+arch unholy_ground
+x 9
+y 3
+end
+arch dungeon_magic
+x 9
+y 3
+end
+arch shop_empty
+x 9
+y 3
+end
+arch magic_banned
+x 9
+y 4
+end
+arch unholy_ground
+x 9
+y 4
+end
+arch dungeon_magic
+x 9
+y 4
+end
+arch shop_empty
+x 9
+y 4
+end
+arch unholy_ground
+x 9
+y 5
+end
+arch magic_banned
+x 9
+y 5
+end
+arch dungeon_magic
+x 9
+y 5
+end
+arch shop_empty
+x 9
+y 5
+end
+arch wwall_2_1_2
+x 9
+y 5
+end
+arch unholy_ground
+x 9
+y 6
+end
+arch magic_banned
+x 9
+y 6
+end
+arch dungeon_magic
+x 9
+y 6
+end
+arch shop_empty
+x 9
+y 6
+end
+arch unholy_ground
+x 9
+y 7
+end
+arch magic_banned
+x 9
+y 7
+end
+arch dungeon_magic
+x 9
+y 7
+end
+arch shop_empty
+x 9
+y 7
+end
+arch unholy_ground
+x 9
+y 8
+end
+arch magic_banned
+x 9
+y 8
+end
+arch dungeon_magic
+x 9
+y 8
+end
+arch shop_empty
+x 9
+y 8
+end
+arch unholy_ground
+x 9
+y 9
+end
+arch magic_banned
+x 9
+y 9
+end
+arch dungeon_magic
+x 9
+y 9
+end
+arch shop_empty
+x 9
+y 9
+end
+arch wwall_win2
+x 9
+y 9
+end
+arch unholy_ground
+x 9
+y 10
+end
+arch magic_banned
+x 9
+y 10
+end
+arch dungeon_magic
+x 9
+y 10
+end
+arch creator
+x 9
+y 10
+connected 146
+lifesave 1
+arch building_kitchen_stove
+unpaid 1
+end
+end
+arch shop_empty
+x 9
+y 10
+end
+arch button_lever
+name Kitchen Stove Material
+face teleporter.111
+animation teleporter
+x 9
+y 10
+connected 146
+end
+arch unholy_ground
+x 9
+y 11
+end
+arch magic_banned
+x 9
+y 11
+end
+arch dungeon_magic
+x 9
+y 11
+end
+arch shop_empty
+x 9
+y 11
+end
+arch building_kitchen_stove
+x 9
+y 11
+no_pick 1
+end
+arch unholy_ground
+x 9
+y 12
+end
+arch magic_banned
+x 9
+y 12
+end
+arch dungeon_magic
+x 9
+y 12
+end
+arch shop_empty
+x 9
+y 12
+end
+arch unholy_ground
+x 9
+y 13
+end
+arch magic_banned
+x 9
+y 13
+end
+arch dungeon_magic
+x 9
+y 13
+end
+arch shop_empty
+x 9
+y 13
+end
+arch unholy_ground
+x 9
+y 14
+end
+arch magic_banned
+x 9
+y 14
+end
+arch dungeon_magic
+x 9
+y 14
+end
+arch shop_empty
+x 9
+y 14
+end
+arch unholy_ground
+x 9
+y 15
+end
+arch magic_banned
+x 9
+y 15
+end
+arch dungeon_magic
+x 9
+y 15
+end
+arch shop_empty
+x 9
+y 15
+end
+arch magic_banned
+x 9
+y 16
+end
+arch unholy_ground
+x 9
+y 16
+end
+arch dungeon_magic
+x 9
+y 16
+end
+arch shop_empty
+x 9
+y 16
+end
+arch magic_banned
+x 9
+y 17
+end
+arch unholy_ground
+x 9
+y 17
+end
+arch dungeon_magic
+x 9
+y 17
+end
+arch shop_empty
+x 9
+y 17
+end
+arch building_pedestal
+x 9
+y 17
+no_pick 1
+end
+arch building_mouthbook
+x 9
+y 17
+no_pick 1
+end
+arch magic_banned
+x 9
+y 18
+end
+arch unholy_ground
+x 9
+y 18
+end
+arch dungeon_magic
+x 9
+y 18
+end
+arch creator
+x 9
+y 18
+connected 135
+lifesave 1
+arch building_mouthbook
+unpaid 1
+end
+end
+arch shop_empty
+x 9
+y 18
+end
+arch button_lever
+name Talking Book Material
+face teleporter.111
+animation teleporter
+x 9
+y 18
+connected 135
+end
+arch magic_banned
+x 9
+y 19
+end
+arch dungeon_magic
+x 9
+y 19
+end
+arch unholy_ground
+x 9
+y 19
+end
+arch tile_white_floor
+x 9
+y 19
+end
+arch wwall_weak_2
+x 9
+y 19
+end
+arch magic_banned
+x 10
+end
+arch dungeon_magic
+x 10
+end
+arch unholy_ground
+x 10
+end
+arch tile_white_floor
+x 10
+end
+arch wwall_2_1_2
+x 10
+end
+arch magic_banned
+x 10
+y 1
+end
+arch unholy_ground
+x 10
+y 1
+end
+arch dungeon_magic
+x 10
+y 1
+end
+arch creator
+x 10
+y 1
+connected 138
+lifesave 1
+arch building_firepot
+unpaid 1
+end
+end
+arch shop_empty
+x 10
+y 1
+end
+arch button_lever
+name Firepot Material
+face teleporter.111
+animation teleporter
+x 10
+y 1
+connected 138
+end
+arch magic_banned
+x 10
+y 2
+end
+arch unholy_ground
+x 10
+y 2
+end
+arch dungeon_magic
+x 10
+y 2
+end
+arch shop_empty
+x 10
+y 2
+end
+arch building_firepot
+x 10
+y 2
+no_pick 1
+end
+arch magic_banned
+x 10
+y 3
+end
+arch unholy_ground
+x 10
+y 3
+end
+arch dungeon_magic
+x 10
+y 3
+end
+arch shop_empty
+x 10
+y 3
+end
+arch magic_banned
+x 10
+y 4
+end
+arch dungeon_magic
+x 10
+y 4
+end
+arch unholy_ground
+x 10
+y 4
+end
+arch shop_empty
+x 10
+y 4
+end
+arch unholy_ground
+x 10
+y 5
+end
+arch magic_banned
+x 10
+y 5
+end
+arch dungeon_magic
+x 10
+y 5
+end
+arch shop_empty
+x 10
+y 5
+end
+arch wwall_2_1_2
+x 10
+y 5
+end
+arch unholy_ground
+x 10
+y 6
+end
+arch magic_banned
+x 10
+y 6
+end
+arch dungeon_magic
+x 10
+y 6
+end
+arch shop_empty
+x 10
+y 6
+end
+arch unholy_ground
+x 10
+y 7
+end
+arch magic_banned
+x 10
+y 7
+end
+arch dungeon_magic
+x 10
+y 7
+end
+arch shop_empty
+x 10
+y 7
+end
+arch unholy_ground
+x 10
+y 8
+end
+arch magic_banned
+x 10
+y 8
+end
+arch dungeon_magic
+x 10
+y 8
+end
+arch shop_empty
+x 10
+y 8
+end
+arch unholy_ground
+x 10
+y 9
+end
+arch magic_banned
+x 10
+y 9
+end
+arch dungeon_magic
+x 10
+y 9
+end
+arch shop_empty
+x 10
+y 9
+end
+arch wwall_3_3
+x 10
+y 9
+end
+arch unholy_ground
+x 10
+y 10
+end
+arch magic_banned
+x 10
+y 10
+end
+arch dungeon_magic
+x 10
+y 10
+end
+arch shop_empty
+x 10
+y 10
+end
+arch wwall_1_2
+x 10
+y 10
+end
+arch unholy_ground
+x 10
+y 11
+end
+arch magic_banned
+x 10
+y 11
+end
+arch dungeon_magic
+x 10
+y 11
+end
+arch shop_empty
+x 10
+y 11
+end
+arch unholy_ground
+x 10
+y 12
+end
+arch magic_banned
+x 10
+y 12
+end
+arch dungeon_magic
+x 10
+y 12
+end
+arch shop_empty
+x 10
+y 12
+end
+arch unholy_ground
+x 10
+y 13
+end
+arch magic_banned
+x 10
+y 13
+end
+arch dungeon_magic
+x 10
+y 13
+end
+arch shop_empty
+x 10
+y 13
+end
+arch unholy_ground
+x 10
+y 14
+end
+arch magic_banned
+x 10
+y 14
+end
+arch dungeon_magic
+x 10
+y 14
+end
+arch shop_empty
+x 10
+y 14
+end
+arch unholy_ground
+x 10
+y 15
+end
+arch magic_banned
+x 10
+y 15
+end
+arch dungeon_magic
+x 10
+y 15
+end
+arch shop_empty
+x 10
+y 15
+end
+arch magic_banned
+x 10
+y 16
+end
+arch unholy_ground
+x 10
+y 16
+end
+arch dungeon_magic
+x 10
+y 16
+end
+arch shop_empty
+x 10
+y 16
+end
+arch magic_banned
+x 10
+y 17
+end
+arch unholy_ground
+x 10
+y 17
+end
+arch dungeon_magic
+x 10
+y 17
+end
+arch shop_empty
+x 10
+y 17
+end
+arch magic_banned
+x 10
+y 18
+end
+arch unholy_ground
+x 10
+y 18
+end
+arch dungeon_magic
+x 10
+y 18
+end
+arch shop_empty
+x 10
+y 18
+end
+arch wwall_1_1
+x 10
+y 18
+end
+arch button_lever
+x 10
+y 18
+end
+arch magic_banned
+x 10
+y 19
+end
+arch dungeon_magic
+x 10
+y 19
+end
+arch unholy_ground
+x 10
+y 19
+end
+arch tile_white_floor
+x 10
+y 19
+end
+arch wwall_3_1
+x 10
+y 19
+end
+arch magic_banned
+x 11
+end
+arch dungeon_magic
+x 11
+end
+arch unholy_ground
+x 11
+end
+arch tile_white_floor
+x 11
+end
+arch wwall_3_3
+x 11
+end
+arch magic_banned
+x 11
+y 1
+end
+arch unholy_ground
+x 11
+y 1
+end
+arch dungeon_magic
+x 11
+y 1
+end
+arch shop_empty
+x 11
+y 1
+end
+arch wwall_1_2
+x 11
+y 1
+end
+arch magic_banned
+x 11
+y 2
+end
+arch unholy_ground
+x 11
+y 2
+end
+arch dungeon_magic
+x 11
+y 2
+end
+arch shop_empty
+x 11
+y 2
+end
+arch magic_banned
+x 11
+y 3
+end
+arch unholy_ground
+x 11
+y 3
+end
+arch dungeon_magic
+x 11
+y 3
+end
+arch shop_empty
+x 11
+y 3
+end
+arch magic_banned
+x 11
+y 4
+end
+arch dungeon_magic
+x 11
+y 4
+end
+arch unholy_ground
+x 11
+y 4
+end
+arch shop_empty
+x 11
+y 4
+end
+arch unholy_ground
+x 11
+y 5
+end
+arch magic_banned
+x 11
+y 5
+end
+arch dungeon_magic
+x 11
+y 5
+end
+arch shop_empty
+x 11
+y 5
+end
+arch wwall_2_1_2
+x 11
+y 5
+end
+arch unholy_ground
+x 11
+y 6
+end
+arch magic_banned
+x 11
+y 6
+end
+arch dungeon_magic
+x 11
+y 6
+end
+arch shop_empty
+x 11
+y 6
+end
+arch unholy_ground
+x 11
+y 7
+end
+arch magic_banned
+x 11
+y 7
+end
+arch dungeon_magic
+x 11
+y 7
+end
+arch shop_empty
+x 11
+y 7
+end
+arch unholy_ground
+x 11
+y 8
+end
+arch magic_banned
+x 11
+y 8
+end
+arch dungeon_magic
+x 11
+y 8
+end
+arch shop_empty
+x 11
+y 8
+end
+arch unholy_ground
+x 11
+y 9
+end
+arch magic_banned
+x 11
+y 9
+end
+arch dungeon_magic
+x 11
+y 9
+end
+arch shop_empty
+x 11
+y 9
+end
+arch wwall_win2
+x 11
+y 9
+end
+arch unholy_ground
+x 11
+y 10
+end
+arch magic_banned
+x 11
+y 10
+end
+arch dungeon_magic
+x 11
+y 10
+end
+arch creator
+x 11
+y 10
+connected 147
+lifesave 1
+arch building_jeweler_bench
+unpaid 1
+end
+end
+arch shop_empty
+x 11
+y 10
+end
+arch button_lever
+name Jeweler Bench Material
+face teleporter.111
+animation teleporter
+x 11
+y 10
+connected 147
+end
+arch unholy_ground
+x 11
+y 11
+end
+arch magic_banned
+x 11
+y 11
+end
+arch dungeon_magic
+x 11
+y 11
+end
+arch shop_empty
+x 11
+y 11
+end
+arch building_jeweler_bench
+x 11
+y 11
+no_pick 1
+end
+arch unholy_ground
+x 11
+y 12
+end
+arch magic_banned
+x 11
+y 12
+end
+arch dungeon_magic
+x 11
+y 12
+end
+arch shop_empty
+x 11
+y 12
+end
+arch unholy_ground
+x 11
+y 13
+end
+arch magic_banned
+x 11
+y 13
+end
+arch dungeon_magic
+x 11
+y 13
+end
+arch shop_empty
+x 11
+y 13
+end
+arch unholy_ground
+x 11
+y 14
+end
+arch magic_banned
+x 11
+y 14
+end
+arch dungeon_magic
+x 11
+y 14
+end
+arch shop_empty
+x 11
+y 14
+end
+arch unholy_ground
+x 11
+y 15
+end
+arch magic_banned
+x 11
+y 15
+end
+arch dungeon_magic
+x 11
+y 15
+end
+arch shop_empty
+x 11
+y 15
+end
+arch magic_banned
+x 11
+y 16
+end
+arch unholy_ground
+x 11
+y 16
+end
+arch dungeon_magic
+x 11
+y 16
+end
+arch shop_empty
+x 11
+y 16
+end
+arch magic_banned
+x 11
+y 17
+end
+arch unholy_ground
+x 11
+y 17
+end
+arch dungeon_magic
+x 11
+y 17
+end
+arch shop_empty
+x 11
+y 17
+end
+arch building_earbook
+x 11
+y 17
+no_pick 1
+end
+arch magic_banned
+x 11
+y 18
+end
+arch unholy_ground
+x 11
+y 18
+end
+arch dungeon_magic
+x 11
+y 18
+end
+arch creator
+x 11
+y 18
+connected 140
+lifesave 1
+arch building_earbook
+unpaid 1
+end
+end
+arch shop_empty
+x 11
+y 18
+end
+arch button_lever
+name Listening Book Material
+face teleporter.111
+animation teleporter
+x 11
+y 18
+connected 140
+end
+arch magic_banned
+x 11
+y 19
+end
+arch dungeon_magic
+x 11
+y 19
+end
+arch unholy_ground
+x 11
+y 19
+end
+arch tile_white_floor
+x 11
+y 19
+end
+arch wwall_weak_2
+x 11
+y 19
+end
+arch magic_banned
+x 12
+end
+arch dungeon_magic
+x 12
+end
+arch unholy_ground
+x 12
+end
+arch tile_white_floor
+x 12
+end
+arch wwall_2_1_2
+x 12
+end
+arch magic_banned
+x 12
+y 1
+end
+arch unholy_ground
+x 12
+y 1
+end
+arch dungeon_magic
+x 12
+y 1
+end
+arch creator
+x 12
+y 1
+connected 137
+lifesave 1
+arch building_fountain
+unpaid 1
+end
+end
+arch shop_empty
+x 12
+y 1
+end
+arch button_lever
+name Fountain Material
+face teleporter.111
+animation teleporter
+x 12
+y 1
+connected 137
+end
+arch magic_banned
+x 12
+y 2
+end
+arch unholy_ground
+x 12
+y 2
+end
+arch dungeon_magic
+x 12
+y 2
+end
+arch shop_empty
+x 12
+y 2
+end
+arch building_fountain
+x 12
+y 2
+no_pick 1
+end
+arch magic_banned
+x 12
+y 3
+end
+arch unholy_ground
+x 12
+y 3
+end
+arch dungeon_magic
+x 12
+y 3
+end
+arch shop_empty
+x 12
+y 3
+end
+arch magic_banned
+x 12
+y 4
+end
+arch unholy_ground
+x 12
+y 4
+end
+arch dungeon_magic
+x 12
+y 4
+end
+arch shop_empty
+x 12
+y 4
+end
+arch unholy_ground
+x 12
+y 5
+end
+arch magic_banned
+x 12
+y 5
+end
+arch dungeon_magic
+x 12
+y 5
+end
+arch shop_empty
+x 12
+y 5
+end
+arch wwall_2_1_2
+x 12
+y 5
+end
+arch unholy_ground
+x 12
+y 6
+end
+arch magic_banned
+x 12
+y 6
+end
+arch dungeon_magic
+x 12
+y 6
+end
+arch shop_empty
+x 12
+y 6
+end
+arch unholy_ground
+x 12
+y 7
+end
+arch magic_banned
+x 12
+y 7
+end
+arch dungeon_magic
+x 12
+y 7
+end
+arch shop_empty
+x 12
+y 7
+end
+arch unholy_ground
+x 12
+y 8
+end
+arch magic_banned
+x 12
+y 8
+end
+arch dungeon_magic
+x 12
+y 8
+end
+arch shop_empty
+x 12
+y 8
+end
+arch unholy_ground
+x 12
+y 9
+end
+arch magic_banned
+x 12
+y 9
+end
+arch dungeon_magic
+x 12
+y 9
+end
+arch shop_empty
+x 12
+y 9
+end
+arch wwall_3_3
+x 12
+y 9
+end
+arch unholy_ground
+x 12
+y 10
+end
+arch magic_banned
+x 12
+y 10
+end
+arch dungeon_magic
+x 12
+y 10
+end
+arch shop_empty
+x 12
+y 10
+end
+arch wwall_1_2
+x 12
+y 10
+end
+arch unholy_ground
+x 12
+y 11
+end
+arch magic_banned
+x 12
+y 11
+end
+arch dungeon_magic
+x 12
+y 11
+end
+arch shop_empty
+x 12
+y 11
+end
+arch unholy_ground
+x 12
+y 12
+end
+arch magic_banned
+x 12
+y 12
+end
+arch dungeon_magic
+x 12
+y 12
+end
+arch shop_empty
+x 12
+y 12
+end
+arch unholy_ground
+x 12
+y 13
+end
+arch magic_banned
+x 12
+y 13
+end
+arch dungeon_magic
+x 12
+y 13
+end
+arch shop_empty
+x 12
+y 13
+end
+arch unholy_ground
+x 12
+y 14
+end
+arch magic_banned
+x 12
+y 14
+end
+arch dungeon_magic
+x 12
+y 14
+end
+arch shop_empty
+x 12
+y 14
+end
+arch unholy_ground
+x 12
+y 15
+end
+arch magic_banned
+x 12
+y 15
+end
+arch dungeon_magic
+x 12
+y 15
+end
+arch dungeon_magic
+x 12
+y 15
+end
+arch shop_empty
+x 12
+y 15
+end
+arch magic_banned
+x 12
+y 16
+end
+arch unholy_ground
+x 12
+y 16
+end
+arch dungeon_magic
+x 12
+y 16
+end
+arch shop_empty
+x 12
+y 16
+end
+arch magic_banned
+x 12
+y 17
+end
+arch unholy_ground
+x 12
+y 17
+end
+arch dungeon_magic
+x 12
+y 17
+end
+arch shop_empty
+x 12
+y 17
+end
+arch magic_banned
+x 12
+y 18
+end
+arch unholy_ground
+x 12
+y 18
+end
+arch dungeon_magic
+x 12
+y 18
+end
+arch shop_empty
+x 12
+y 18
+end
+arch wwall_1_1
+x 12
+y 18
+end
+arch magic_banned
+x 12
+y 19
+end
+arch dungeon_magic
+x 12
+y 19
+end
+arch unholy_ground
+x 12
+y 19
+end
+arch tile_white_floor
+x 12
+y 19
+end
+arch wwall_3_1
+x 12
+y 19
+end
+arch magic_banned
+x 13
+end
+arch dungeon_magic
+x 13
+end
+arch unholy_ground
+x 13
+end
+arch tile_white_floor
+x 13
+end
+arch wwall_3_3
+x 13
+end
+arch wwall_3_3
+x 13
+end
+arch magic_banned
+x 13
+y 1
+end
+arch unholy_ground
+x 13
+y 1
+end
+arch dungeon_magic
+x 13
+y 1
+end
+arch shop_empty
+x 13
+y 1
+end
+arch wwall_1_2
+x 13
+y 1
+end
+arch magic_banned
+x 13
+y 2
+end
+arch unholy_ground
+x 13
+y 2
+end
+arch dungeon_magic
+x 13
+y 2
+end
+arch shop_empty
+x 13
+y 2
+end
+arch magic_banned
+x 13
+y 3
+end
+arch unholy_ground
+x 13
+y 3
+end
+arch dungeon_magic
+x 13
+y 3
+end
+arch shop_empty
+x 13
+y 3
+end
+arch magic_banned
+x 13
+y 4
+end
+arch dungeon_magic
+x 13
+y 4
+end
+arch unholy_ground
+x 13
+y 4
+end
+arch shop_empty
+x 13
+y 4
+end
+arch unholy_ground
+x 13
+y 5
+end
+arch magic_banned
+x 13
+y 5
+end
+arch dungeon_magic
+x 13
+y 5
+end
+arch shop_empty
+x 13
+y 5
+end
+arch wwall_2_1_2
+x 13
+y 5
+end
+arch unholy_ground
+x 13
+y 6
+end
+arch magic_banned
+x 13
+y 6
+end
+arch dungeon_magic
+x 13
+y 6
+end
+arch shop_empty
+x 13
+y 6
+end
+arch unholy_ground
+x 13
+y 7
+end
+arch magic_banned
+x 13
+y 7
+end
+arch dungeon_magic
+x 13
+y 7
+end
+arch shop_empty
+x 13
+y 7
+end
+arch unholy_ground
+x 13
+y 8
+end
+arch magic_banned
+x 13
+y 8
+end
+arch dungeon_magic
+x 13
+y 8
+end
+arch shop_empty
+x 13
+y 8
+end
+arch unholy_ground
+x 13
+y 9
+end
+arch magic_banned
+x 13
+y 9
+end
+arch dungeon_magic
+x 13
+y 9
+end
+arch shop_empty
+x 13
+y 9
+end
+arch wwall_win2
+x 13
+y 9
+end
+arch unholy_ground
+x 13
+y 10
+end
+arch magic_banned
+x 13
+y 10
+end
+arch dungeon_magic
+x 13
+y 10
+end
+arch creator
+x 13
+y 10
+connected 148
+lifesave 1
+arch building_forge
+unpaid 1
+end
+end
+arch shop_empty
+x 13
+y 10
+end
+arch button_lever
+name Forge Material
+face teleporter.111
+animation teleporter
+x 13
+y 10
+connected 148
+end
+arch unholy_ground
+x 13
+y 11
+end
+arch magic_banned
+x 13
+y 11
+end
+arch dungeon_magic
+x 13
+y 11
+end
+arch shop_empty
+x 13
+y 11
+end
+arch building_forge
+x 13
+y 11
+no_pick 1
+end
+arch unholy_ground
+x 13
+y 12
+end
+arch magic_banned
+x 13
+y 12
+end
+arch dungeon_magic
+x 13
+y 12
+end
+arch shop_empty
+x 13
+y 12
+end
+arch unholy_ground
+x 13
+y 13
+end
+arch magic_banned
+x 13
+y 13
+end
+arch dungeon_magic
+x 13
+y 13
+end
+arch shop_empty
+x 13
+y 13
+end
+arch unholy_ground
+x 13
+y 14
+end
+arch magic_banned
+x 13
+y 14
+end
+arch dungeon_magic
+x 13
+y 14
+end
+arch shop_empty
+x 13
+y 14
+end
+arch unholy_ground
+x 13
+y 15
+end
+arch magic_banned
+x 13
+y 15
+end
+arch dungeon_magic
+x 13
+y 15
+end
+arch shop_empty
+x 13
+y 15
+end
+arch magic_banned
+x 13
+y 16
+end
+arch unholy_ground
+x 13
+y 16
+end
+arch dungeon_magic
+x 13
+y 16
+end
+arch shop_empty
+x 13
+y 16
+end
+arch magic_banned
+x 13
+y 17
+end
+arch unholy_ground
+x 13
+y 17
+end
+arch dungeon_magic
+x 13
+y 17
+end
+arch shop_empty
+x 13
+y 17
+end
+arch building_sign
+x 13
+y 17
+no_pick 1
+end
+arch magic_banned
+x 13
+y 18
+end
+arch unholy_ground
+x 13
+y 18
+end
+arch dungeon_magic
+x 13
+y 18
+end
+arch creator
+x 13
+y 18
+connected 162
+lifesave 1
+arch building_sign
+unpaid 1
+end
+end
+arch shop_empty
+x 13
+y 18
+end
+arch button_lever
+name Sign Material
+face teleporter.111
+animation teleporter
+x 13
+y 18
+connected 162
+end
+arch magic_banned
+x 13
+y 19
+end
+arch dungeon_magic
+x 13
+y 19
+end
+arch unholy_ground
+x 13
+y 19
+end
+arch tile_white_floor
+x 13
+y 19
+end
+arch wwall_weak_2
+x 13
+y 19
+end
+arch magic_banned
+x 14
+end
+arch dungeon_magic
+x 14
+end
+arch unholy_ground
+x 14
+end
+arch tile_white_floor
+x 14
+end
+arch wwall_2_1_2
+x 14
+end
+arch magic_banned
+x 14
+y 1
+end
+arch unholy_ground
+x 14
+y 1
+end
+arch dungeon_magic
+x 14
+y 1
+end
+arch creator
+x 14
+y 1
+connected 128
+lifesave 1
+arch building_stair_up
+unpaid 1
+end
+end
+arch shop_empty
+x 14
+y 1
+end
+arch button_lever
+name Stairs Going Up Material
+face teleporter.111
+animation teleporter
+x 14
+y 1
+connected 128
+end
+arch magic_banned
+x 14
+y 2
+end
+arch unholy_ground
+x 14
+y 2
+end
+arch dungeon_magic
+x 14
+y 2
+end
+arch shop_empty
+x 14
+y 2
+end
+arch building_stair_up
+x 14
+y 2
+no_pick 1
+end
+arch magic_banned
+x 14
+y 3
+end
+arch unholy_ground
+x 14
+y 3
+end
+arch dungeon_magic
+x 14
+y 3
+end
+arch shop_empty
+x 14
+y 3
+end
+arch magic_banned
+x 14
+y 4
+end
+arch dungeon_magic
+x 14
+y 4
+end
+arch unholy_ground
+x 14
+y 4
+end
+arch shop_empty
+x 14
+y 4
+end
+arch unholy_ground
+x 14
+y 5
+end
+arch magic_banned
+x 14
+y 5
+end
+arch dungeon_magic
+x 14
+y 5
+end
+arch shop_empty
+x 14
+y 5
+end
+arch wwall_2_1_2
+x 14
+y 5
+end
+arch unholy_ground
+x 14
+y 6
+end
+arch magic_banned
+x 14
+y 6
+end
+arch dungeon_magic
+x 14
+y 6
+end
+arch shop_empty
+x 14
+y 6
+end
+arch unholy_ground
+x 14
+y 7
+end
+arch magic_banned
+x 14
+y 7
+end
+arch dungeon_magic
+x 14
+y 7
+end
+arch shop_empty
+x 14
+y 7
+end
+arch unholy_ground
+x 14
+y 8
+end
+arch magic_banned
+x 14
+y 8
+end
+arch dungeon_magic
+x 14
+y 8
+end
+arch shop_empty
+x 14
+y 8
+end
+arch unholy_ground
+x 14
+y 9
+end
+arch magic_banned
+x 14
+y 9
+end
+arch dungeon_magic
+x 14
+y 9
+end
+arch shop_empty
+x 14
+y 9
+end
+arch wwall_3_3
+x 14
+y 9
+end
+arch unholy_ground
+x 14
+y 10
+end
+arch magic_banned
+x 14
+y 10
+end
+arch dungeon_magic
+x 14
+y 10
+end
+arch shop_empty
+x 14
+y 10
+end
+arch wwall_1_2
+x 14
+y 10
+end
+arch unholy_ground
+x 14
+y 11
+end
+arch magic_banned
+x 14
+y 11
+end
+arch dungeon_magic
+x 14
+y 11
+end
+arch shop_empty
+x 14
+y 11
+end
+arch unholy_ground
+x 14
+y 12
+end
+arch magic_banned
+x 14
+y 12
+end
+arch dungeon_magic
+x 14
+y 12
+end
+arch shop_empty
+x 14
+y 12
+end
+arch unholy_ground
+x 14
+y 13
+end
+arch magic_banned
+x 14
+y 13
+end
+arch dungeon_magic
+x 14
+y 13
+end
+arch shop_empty
+x 14
+y 13
+end
+arch unholy_ground
+x 14
+y 14
+end
+arch magic_banned
+x 14
+y 14
+end
+arch dungeon_magic
+x 14
+y 14
+end
+arch shop_empty
+x 14
+y 14
+end
+arch unholy_ground
+x 14
+y 15
+end
+arch magic_banned
+x 14
+y 15
+end
+arch dungeon_magic
+x 14
+y 15
+end
+arch shop_empty
+x 14
+y 15
+end
+arch magic_banned
+x 14
+y 16
+end
+arch unholy_ground
+x 14
+y 16
+end
+arch dungeon_magic
+x 14
+y 16
+end
+arch shop_empty
+x 14
+y 16
+end
+arch magic_banned
+x 14
+y 17
+end
+arch unholy_ground
+x 14
+y 17
+end
+arch dungeon_magic
+x 14
+y 17
+end
+arch shop_empty
+x 14
+y 17
+end
+arch magic_banned
+x 14
+y 18
+end
+arch unholy_ground
+x 14
+y 18
+end
+arch dungeon_magic
+x 14
+y 18
+end
+arch shop_empty
+x 14
+y 18
+end
+arch wwall_1_1
+x 14
+y 18
+end
+arch magic_banned
+x 14
+y 19
+end
+arch dungeon_magic
+x 14
+y 19
+end
+arch unholy_ground
+x 14
+y 19
+end
+arch tile_white_floor
+x 14
+y 19
+end
+arch wwall_3_1
+x 14
+y 19
+end
+arch magic_banned
+x 15
+end
+arch dungeon_magic
+x 15
+end
+arch unholy_ground
+x 15
+end
+arch tile_white_floor
+x 15
+end
+arch wwall_3_3
+x 15
+end
+arch magic_banned
+x 15
+y 1
+end
+arch unholy_ground
+x 15
+y 1
+end
+arch dungeon_magic
+x 15
+y 1
+end
+arch shop_empty
+x 15
+y 1
+end
+arch wwall_1_2
+x 15
+y 1
+end
+arch magic_banned
+x 15
+y 2
+end
+arch unholy_ground
+x 15
+y 2
+end
+arch dungeon_magic
+x 15
+y 2
+end
+arch shop_empty
+x 15
+y 2
+end
+arch sign
+name Frontier Only!
+msg
+
+endmsg
+x 15
+y 2
+end
+arch magic_banned
+x 15
+y 3
+end
+arch unholy_ground
+x 15
+y 3
+end
+arch dungeon_magic
+x 15
+y 3
+end
+arch shop_empty
+x 15
+y 3
+end
+arch magic_banned
+x 15
+y 4
+end
+arch unholy_ground
+x 15
+y 4
+end
+arch dungeon_magic
+x 15
+y 4
+end
+arch shop_empty
+x 15
+y 4
+end
+arch unholy_ground
+x 15
+y 5
+end
+arch magic_banned
+x 15
+y 5
+end
+arch dungeon_magic
+x 15
+y 5
+end
+arch shop_empty
+x 15
+y 5
+end
+arch wwall_2_1_2
+x 15
+y 5
+end
+arch unholy_ground
+x 15
+y 6
+end
+arch magic_banned
+x 15
+y 6
+end
+arch dungeon_magic
+x 15
+y 6
+end
+arch shop_empty
+x 15
+y 6
+end
+arch unholy_ground
+x 15
+y 7
+end
+arch magic_banned
+x 15
+y 7
+end
+arch dungeon_magic
+x 15
+y 7
+end
+arch shop_empty
+x 15
+y 7
+end
+arch unholy_ground
+x 15
+y 8
+end
+arch magic_banned
+x 15
+y 8
+end
+arch dungeon_magic
+x 15
+y 8
+end
+arch shop_empty
+x 15
+y 8
+end
+arch unholy_ground
+x 15
+y 9
+end
+arch magic_banned
+x 15
+y 9
+end
+arch dungeon_magic
+x 15
+y 9
+end
+arch shop_empty
+x 15
+y 9
+end
+arch wwall_2_2_3
+x 15
+y 9
+end
+arch unholy_ground
+x 15
+y 10
+end
+arch magic_banned
+x 15
+y 10
+end
+arch dungeon_magic
+x 15
+y 10
+end
+arch shop_empty
+x 15
+y 10
+end
+arch wwall_2_1_1
+x 15
+y 10
+end
+arch unholy_ground
+x 15
+y 11
+end
+arch magic_banned
+x 15
+y 11
+end
+arch dungeon_magic
+x 15
+y 11
+end
+arch shop_empty
+x 15
+y 11
+end
+arch wwall_2_1_1
+x 15
+y 11
+end
+arch unholy_ground
+x 15
+y 12
+end
+arch magic_banned
+x 15
+y 12
+end
+arch dungeon_magic
+x 15
+y 12
+end
+arch shop_empty
+x 15
+y 12
+end
+arch wwall_2_1_1
+x 15
+y 12
+end
+arch unholy_ground
+x 15
+y 13
+end
+arch magic_banned
+x 15
+y 13
+end
+arch dungeon_magic
+x 15
+y 13
+end
+arch shop_empty
+x 15
+y 13
+end
+arch wwall_2_1_1
+x 15
+y 13
+end
+arch unholy_ground
+x 15
+y 14
+end
+arch magic_banned
+x 15
+y 14
+end
+arch dungeon_magic
+x 15
+y 14
+end
+arch tile_white_floor
+x 15
+y 14
+end
+arch wwall_3_2
+x 15
+y 14
+end
+arch unholy_ground
+x 15
+y 15
+end
+arch magic_banned
+x 15
+y 15
+end
+arch dungeon_magic
+x 15
+y 15
+end
+arch tile_white_floor
+x 15
+y 15
+end
+arch wwall_win1
+x 15
+y 15
+end
+arch magic_banned
+x 15
+y 16
+end
+arch dungeon_magic
+x 15
+y 16
+end
+arch unholy_ground
+x 15
+y 16
+end
+arch tile_white_floor
+x 15
+y 16
+end
+arch wwall_win1
+x 15
+y 16
+end
+arch magic_banned
+x 15
+y 17
+end
+arch dungeon_magic
+x 15
+y 17
+end
+arch unholy_ground
+x 15
+y 17
+end
+arch tile_white_floor
+x 15
+y 17
+end
+arch wwall_2_1_1
+x 15
+y 17
+end
+arch magic_banned
+x 15
+y 18
+end
+arch dungeon_magic
+x 15
+y 18
+end
+arch unholy_ground
+x 15
+y 18
+end
+arch tile_white_floor
+x 15
+y 18
+end
+arch wwall_2_1_1
+x 15
+y 18
+end
+arch magic_banned
+x 15
+y 19
+end
+arch dungeon_magic
+x 15
+y 19
+end
+arch unholy_ground
+x 15
+y 19
+end
+arch tile_white_floor
+x 15
+y 19
+end
+arch wwall_3_1
+x 15
+y 19
+end
+arch magic_banned
+x 16
+end
+arch dungeon_magic
+x 16
+end
+arch unholy_ground
+x 16
+end
+arch tile_white_floor
+x 16
+end
+arch wwall_2_1_2
+x 16
+end
+arch magic_banned
+x 16
+y 1
+end
+arch unholy_ground
+x 16
+y 1
+end
+arch dungeon_magic
+x 16
+y 1
+end
+arch creator
+x 16
+y 1
+connected 127
+lifesave 1
+arch building_stair_down
+unpaid 1
+end
+end
+arch shop_empty
+x 16
+y 1
+end
+arch button_lever
+name Stairs Going Down Material
+face teleporter.111
+animation teleporter
+x 16
+y 1
+connected 127
+end
+arch magic_banned
+x 16
+y 2
+end
+arch unholy_ground
+x 16
+y 2
+end
+arch dungeon_magic
+x 16
+y 2
+end
+arch shop_empty
+x 16
+y 2
+end
+arch building_stair_down
+x 16
+y 2
+no_pick 1
+end
+arch magic_banned
+x 16
+y 3
+end
+arch unholy_ground
+x 16
+y 3
+end
+arch dungeon_magic
+x 16
+y 3
+end
+arch shop_empty
+x 16
+y 3
+end
+arch magic_banned
+x 16
+y 4
+end
+arch unholy_ground
+x 16
+y 4
+end
+arch dungeon_magic
+x 16
+y 4
+end
+arch shop_empty
+x 16
+y 4
+end
+arch wwall_2_2_2
+x 16
+y 4
+end
+arch unholy_ground
+x 16
+y 5
+end
+arch magic_banned
+x 16
+y 5
+end
+arch dungeon_magic
+x 16
+y 5
+end
+arch shop_empty
+x 16
+y 5
+end
+arch wwall_2_2_4
+x 16
+y 5
+end
+arch unholy_ground
+x 16
+y 6
+end
+arch magic_banned
+x 16
+y 6
+end
+arch dungeon_magic
+x 16
+y 6
+end
+arch shop_empty
+x 16
+y 6
+end
+arch unholy_ground
+x 16
+y 7
+end
+arch magic_banned
+x 16
+y 7
+end
+arch dungeon_magic
+x 16
+y 7
+end
+arch shop_empty
+x 16
+y 7
+end
+arch unholy_ground
+x 16
+y 8
+end
+arch magic_banned
+x 16
+y 8
+end
+arch dungeon_magic
+x 16
+y 8
+end
+arch shop_empty
+x 16
+y 8
+end
+arch unholy_ground
+x 16
+y 9
+end
+arch magic_banned
+x 16
+y 9
+end
+arch dungeon_magic
+x 16
+y 9
+end
+arch dungeon_magic
+x 16
+y 9
+end
+arch shop_empty
+x 16
+y 9
+end
+arch unholy_ground
+x 16
+y 10
+end
+arch magic_banned
+x 16
+y 10
+end
+arch dungeon_magic
+x 16
+y 10
+end
+arch shop_empty
+x 16
+y 10
+end
+arch unholy_ground
+x 16
+y 11
+end
+arch magic_banned
+x 16
+y 11
+end
+arch dungeon_magic
+x 16
+y 11
+end
+arch shop_empty
+x 16
+y 11
+end
+arch unholy_ground
+x 16
+y 12
+end
+arch magic_banned
+x 16
+y 12
+end
+arch dungeon_magic
+x 16
+y 12
+end
+arch shop_empty
+x 16
+y 12
+end
+arch unholy_ground
+x 16
+y 13
+end
+arch magic_banned
+x 16
+y 13
+end
+arch dungeon_magic
+x 16
+y 13
+end
+arch shop_empty
+x 16
+y 13
+end
+arch unholy_ground
+x 16
+y 14
+end
+arch magic_banned
+x 16
+y 14
+end
+arch dungeon_magic
+x 16
+y 14
+end
+arch tile_white_floor
+x 16
+y 14
+end
+arch wwall_2_1_2
+x 16
+y 14
+end
+arch unholy_ground
+x 16
+y 15
+end
+arch magic_banned
+x 16
+y 15
+end
+arch dungeon_magic
+x 16
+y 15
+end
+arch tile_white_floor
+x 16
+y 15
+end
+arch book_read
+name Building floor and walls
+msg
+Building enables you to put walls and floors where you want.
+Building a floor lets you remove walls. This is the only way to remove them.
+You can change an existing floor by building another on top. Same goes for walls.
+All created floors are magic, and will preserve items you put on them.
+endmsg
+x 16
+y 15
+material 0
+no_pick 1
+identified 1
+end
+arch magic_banned
+x 16
+y 16
+end
+arch dungeon_magic
+x 16
+y 16
+end
+arch unholy_ground
+x 16
+y 16
+end
+arch tile_white_floor
+x 16
+y 16
+end
+arch book_read
+name Removing items
+msg
+To remove built items, you need a 'generic destroyer'.
+Simply apply it, and fire in the desired direction. It will remove the first built item from the location.
+Warning: a destroyer will remove items starting from the lowest order on the spot. Basically, this means the first removed item will be a pedestal (underground), then items on floor.
+Note that the destroyer will not remove walls or floors.
+endmsg
+x 16
+y 16
+material 0
+no_pick 1
+identified 1
+end
+arch magic_banned
+x 16
+y 17
+end
+arch dungeon_magic
+x 16
+y 17
+end
+arch unholy_ground
+x 16
+y 17
+end
+arch tile_white_floor
+x 16
+y 17
+end
+arch sign
+msg
+Welcome to Acme. Inc construction shop!
+You will find here everything you need to build your own customized structures!
+Make sure to read our documentation on how to build efficiently.
+Don't forget to check out The Frontier!
+endmsg
+x 16
+y 17
+end
+arch magic_banned
+x 16
+y 18
+end
+arch dungeon_magic
+x 16
+y 18
+end
+arch unholy_ground
+x 16
+y 18
+end
+arch tile_white_floor
+x 16
+y 18
+end
+arch magic_banned
+x 16
+y 19
+end
+arch dungeon_magic
+x 16
+y 19
+end
+arch unholy_ground
+x 16
+y 19
+end
+arch tile_white_floor
+x 16
+y 19
+end
+arch wwall_2_1_2
+x 16
+y 19
+end
+arch magic_banned
+x 17
+end
+arch dungeon_magic
+x 17
+end
+arch unholy_ground
+x 17
+end
+arch tile_white_floor
+x 17
+end
+arch wwall_3_3
+x 17
+end
+arch magic_banned
+x 17
+y 1
+end
+arch unholy_ground
+x 17
+y 1
+end
+arch dungeon_magic
+x 17
+y 1
+end
+arch shop_empty
+x 17
+y 1
+end
+arch wwall_2_1_1
+x 17
+y 1
+end
+arch magic_banned
+x 17
+y 2
+end
+arch dungeon_magic
+x 17
+y 2
+end
+arch unholy_ground
+x 17
+y 2
+end
+arch shop_empty
+x 17
+y 2
+end
+arch wwall_2_1_1
+x 17
+y 2
+end
+arch magic_banned
+x 17
+y 3
+end
+arch dungeon_magic
+x 17
+y 3
+end
+arch unholy_ground
+x 17
+y 3
+end
+arch shop_empty
+x 17
+y 3
+end
+arch wwall_2_1_1
+x 17
+y 3
+end
+arch magic_banned
+x 17
+y 4
+end
+arch dungeon_magic
+x 17
+y 4
+end
+arch unholy_ground
+x 17
+y 4
+end
+arch shop_empty
+x 17
+y 4
+end
+arch wwall_3_1
+x 17
+y 4
+end
+arch magic_banned
+x 17
+y 5
+end
+arch dungeon_magic
+x 17
+y 5
+end
+arch unholy_ground
+x 17
+y 5
+end
+arch shop_empty
+x 17
+y 5
+end
+arch stair_up_2
+name Fountain Shop
+slaying /brest/shops/buildshop2
+face stair_up_1.111
+hp 24
+sp 4
+x 17
+y 5
+end
+arch unholy_ground
+x 17
+y 6
+end
+arch magic_banned
+x 17
+y 6
+end
+arch dungeon_magic
+x 17
+y 6
+end
+arch shop_empty
+x 17
+y 6
+end
+arch unholy_ground
+x 17
+y 7
+end
+arch magic_banned
+x 17
+y 7
+end
+arch dungeon_magic
+x 17
+y 7
+end
+arch shop_empty
+x 17
+y 7
+end
+arch unholy_ground
+x 17
+y 8
+end
+arch magic_banned
+x 17
+y 8
+end
+arch dungeon_magic
+x 17
+y 8
+end
+arch shop_empty
+x 17
+y 8
+end
+arch unholy_ground
+x 17
+y 9
+end
+arch magic_banned
+x 17
+y 9
+end
+arch dungeon_magic
+x 17
+y 9
+end
+arch shop_empty
+x 17
+y 9
+end
+arch unholy_ground
+x 17
+y 10
+end
+arch magic_banned
+x 17
+y 10
+end
+arch dungeon_magic
+x 17
+y 10
+end
+arch shop_empty
+x 17
+y 10
+end
+arch unholy_ground
+x 17
+y 11
+end
+arch magic_banned
+x 17
+y 11
+end
+arch dungeon_magic
+x 17
+y 11
+end
+arch shop_empty
+x 17
+y 11
+end
+arch unholy_ground
+x 17
+y 12
+end
+arch magic_banned
+x 17
+y 12
+end
+arch dungeon_magic
+x 17
+y 12
+end
+arch shop_empty
+x 17
+y 12
+end
+arch unholy_ground
+x 17
+y 13
+end
+arch magic_banned
+x 17
+y 13
+end
+arch dungeon_magic
+x 17
+y 13
+end
+arch shop_empty
+x 17
+y 13
+end
+arch shop_mat
+x 17
+y 13
+end
+arch unholy_ground
+x 17
+y 14
+end
+arch magic_banned
+x 17
+y 14
+end
+arch dungeon_magic
+x 17
+y 14
+end
+arch tile_white_floor
+x 17
+y 14
+end
+arch wwall_2_1_2
+x 17
+y 14
+end
+arch unholy_ground
+x 17
+y 15
+end
+arch magic_banned
+x 17
+y 15
+end
+arch dungeon_magic
+x 17
+y 15
+end
+arch tile_white_floor
+x 17
+y 15
+end
+arch shop_mat
+x 17
+y 15
+end
+arch magic_banned
+x 17
+y 16
+end
+arch dungeon_magic
+x 17
+y 16
+end
+arch unholy_ground
+x 17
+y 16
+end
+arch tile_white_floor
+x 17
+y 16
+end
+arch magic_banned
+x 17
+y 17
+end
+arch dungeon_magic
+x 17
+y 17
+end
+arch unholy_ground
+x 17
+y 17
+end
+arch tile_white_floor
+x 17
+y 17
+end
+arch magic_banned
+x 17
+y 18
+end
+arch dungeon_magic
+x 17
+y 18
+end
+arch unholy_ground
+x 17
+y 18
+end
+arch tile_white_floor
+x 17
+y 18
+end
+arch oakdoor_2
+slaying /world/world_107_123
+msg
+Thank you for your visit!
+endmsg
+hp 21
+sp 32
+x 17
+y 18
+end
+arch magic_banned
+x 17
+y 19
+end
+arch dungeon_magic
+x 17
+y 19
+end
+arch unholy_ground
+x 17
+y 19
+end
+arch tile_white_floor
+x 17
+y 19
+end
+arch wwall_2_1_2
+x 17
+y 19
+end
+arch magic_banned
+x 18
+end
+arch dungeon_magic
+x 18
+end
+arch unholy_ground
+x 18
+end
+arch tile_white_floor
+x 18
+end
+arch wwall_2_1_2
+x 18
+end
+arch magic_banned
+x 18
+y 1
+end
+arch unholy_ground
+x 18
+y 1
+end
+arch dungeon_magic
+x 18
+y 1
+end
+arch creator
+x 18
+y 1
+connected 150
+lifesave 1
+arch building_shopmat
+unpaid 1
+end
+end
+arch shop_empty
+x 18
+y 1
+end
+arch button_lever
+name Shop Mat Material
+face teleporter.111
+animation teleporter
+x 18
+y 1
+connected 150
+end
+arch magic_banned
+x 18
+y 2
+end
+arch unholy_ground
+x 18
+y 2
+end
+arch dungeon_magic
+x 18
+y 2
+end
+arch shop_empty
+x 18
+y 2
+end
+arch building_shopmat
+x 18
+y 2
+no_pick 1
+end
+arch magic_banned
+x 18
+y 3
+end
+arch dungeon_magic
+x 18
+y 3
+end
+arch unholy_ground
+x 18
+y 3
+end
+arch shop_empty
+x 18
+y 3
+end
+arch magic_banned
+x 18
+y 4
+end
+arch dungeon_magic
+x 18
+y 4
+end
+arch unholy_ground
+x 18
+y 4
+end
+arch shop_empty
+x 18
+y 4
+end
+arch wwall_2_2_3
+x 18
+y 4
+end
+arch unholy_ground
+x 18
+y 5
+end
+arch magic_banned
+x 18
+y 5
+end
+arch dungeon_magic
+x 18
+y 5
+end
+arch shop_empty
+x 18
+y 5
+end
+arch wwall_2_2_1
+x 18
+y 5
+end
+arch unholy_ground
+x 18
+y 6
+end
+arch magic_banned
+x 18
+y 6
+end
+arch dungeon_magic
+x 18
+y 6
+end
+arch shop_empty
+x 18
+y 6
+end
+arch unholy_ground
+x 18
+y 7
+end
+arch magic_banned
+x 18
+y 7
+end
+arch dungeon_magic
+x 18
+y 7
+end
+arch shop_empty
+x 18
+y 7
+end
+arch unholy_ground
+x 18
+y 8
+end
+arch magic_banned
+x 18
+y 8
+end
+arch dungeon_magic
+x 18
+y 8
+end
+arch shop_empty
+x 18
+y 8
+end
+arch unholy_ground
+x 18
+y 9
+end
+arch magic_banned
+x 18
+y 9
+end
+arch dungeon_magic
+x 18
+y 9
+end
+arch shop_empty
+x 18
+y 9
+end
+arch unholy_ground
+x 18
+y 10
+end
+arch magic_banned
+x 18
+y 10
+end
+arch dungeon_magic
+x 18
+y 10
+end
+arch shop_empty
+x 18
+y 10
+end
+arch unholy_ground
+x 18
+y 11
+end
+arch magic_banned
+x 18
+y 11
+end
+arch dungeon_magic
+x 18
+y 11
+end
+arch shop_empty
+x 18
+y 11
+end
+arch unholy_ground
+x 18
+y 12
+end
+arch magic_banned
+x 18
+y 12
+end
+arch dungeon_magic
+x 18
+y 12
+end
+arch shop_empty
+x 18
+y 12
+end
+arch unholy_ground
+x 18
+y 13
+end
+arch magic_banned
+x 18
+y 13
+end
+arch dungeon_magic
+x 18
+y 13
+end
+arch shop_empty
+x 18
+y 13
+end
+arch sign
+name INSTRUCTIONS
+msg
+Many stores in Scorn have been updated
+with zero-point storage.
+Simply stand on the pad and activate as
+many times as you would like in order to
+produce your desired quantity of the available
+items.
+endmsg
+x 18
+y 13
+end
+arch unholy_ground
+x 18
+y 14
+end
+arch magic_banned
+x 18
+y 14
+end
+arch dungeon_magic
+x 18
+y 14
+end
+arch tile_white_floor
+x 18
+y 14
+end
+arch wwall_2_1_2
+x 18
+y 14
+end
+arch unholy_ground
+x 18
+y 15
+end
+arch magic_banned
+x 18
+y 15
+end
+arch dungeon_magic
+x 18
+y 15
+end
+arch tile_white_floor
+x 18
+y 15
+end
+arch book_read
+name Signs and talking books
+msg
+When making signs and talking (or listening) books, you need to place a book or scroll with the text you want on the square you're building on just like a marking rune.
+With the talking/listening books, they will take the name and picture of the book used to create them as well.
+For the talking and listening books, you also need to connect them with a marking rune just like gates buttons and levers, which in the case of the talking books, makes the book say it's message when activated, and in the case of listening books, it causes saying the phrase that the book looks for to act like pulling a lever.
+For the listening books, the message must be in this format:
+
+@match blah
+Click.
+
+Which will make it activate upon the somebody within two squares saying "blah", and will additionally say "Click." upon activation.
+endmsg
+x 18
+y 15
+material 0
+no_pick 1
+identified 1
+end
+arch magic_banned
+x 18
+y 16
+end
+arch dungeon_magic
+x 18
+y 16
+end
+arch unholy_ground
+x 18
+y 16
+end
+arch tile_white_floor
+x 18
+y 16
+end
+arch book_read
+name Building other items
+msg
+All items not requiring any special handling are built simply by marking the appropriate material and firing the builder.
+Note that, to avoid any issue, those items can not be picked up.
+Note also that you can build an item on another.
+endmsg
+x 18
+y 16
+material 0
+no_pick 1
+identified 1
+end
+arch magic_banned
+x 18
+y 17
+end
+arch dungeon_magic
+x 18
+y 17
+end
+arch unholy_ground
+x 18
+y 17
+end
+arch tile_white_floor
+x 18
+y 17
+end
+arch book_read
+name Basic building instructions
+msg
+To build your own home, you can use different items:
+* generic builder: this tool lets you build anything. You need one to build.
+* generic destroyer: this tool lets you destroy a built item. This will remove any built item, except floors and walls.
+* materials: you need those to build items. For instance, a 'Wood floor material' enables you to build a woodfloor.
+To build an item:
+* apply the builder
+* mark the material of the item you want to build
+* fire the builder in the desired direction
+Of course, the material is used when you build, so you need to buy quite a few.
+endmsg
+x 18
+y 17
+material 0
+no_pick 1
+identified 1
+end
+arch magic_banned
+x 18
+y 18
+end
+arch dungeon_magic
+x 18
+y 18
+end
+arch unholy_ground
+x 18
+y 18
+end
+arch tile_white_floor
+x 18
+y 18
+end
+arch magic_banned
+x 18
+y 19
+end
+arch dungeon_magic
+x 18
+y 19
+end
+arch unholy_ground
+x 18
+y 19
+end
+arch tile_white_floor
+x 18
+y 19
+end
+arch wwall_2_1_2
+x 18
+y 19
+end
+arch magic_banned
+x 19
+end
+arch dungeon_magic
+x 19
+end
+arch unholy_ground
+x 19
+end
+arch tile_white_floor
+x 19
+end
+arch wwall_3_3
+x 19
+end
+arch magic_banned
+x 19
+y 1
+end
+arch dungeon_magic
+x 19
+y 1
+end
+arch unholy_ground
+x 19
+y 1
+end
+arch shop_empty
+x 19
+y 1
+end
+arch wwall_1_2
+x 19
+y 1
+end
+arch magic_banned
+x 19
+y 2
+end
+arch dungeon_magic
+x 19
+y 2
+end
+arch unholy_ground
+x 19
+y 2
+end
+arch shop_empty
+x 19
+y 2
+end
+arch magic_banned
+x 19
+y 3
+end
+arch dungeon_magic
+x 19
+y 3
+end
+arch unholy_ground
+x 19
+y 3
+end
+arch shop_empty
+x 19
+y 3
+end
+arch magic_banned
+x 19
+y 4
+end
+arch dungeon_magic
+x 19
+y 4
+end
+arch unholy_ground
+x 19
+y 4
+end
+arch shop_empty
+x 19
+y 4
+end
+arch unholy_ground
+x 19
+y 5
+end
+arch magic_banned
+x 19
+y 5
+end
+arch dungeon_magic
+x 19
+y 5
+end
+arch shop_empty
+x 19
+y 5
+end
+arch wwall_2_1_2
+x 19
+y 5
+end
+arch unholy_ground
+x 19
+y 6
+end
+arch magic_banned
+x 19
+y 6
+end
+arch dungeon_magic
+x 19
+y 6
+end
+arch shop_empty
+x 19
+y 6
+end
+arch unholy_ground
+x 19
+y 7
+end
+arch magic_banned
+x 19
+y 7
+end
+arch dungeon_magic
+x 19
+y 7
+end
+arch shop_empty
+x 19
+y 7
+end
+arch unholy_ground
+x 19
+y 8
+end
+arch magic_banned
+x 19
+y 8
+end
+arch dungeon_magic
+x 19
+y 8
+end
+arch shop_empty
+x 19
+y 8
+end
+arch unholy_ground
+x 19
+y 9
+end
+arch magic_banned
+x 19
+y 9
+end
+arch dungeon_magic
+x 19
+y 9
+end
+arch shop_empty
+x 19
+y 9
+end
+arch wwall_2_2_2
+x 19
+y 9
+end
+arch unholy_ground
+x 19
+y 10
+end
+arch magic_banned
+x 19
+y 10
+end
+arch dungeon_magic
+x 19
+y 10
+end
+arch shop_empty
+x 19
+y 10
+end
+arch wwall_2_1_1
+x 19
+y 10
+end
+arch unholy_ground
+x 19
+y 11
+end
+arch magic_banned
+x 19
+y 11
+end
+arch dungeon_magic
+x 19
+y 11
+end
+arch shop_empty
+x 19
+y 11
+end
+arch wwall_2_1_1
+x 19
+y 11
+end
+arch unholy_ground
+x 19
+y 12
+end
+arch magic_banned
+x 19
+y 12
+end
+arch dungeon_magic
+x 19
+y 12
+end
+arch shop_empty
+x 19
+y 12
+end
+arch wwall_2_1_1
+x 19
+y 12
+end
+arch unholy_ground
+x 19
+y 13
+end
+arch magic_banned
+x 19
+y 13
+end
+arch dungeon_magic
+x 19
+y 13
+end
+arch shop_empty
+x 19
+y 13
+end
+arch wwall_2_1_1
+x 19
+y 13
+end
+arch unholy_ground
+x 19
+y 14
+end
+arch magic_banned
+x 19
+y 14
+end
+arch dungeon_magic
+x 19
+y 14
+end
+arch tile_white_floor
+x 19
+y 14
+end
+arch wwall_3_4
+x 19
+y 14
+end
+arch unholy_ground
+x 19
+y 15
+end
+arch magic_banned
+x 19
+y 15
+end
+arch dungeon_magic
+x 19
+y 15
+end
+arch tile_white_floor
+x 19
+y 15
+end
+arch wwall_2_1_1
+x 19
+y 15
+end
+arch magic_banned
+x 19
+y 16
+end
+arch dungeon_magic
+x 19
+y 16
+end
+arch unholy_ground
+x 19
+y 16
+end
+arch tile_white_floor
+x 19
+y 16
+end
+arch wwall_2_1_1
+x 19
+y 16
+end
+arch magic_banned
+x 19
+y 17
+end
+arch dungeon_magic
+x 19
+y 17
+end
+arch unholy_ground
+x 19
+y 17
+end
+arch tile_white_floor
+x 19
+y 17
+end
+arch wwall_2_1_1
+x 19
+y 17
+end
+arch magic_banned
+x 19
+y 18
+end
+arch dungeon_magic
+x 19
+y 18
+end
+arch unholy_ground
+x 19
+y 18
+end
+arch tile_white_floor
+x 19
+y 18
+end
+arch wwall_2_1_1
+x 19
+y 18
+end
+arch magic_banned
+x 19
+y 19
+end
+arch dungeon_magic
+x 19
+y 19
+end
+arch unholy_ground
+x 19
+y 19
+end
+arch tile_white_floor
+x 19
+y 19
+end
+arch wwall_3_1
+x 19
+y 19
+end
+arch magic_banned
+x 20
+end
+arch dungeon_magic
+x 20
+end
+arch unholy_ground
+x 20
+end
+arch shop_empty
+x 20
+end
+arch wwall_2_1_2
+x 20
+end
+arch magic_banned
+x 20
+y 1
+end
+arch unholy_ground
+x 20
+y 1
+end
+arch dungeon_magic
+x 20
+y 1
+end
+arch creator
+x 20
+y 1
+connected 160
+lifesave 1
+arch building_shop_books
+unpaid 1
+end
+end
+arch shop_empty
+x 20
+y 1
+end
+arch button_lever
+name Shop Books Material
+face teleporter.111
+animation teleporter
+x 20
+y 1
+connected 160
+end
+arch magic_banned
+x 20
+y 2
+end
+arch unholy_ground
+x 20
+y 2
+end
+arch dungeon_magic
+x 20
+y 2
+end
+arch shop_empty
+x 20
+y 2
+end
+arch building_shop_books
+x 20
+y 2
+no_pick 1
+end
+arch magic_banned
+x 20
+y 3
+end
+arch dungeon_magic
+x 20
+y 3
+end
+arch unholy_ground
+x 20
+y 3
+end
+arch shop_empty
+x 20
+y 3
+end
+arch magic_banned
+x 20
+y 4
+end
+arch dungeon_magic
+x 20
+y 4
+end
+arch unholy_ground
+x 20
+y 4
+end
+arch shop_empty
+x 20
+y 4
+end
+arch unholy_ground
+x 20
+y 5
+end
+arch magic_banned
+x 20
+y 5
+end
+arch dungeon_magic
+x 20
+y 5
+end
+arch shop_empty
+x 20
+y 5
+end
+arch wwall_2_1_2
+x 20
+y 5
+end
+arch unholy_ground
+x 20
+y 6
+end
+arch magic_banned
+x 20
+y 6
+end
+arch dungeon_magic
+x 20
+y 6
+end
+arch shop_empty
+x 20
+y 6
+end
+arch unholy_ground
+x 20
+y 7
+end
+arch magic_banned
+x 20
+y 7
+end
+arch dungeon_magic
+x 20
+y 7
+end
+arch shop_empty
+x 20
+y 7
+end
+arch unholy_ground
+x 20
+y 8
+end
+arch magic_banned
+x 20
+y 8
+end
+arch dungeon_magic
+x 20
+y 8
+end
+arch shop_empty
+x 20
+y 8
+end
+arch unholy_ground
+x 20
+y 9
+end
+arch magic_banned
+x 20
+y 9
+end
+arch dungeon_magic
+x 20
+y 9
+end
+arch shop_empty
+x 20
+y 9
+end
+arch wwall_3_3
+x 20
+y 9
+end
+arch unholy_ground
+x 20
+y 10
+end
+arch magic_banned
+x 20
+y 10
+end
+arch dungeon_magic
+x 20
+y 10
+end
+arch shop_empty
+x 20
+y 10
+end
+arch wwall_1_2
+x 20
+y 10
+end
+arch unholy_ground
+x 20
+y 11
+end
+arch magic_banned
+x 20
+y 11
+end
+arch dungeon_magic
+x 20
+y 11
+end
+arch shop_empty
+x 20
+y 11
+end
+arch unholy_ground
+x 20
+y 12
+end
+arch magic_banned
+x 20
+y 12
+end
+arch dungeon_magic
+x 20
+y 12
+end
+arch shop_empty
+x 20
+y 12
+end
+arch unholy_ground
+x 20
+y 13
+end
+arch magic_banned
+x 20
+y 13
+end
+arch dungeon_magic
+x 20
+y 13
+end
+arch shop_empty
+x 20
+y 13
+end
+arch unholy_ground
+x 20
+y 14
+end
+arch magic_banned
+x 20
+y 14
+end
+arch dungeon_magic
+x 20
+y 14
+end
+arch shop_empty
+x 20
+y 14
+end
+arch unholy_ground
+x 20
+y 15
+end
+arch magic_banned
+x 20
+y 15
+end
+arch dungeon_magic
+x 20
+y 15
+end
+arch shop_empty
+x 20
+y 15
+end
+arch magic_banned
+x 20
+y 16
+end
+arch dungeon_magic
+x 20
+y 16
+end
+arch unholy_ground
+x 20
+y 16
+end
+arch shop_empty
+x 20
+y 16
+end
+arch magic_banned
+x 20
+y 17
+end
+arch dungeon_magic
+x 20
+y 17
+end
+arch unholy_ground
+x 20
+y 17
+end
+arch shop_empty
+x 20
+y 17
+end
+arch magic_banned
+x 20
+y 18
+end
+arch dungeon_magic
+x 20
+y 18
+end
+arch unholy_ground
+x 20
+y 18
+end
+arch shop_empty
+x 20
+y 18
+end
+arch wwall_1_1
+x 20
+y 18
+end
+arch magic_banned
+x 20
+y 19
+end
+arch dungeon_magic
+x 20
+y 19
+end
+arch unholy_ground
+x 20
+y 19
+end
+arch shop_empty
+x 20
+y 19
+end
+arch wwall_3_1
+x 20
+y 19
+end
+arch magic_banned
+x 21
+end
+arch dungeon_magic
+x 21
+end
+arch unholy_ground
+x 21
+end
+arch shop_empty
+x 21
+end
+arch wwall_3_3
+x 21
+end
+arch magic_banned
+x 21
+y 1
+end
+arch dungeon_magic
+x 21
+y 1
+end
+arch unholy_ground
+x 21
+y 1
+end
+arch shop_empty
+x 21
+y 1
+end
+arch wwall_1_2
+x 21
+y 1
+end
+arch magic_banned
+x 21
+y 2
+end
+arch dungeon_magic
+x 21
+y 2
+end
+arch unholy_ground
+x 21
+y 2
+end
+arch shop_empty
+x 21
+y 2
+end
+arch magic_banned
+x 21
+y 3
+end
+arch dungeon_magic
+x 21
+y 3
+end
+arch unholy_ground
+x 21
+y 3
+end
+arch shop_empty
+x 21
+y 3
+end
+arch magic_banned
+x 21
+y 4
+end
+arch dungeon_magic
+x 21
+y 4
+end
+arch unholy_ground
+x 21
+y 4
+end
+arch shop_empty
+x 21
+y 4
+end
+arch unholy_ground
+x 21
+y 5
+end
+arch magic_banned
+x 21
+y 5
+end
+arch dungeon_magic
+x 21
+y 5
+end
+arch shop_empty
+x 21
+y 5
+end
+arch wwall_2_1_2
+x 21
+y 5
+end
+arch unholy_ground
+x 21
+y 6
+end
+arch magic_banned
+x 21
+y 6
+end
+arch dungeon_magic
+x 21
+y 6
+end
+arch shop_empty
+x 21
+y 6
+end
+arch unholy_ground
+x 21
+y 7
+end
+arch magic_banned
+x 21
+y 7
+end
+arch dungeon_magic
+x 21
+y 7
+end
+arch shop_empty
+x 21
+y 7
+end
+arch unholy_ground
+x 21
+y 8
+end
+arch magic_banned
+x 21
+y 8
+end
+arch dungeon_magic
+x 21
+y 8
+end
+arch shop_empty
+x 21
+y 8
+end
+arch unholy_ground
+x 21
+y 9
+end
+arch magic_banned
+x 21
+y 9
+end
+arch dungeon_magic
+x 21
+y 9
+end
+arch shop_empty
+x 21
+y 9
+end
+arch wwall_win2
+x 21
+y 9
+end
+arch unholy_ground
+x 21
+y 10
+end
+arch magic_banned
+x 21
+y 10
+end
+arch dungeon_magic
+x 21
+y 10
+end
+arch creator
+x 21
+y 10
+connected 145
+lifesave 1
+arch building_thaumaturg_desk
+unpaid 1
+end
+end
+arch shop_empty
+x 21
+y 10
+end
+arch button_lever
+name Thaumaturgist's Desk Material
+face teleporter.111
+animation teleporter
+x 21
+y 10
+connected 145
+end
+arch unholy_ground
+x 21
+y 11
+end
+arch magic_banned
+x 21
+y 11
+end
+arch dungeon_magic
+x 21
+y 11
+end
+arch shop_empty
+x 21
+y 11
+end
+arch building_thaumaturg_desk
+x 21
+y 11
+no_pick 1
+end
+arch unholy_ground
+x 21
+y 12
+end
+arch magic_banned
+x 21
+y 12
+end
+arch dungeon_magic
+x 21
+y 12
+end
+arch shop_empty
+x 21
+y 12
+end
+arch unholy_ground
+x 21
+y 13
+end
+arch magic_banned
+x 21
+y 13
+end
+arch dungeon_magic
+x 21
+y 13
+end
+arch shop_empty
+x 21
+y 13
+end
+arch unholy_ground
+x 21
+y 14
+end
+arch magic_banned
+x 21
+y 14
+end
+arch dungeon_magic
+x 21
+y 14
+end
+arch shop_empty
+x 21
+y 14
+end
+arch unholy_ground
+x 21
+y 15
+end
+arch magic_banned
+x 21
+y 15
+end
+arch dungeon_magic
+x 21
+y 15
+end
+arch shop_empty
+x 21
+y 15
+end
+arch magic_banned
+x 21
+y 16
+end
+arch dungeon_magic
+x 21
+y 16
+end
+arch unholy_ground
+x 21
+y 16
+end
+arch shop_empty
+x 21
+y 16
+end
+arch magic_banned
+x 21
+y 17
+end
+arch unholy_ground
+x 21
+y 17
+end
+arch dungeon_magic
+x 21
+y 17
+end
+arch shop_empty
+x 21
+y 17
+end
+arch building_pinkmarble
+x 21
+y 17
+no_pick 1
+end
+arch magic_banned
+x 21
+y 18
+end
+arch unholy_ground
+x 21
+y 18
+end
+arch dungeon_magic
+x 21
+y 18
+end
+arch creator
+x 21
+y 18
+connected 133
+lifesave 1
+arch building_pinkmarble
+unpaid 1
+end
+end
+arch shop_empty
+x 21
+y 18
+end
+arch button_lever
+name Pink Marble Floor Material
+face teleporter.111
+animation teleporter
+x 21
+y 18
+connected 133
+end
+arch magic_banned
+x 21
+y 19
+end
+arch dungeon_magic
+x 21
+y 19
+end
+arch unholy_ground
+x 21
+y 19
+end
+arch shop_empty
+x 21
+y 19
+end
+arch wwall_2_1_2
+x 21
+y 19
+end
+arch magic_banned
+x 22
+end
+arch dungeon_magic
+x 22
+end
+arch unholy_ground
+x 22
+end
+arch shop_empty
+x 22
+end
+arch wwall_2_1_2
+x 22
+end
+arch magic_banned
+x 22
+y 1
+end
+arch unholy_ground
+x 22
+y 1
+end
+arch dungeon_magic
+x 22
+y 1
+end
+arch creator
+x 22
+y 1
+connected 159
+lifesave 1
+arch building_shop_building
+unpaid 1
+end
+end
+arch shop_empty
+x 22
+y 1
+end
+arch button_lever
+name Shop Building Material
+face teleporter.111
+animation teleporter
+x 22
+y 1
+connected 159
+end
+arch magic_banned
+x 22
+y 2
+end
+arch unholy_ground
+x 22
+y 2
+end
+arch dungeon_magic
+x 22
+y 2
+end
+arch shop_empty
+x 22
+y 2
+end
+arch building_shop_building
+x 22
+y 2
+no_pick 1
+end
+arch magic_banned
+x 22
+y 3
+end
+arch dungeon_magic
+x 22
+y 3
+end
+arch unholy_ground
+x 22
+y 3
+end
+arch shop_empty
+x 22
+y 3
+end
+arch magic_banned
+x 22
+y 4
+end
+arch dungeon_magic
+x 22
+y 4
+end
+arch unholy_ground
+x 22
+y 4
+end
+arch shop_empty
+x 22
+y 4
+end
+arch unholy_ground
+x 22
+y 5
+end
+arch magic_banned
+x 22
+y 5
+end
+arch dungeon_magic
+x 22
+y 5
+end
+arch shop_empty
+x 22
+y 5
+end
+arch wwall_2_1_2
+x 22
+y 5
+end
+arch unholy_ground
+x 22
+y 6
+end
+arch magic_banned
+x 22
+y 6
+end
+arch dungeon_magic
+x 22
+y 6
+end
+arch shop_empty
+x 22
+y 6
+end
+arch unholy_ground
+x 22
+y 7
+end
+arch magic_banned
+x 22
+y 7
+end
+arch dungeon_magic
+x 22
+y 7
+end
+arch shop_empty
+x 22
+y 7
+end
+arch unholy_ground
+x 22
+y 8
+end
+arch magic_banned
+x 22
+y 8
+end
+arch dungeon_magic
+x 22
+y 8
+end
+arch shop_empty
+x 22
+y 8
+end
+arch unholy_ground
+x 22
+y 9
+end
+arch magic_banned
+x 22
+y 9
+end
+arch dungeon_magic
+x 22
+y 9
+end
+arch shop_empty
+x 22
+y 9
+end
+arch wwall_3_3
+x 22
+y 9
+end
+arch unholy_ground
+x 22
+y 10
+end
+arch magic_banned
+x 22
+y 10
+end
+arch dungeon_magic
+x 22
+y 10
+end
+arch shop_empty
+x 22
+y 10
+end
+arch wwall_1_2
+x 22
+y 10
+end
+arch unholy_ground
+x 22
+y 11
+end
+arch magic_banned
+x 22
+y 11
+end
+arch dungeon_magic
+x 22
+y 11
+end
+arch shop_empty
+x 22
+y 11
+end
+arch unholy_ground
+x 22
+y 12
+end
+arch magic_banned
+x 22
+y 12
+end
+arch dungeon_magic
+x 22
+y 12
+end
+arch shop_empty
+x 22
+y 12
+end
+arch unholy_ground
+x 22
+y 13
+end
+arch magic_banned
+x 22
+y 13
+end
+arch dungeon_magic
+x 22
+y 13
+end
+arch shop_empty
+x 22
+y 13
+end
+arch unholy_ground
+x 22
+y 14
+end
+arch magic_banned
+x 22
+y 14
+end
+arch dungeon_magic
+x 22
+y 14
+end
+arch shop_empty
+x 22
+y 14
+end
+arch unholy_ground
+x 22
+y 15
+end
+arch magic_banned
+x 22
+y 15
+end
+arch dungeon_magic
+x 22
+y 15
+end
+arch shop_empty
+x 22
+y 15
+end
+arch magic_banned
+x 22
+y 16
+end
+arch dungeon_magic
+x 22
+y 16
+end
+arch unholy_ground
+x 22
+y 16
+end
+arch shop_empty
+x 22
+y 16
+end
+arch magic_banned
+x 22
+y 17
+end
+arch dungeon_magic
+x 22
+y 17
+end
+arch unholy_ground
+x 22
+y 17
+end
+arch shop_empty
+x 22
+y 17
+end
+arch magic_banned
+x 22
+y 18
+end
+arch dungeon_magic
+x 22
+y 18
+end
+arch unholy_ground
+x 22
+y 18
+end
+arch shop_empty
+x 22
+y 18
+end
+arch wwall_1_1
+x 22
+y 18
+end
+arch magic_banned
+x 22
+y 19
+end
+arch dungeon_magic
+x 22
+y 19
+end
+arch unholy_ground
+x 22
+y 19
+end
+arch shop_empty
+x 22
+y 19
+end
+arch wwall_3_1
+x 22
+y 19
+end
+arch magic_banned
+x 23
+end
+arch dungeon_magic
+x 23
+end
+arch unholy_ground
+x 23
+end
+arch shop_empty
+x 23
+end
+arch wwall_3_3
+x 23
+end
+arch magic_banned
+x 23
+y 1
+end
+arch dungeon_magic
+x 23
+y 1
+end
+arch unholy_ground
+x 23
+y 1
+end
+arch shop_empty
+x 23
+y 1
+end
+arch wwall_1_2
+x 23
+y 1
+end
+arch magic_banned
+x 23
+y 2
+end
+arch dungeon_magic
+x 23
+y 2
+end
+arch unholy_ground
+x 23
+y 2
+end
+arch shop_empty
+x 23
+y 2
+end
+arch magic_banned
+x 23
+y 3
+end
+arch dungeon_magic
+x 23
+y 3
+end
+arch unholy_ground
+x 23
+y 3
+end
+arch shop_empty
+x 23
+y 3
+end
+arch magic_banned
+x 23
+y 4
+end
+arch dungeon_magic
+x 23
+y 4
+end
+arch unholy_ground
+x 23
+y 4
+end
+arch shop_empty
+x 23
+y 4
+end
+arch unholy_ground
+x 23
+y 5
+end
+arch magic_banned
+x 23
+y 5
+end
+arch dungeon_magic
+x 23
+y 5
+end
+arch shop_empty
+x 23
+y 5
+end
+arch wwall_2_1_2
+x 23
+y 5
+end
+arch unholy_ground
+x 23
+y 6
+end
+arch magic_banned
+x 23
+y 6
+end
+arch dungeon_magic
+x 23
+y 6
+end
+arch shop_empty
+x 23
+y 6
+end
+arch unholy_ground
+x 23
+y 7
+end
+arch magic_banned
+x 23
+y 7
+end
+arch dungeon_magic
+x 23
+y 7
+end
+arch shop_empty
+x 23
+y 7
+end
+arch unholy_ground
+x 23
+y 8
+end
+arch magic_banned
+x 23
+y 8
+end
+arch dungeon_magic
+x 23
+y 8
+end
+arch shop_empty
+x 23
+y 8
+end
+arch unholy_ground
+x 23
+y 9
+end
+arch magic_banned
+x 23
+y 9
+end
+arch dungeon_magic
+x 23
+y 9
+end
+arch shop_empty
+x 23
+y 9
+end
+arch wwall_win2
+x 23
+y 9
+end
+arch unholy_ground
+x 23
+y 10
+end
+arch magic_banned
+x 23
+y 10
+end
+arch dungeon_magic
+x 23
+y 10
+end
+arch creator
+x 23
+y 10
+connected 144
+lifesave 1
+arch building_workbench
+unpaid 1
+end
+end
+arch shop_empty
+x 23
+y 10
+end
+arch button_lever
+name Workbench Material
+face teleporter.111
+animation teleporter
+x 23
+y 10
+connected 144
+end
+arch unholy_ground
+x 23
+y 11
+end
+arch magic_banned
+x 23
+y 11
+end
+arch dungeon_magic
+x 23
+y 11
+end
+arch shop_empty
+x 23
+y 11
+end
+arch building_workbench
+x 23
+y 11
+no_pick 1
+end
+arch unholy_ground
+x 23
+y 12
+end
+arch magic_banned
+x 23
+y 12
+end
+arch dungeon_magic
+x 23
+y 12
+end
+arch shop_empty
+x 23
+y 12
+end
+arch unholy_ground
+x 23
+y 13
+end
+arch magic_banned
+x 23
+y 13
+end
+arch dungeon_magic
+x 23
+y 13
+end
+arch shop_empty
+x 23
+y 13
+end
+arch unholy_ground
+x 23
+y 14
+end
+arch magic_banned
+x 23
+y 14
+end
+arch dungeon_magic
+x 23
+y 14
+end
+arch shop_empty
+x 23
+y 14
+end
+arch unholy_ground
+x 23
+y 15
+end
+arch magic_banned
+x 23
+y 15
+end
+arch dungeon_magic
+x 23
+y 15
+end
+arch shop_empty
+x 23
+y 15
+end
+arch magic_banned
+x 23
+y 16
+end
+arch dungeon_magic
+x 23
+y 16
+end
+arch unholy_ground
+x 23
+y 16
+end
+arch shop_empty
+x 23
+y 16
+end
+arch magic_banned
+x 23
+y 17
+end
+arch unholy_ground
+x 23
+y 17
+end
+arch dungeon_magic
+x 23
+y 17
+end
+arch shop_empty
+x 23
+y 17
+end
+arch building_woodfloor
+x 23
+y 17
+no_pick 1
+end
+arch magic_banned
+x 23
+y 18
+end
+arch unholy_ground
+x 23
+y 18
+end
+arch dungeon_magic
+x 23
+y 18
+end
+arch creator
+x 23
+y 18
+connected 125
+lifesave 1
+arch building_woodfloor
+unpaid 1
+end
+end
+arch shop_empty
+x 23
+y 18
+end
+arch button_lever
+name Wood Floor Material
+face teleporter.111
+animation teleporter
+x 23
+y 18
+connected 125
+end
+arch magic_banned
+x 23
+y 19
+end
+arch dungeon_magic
+x 23
+y 19
+end
+arch unholy_ground
+x 23
+y 19
+end
+arch shop_empty
+x 23
+y 19
+end
+arch wwall_2_1_2
+x 23
+y 19
+end
+arch magic_banned
+x 24
+end
+arch dungeon_magic
+x 24
+end
+arch unholy_ground
+x 24
+end
+arch shop_empty
+x 24
+end
+arch wwall_2_1_2
+x 24
+end
+arch magic_banned
+x 24
+y 1
+end
+arch unholy_ground
+x 24
+y 1
+end
+arch dungeon_magic
+x 24
+y 1
+end
+arch creator
+x 24
+y 1
+connected 158
+lifesave 1
+arch building_shop_food
+unpaid 1
+end
+end
+arch shop_empty
+x 24
+y 1
+end
+arch button_lever
+name Shop Food Materials
+face teleporter.111
+animation teleporter
+x 24
+y 1
+connected 158
+end
+arch magic_banned
+x 24
+y 2
+end
+arch unholy_ground
+x 24
+y 2
+end
+arch dungeon_magic
+x 24
+y 2
+end
+arch shop_empty
+x 24
+y 2
+end
+arch building_shop_food
+x 24
+y 2
+no_pick 1
+end
+arch magic_banned
+x 24
+y 3
+end
+arch dungeon_magic
+x 24
+y 3
+end
+arch unholy_ground
+x 24
+y 3
+end
+arch shop_empty
+x 24
+y 3
+end
+arch magic_banned
+x 24
+y 4
+end
+arch dungeon_magic
+x 24
+y 4
+end
+arch unholy_ground
+x 24
+y 4
+end
+arch shop_empty
+x 24
+y 4
+end
+arch unholy_ground
+x 24
+y 5
+end
+arch magic_banned
+x 24
+y 5
+end
+arch dungeon_magic
+x 24
+y 5
+end
+arch shop_empty
+x 24
+y 5
+end
+arch wwall_2_1_2
+x 24
+y 5
+end
+arch unholy_ground
+x 24
+y 6
+end
+arch magic_banned
+x 24
+y 6
+end
+arch dungeon_magic
+x 24
+y 6
+end
+arch shop_empty
+x 24
+y 6
+end
+arch unholy_ground
+x 24
+y 7
+end
+arch magic_banned
+x 24
+y 7
+end
+arch dungeon_magic
+x 24
+y 7
+end
+arch shop_empty
+x 24
+y 7
+end
+arch unholy_ground
+x 24
+y 8
+end
+arch magic_banned
+x 24
+y 8
+end
+arch dungeon_magic
+x 24
+y 8
+end
+arch shop_empty
+x 24
+y 8
+end
+arch unholy_ground
+x 24
+y 9
+end
+arch magic_banned
+x 24
+y 9
+end
+arch dungeon_magic
+x 24
+y 9
+end
+arch shop_empty
+x 24
+y 9
+end
+arch wwall_3_3
+x 24
+y 9
+end
+arch unholy_ground
+x 24
+y 10
+end
+arch magic_banned
+x 24
+y 10
+end
+arch dungeon_magic
+x 24
+y 10
+end
+arch shop_empty
+x 24
+y 10
+end
+arch wwall_1_2
+x 24
+y 10
+end
+arch unholy_ground
+x 24
+y 11
+end
+arch magic_banned
+x 24
+y 11
+end
+arch dungeon_magic
+x 24
+y 11
+end
+arch shop_empty
+x 24
+y 11
+end
+arch unholy_ground
+x 24
+y 12
+end
+arch magic_banned
+x 24
+y 12
+end
+arch dungeon_magic
+x 24
+y 12
+end
+arch shop_empty
+x 24
+y 12
+end
+arch unholy_ground
+x 24
+y 13
+end
+arch magic_banned
+x 24
+y 13
+end
+arch dungeon_magic
+x 24
+y 13
+end
+arch shop_empty
+x 24
+y 13
+end
+arch unholy_ground
+x 24
+y 14
+end
+arch magic_banned
+x 24
+y 14
+end
+arch dungeon_magic
+x 24
+y 14
+end
+arch shop_empty
+x 24
+y 14
+end
+arch unholy_ground
+x 24
+y 15
+end
+arch magic_banned
+x 24
+y 15
+end
+arch dungeon_magic
+x 24
+y 15
+end
+arch shop_empty
+x 24
+y 15
+end
+arch magic_banned
+x 24
+y 16
+end
+arch dungeon_magic
+x 24
+y 16
+end
+arch unholy_ground
+x 24
+y 16
+end
+arch shop_empty
+x 24
+y 16
+end
+arch magic_banned
+x 24
+y 17
+end
+arch dungeon_magic
+x 24
+y 17
+end
+arch unholy_ground
+x 24
+y 17
+end
+arch shop_empty
+x 24
+y 17
+end
+arch magic_banned
+x 24
+y 18
+end
+arch dungeon_magic
+x 24
+y 18
+end
+arch unholy_ground
+x 24
+y 18
+end
+arch shop_empty
+x 24
+y 18
+end
+arch wwall_1_1
+x 24
+y 18
+end
+arch magic_banned
+x 24
+y 19
+end
+arch dungeon_magic
+x 24
+y 19
+end
+arch unholy_ground
+x 24
+y 19
+end
+arch shop_empty
+x 24
+y 19
+end
+arch wwall_3_1
+x 24
+y 19
+end
+arch magic_banned
+x 25
+end
+arch dungeon_magic
+x 25
+end
+arch unholy_ground
+x 25
+end
+arch shop_empty
+x 25
+end
+arch wwall_3_3
+x 25
+end
+arch magic_banned
+x 25
+y 1
+end
+arch dungeon_magic
+x 25
+y 1
+end
+arch unholy_ground
+x 25
+y 1
+end
+arch shop_empty
+x 25
+y 1
+end
+arch wwall_1_2
+x 25
+y 1
+end
+arch magic_banned
+x 25
+y 2
+end
+arch dungeon_magic
+x 25
+y 2
+end
+arch unholy_ground
+x 25
+y 2
+end
+arch shop_empty
+x 25
+y 2
+end
+arch magic_banned
+x 25
+y 3
+end
+arch dungeon_magic
+x 25
+y 3
+end
+arch unholy_ground
+x 25
+y 3
+end
+arch shop_empty
+x 25
+y 3
+end
+arch magic_banned
+x 25
+y 4
+end
+arch dungeon_magic
+x 25
+y 4
+end
+arch unholy_ground
+x 25
+y 4
+end
+arch shop_empty
+x 25
+y 4
+end
+arch unholy_ground
+x 25
+y 5
+end
+arch magic_banned
+x 25
+y 5
+end
+arch dungeon_magic
+x 25
+y 5
+end
+arch shop_empty
+x 25
+y 5
+end
+arch wwall_2_1_2
+x 25
+y 5
+end
+arch unholy_ground
+x 25
+y 6
+end
+arch magic_banned
+x 25
+y 6
+end
+arch dungeon_magic
+x 25
+y 6
+end
+arch shop_empty
+x 25
+y 6
+end
+arch unholy_ground
+x 25
+y 7
+end
+arch magic_banned
+x 25
+y 7
+end
+arch dungeon_magic
+x 25
+y 7
+end
+arch shop_empty
+x 25
+y 7
+end
+arch unholy_ground
+x 25
+y 8
+end
+arch magic_banned
+x 25
+y 8
+end
+arch dungeon_magic
+x 25
+y 8
+end
+arch shop_empty
+x 25
+y 8
+end
+arch unholy_ground
+x 25
+y 9
+end
+arch magic_banned
+x 25
+y 9
+end
+arch dungeon_magic
+x 25
+y 9
+end
+arch shop_empty
+x 25
+y 9
+end
+arch wwall_win2
+x 25
+y 9
+end
+arch unholy_ground
+x 25
+y 10
+end
+arch magic_banned
+x 25
+y 10
+end
+arch dungeon_magic
+x 25
+y 10
+end
+arch shop_empty
+x 25
+y 10
+end
+arch wwall_0
+x 25
+y 10
+end
+arch unholy_ground
+x 25
+y 11
+end
+arch magic_banned
+x 25
+y 11
+end
+arch dungeon_magic
+x 25
+y 11
+end
+arch shop_empty
+x 25
+y 11
+end
+arch unholy_ground
+x 25
+y 12
+end
+arch magic_banned
+x 25
+y 12
+end
+arch dungeon_magic
+x 25
+y 12
+end
+arch shop_empty
+x 25
+y 12
+end
+arch unholy_ground
+x 25
+y 13
+end
+arch magic_banned
+x 25
+y 13
+end
+arch dungeon_magic
+x 25
+y 13
+end
+arch shop_empty
+x 25
+y 13
+end
+arch unholy_ground
+x 25
+y 14
+end
+arch magic_banned
+x 25
+y 14
+end
+arch dungeon_magic
+x 25
+y 14
+end
+arch shop_empty
+x 25
+y 14
+end
+arch unholy_ground
+x 25
+y 15
+end
+arch magic_banned
+x 25
+y 15
+end
+arch dungeon_magic
+x 25
+y 15
+end
+arch shop_empty
+x 25
+y 15
+end
+arch magic_banned
+x 25
+y 16
+end
+arch dungeon_magic
+x 25
+y 16
+end
+arch unholy_ground
+x 25
+y 16
+end
+arch shop_empty
+x 25
+y 16
+end
+arch magic_banned
+x 25
+y 17
+end
+arch unholy_ground
+x 25
+y 17
+end
+arch dungeon_magic
+x 25
+y 17
+end
+arch shop_empty
+x 25
+y 17
+end
+arch building_woodfloor2
+x 25
+y 17
+no_pick 1
+end
+arch magic_banned
+x 25
+y 18
+end
+arch unholy_ground
+x 25
+y 18
+end
+arch dungeon_magic
+x 25
+y 18
+end
+arch creator
+x 25
+y 18
+connected 126
+lifesave 1
+arch building_woodfloor2
+unpaid 1
+end
+end
+arch shop_empty
+x 25
+y 18
+end
+arch button_lever
+name Dark Wood Floor Material
+face teleporter.111
+animation teleporter
+x 25
+y 18
+connected 126
+end
+arch magic_banned
+x 25
+y 19
+end
+arch dungeon_magic
+x 25
+y 19
+end
+arch unholy_ground
+x 25
+y 19
+end
+arch shop_empty
+x 25
+y 19
+end
+arch wwall_2_1_2
+x 25
+y 19
+end
+arch magic_banned
+x 26
+end
+arch dungeon_magic
+x 26
+end
+arch unholy_ground
+x 26
+end
+arch shop_empty
+x 26
+end
+arch wwall_2_1_2
+x 26
+end
+arch magic_banned
+x 26
+y 1
+end
+arch unholy_ground
+x 26
+y 1
+end
+arch dungeon_magic
+x 26
+y 1
+end
+arch creator
+x 26
+y 1
+connected 157
+lifesave 1
+arch building_shop_general
+unpaid 1
+end
+end
+arch shop_empty
+x 26
+y 1
+end
+arch button_lever
+name Shop General Material
+face teleporter.111
+animation teleporter
+x 26
+y 1
+connected 157
+end
+arch magic_banned
+x 26
+y 2
+end
+arch unholy_ground
+x 26
+y 2
+end
+arch dungeon_magic
+x 26
+y 2
+end
+arch shop_empty
+x 26
+y 2
+end
+arch building_shop_general
+x 26
+y 2
+no_pick 1
+end
+arch magic_banned
+x 26
+y 3
+end
+arch dungeon_magic
+x 26
+y 3
+end
+arch unholy_ground
+x 26
+y 3
+end
+arch shop_empty
+x 26
+y 3
+end
+arch magic_banned
+x 26
+y 4
+end
+arch dungeon_magic
+x 26
+y 4
+end
+arch unholy_ground
+x 26
+y 4
+end
+arch shop_empty
+x 26
+y 4
+end
+arch unholy_ground
+x 26
+y 5
+end
+arch magic_banned
+x 26
+y 5
+end
+arch dungeon_magic
+x 26
+y 5
+end
+arch shop_empty
+x 26
+y 5
+end
+arch wwall_1_3
+x 26
+y 5
+end
+arch unholy_ground
+x 26
+y 6
+end
+arch magic_banned
+x 26
+y 6
+end
+arch dungeon_magic
+x 26
+y 6
+end
+arch shop_empty
+x 26
+y 6
+end
+arch unholy_ground
+x 26
+y 7
+end
+arch magic_banned
+x 26
+y 7
+end
+arch dungeon_magic
+x 26
+y 7
+end
+arch shop_empty
+x 26
+y 7
+end
+arch unholy_ground
+x 26
+y 8
+end
+arch magic_banned
+x 26
+y 8
+end
+arch dungeon_magic
+x 26
+y 8
+end
+arch shop_empty
+x 26
+y 8
+end
+arch unholy_ground
+x 26
+y 9
+end
+arch magic_banned
+x 26
+y 9
+end
+arch dungeon_magic
+x 26
+y 9
+end
+arch shop_empty
+x 26
+y 9
+end
+arch wwall_2_2_3
+x 26
+y 9
+end
+arch unholy_ground
+x 26
+y 10
+end
+arch magic_banned
+x 26
+y 10
+end
+arch dungeon_magic
+x 26
+y 10
+end
+arch shop_empty
+x 26
+y 10
+end
+arch wwall_1_2
+x 26
+y 10
+end
+arch unholy_ground
+x 26
+y 11
+end
+arch magic_banned
+x 26
+y 11
+end
+arch dungeon_magic
+x 26
+y 11
+end
+arch shop_empty
+x 26
+y 11
+end
+arch unholy_ground
+x 26
+y 12
+end
+arch magic_banned
+x 26
+y 12
+end
+arch dungeon_magic
+x 26
+y 12
+end
+arch shop_empty
+x 26
+y 12
+end
+arch unholy_ground
+x 26
+y 13
+end
+arch magic_banned
+x 26
+y 13
+end
+arch dungeon_magic
+x 26
+y 13
+end
+arch shop_empty
+x 26
+y 13
+end
+arch unholy_ground
+x 26
+y 14
+end
+arch magic_banned
+x 26
+y 14
+end
+arch dungeon_magic
+x 26
+y 14
+end
+arch shop_empty
+x 26
+y 14
+end
+arch unholy_ground
+x 26
+y 15
+end
+arch magic_banned
+x 26
+y 15
+end
+arch dungeon_magic
+x 26
+y 15
+end
+arch shop_empty
+x 26
+y 15
+end
+arch magic_banned
+x 26
+y 16
+end
+arch dungeon_magic
+x 26
+y 16
+end
+arch unholy_ground
+x 26
+y 16
+end
+arch shop_empty
+x 26
+y 16
+end
+arch magic_banned
+x 26
+y 17
+end
+arch dungeon_magic
+x 26
+y 17
+end
+arch unholy_ground
+x 26
+y 17
+end
+arch shop_empty
+x 26
+y 17
+end
+arch magic_banned
+x 26
+y 18
+end
+arch dungeon_magic
+x 26
+y 18
+end
+arch unholy_ground
+x 26
+y 18
+end
+arch shop_empty
+x 26
+y 18
+end
+arch wwall_1_1
+x 26
+y 18
+end
+arch magic_banned
+x 26
+y 19
+end
+arch dungeon_magic
+x 26
+y 19
+end
+arch unholy_ground
+x 26
+y 19
+end
+arch shop_empty
+x 26
+y 19
+end
+arch wwall_3_1
+x 26
+y 19
+end
+arch magic_banned
+x 27
+end
+arch dungeon_magic
+x 27
+end
+arch unholy_ground
+x 27
+end
+arch shop_empty
+x 27
+end
+arch wwall_3_3
+x 27
+end
+arch magic_banned
+x 27
+y 1
+end
+arch dungeon_magic
+x 27
+y 1
+end
+arch unholy_ground
+x 27
+y 1
+end
+arch shop_empty
+x 27
+y 1
+end
+arch wwall_1_2
+x 27
+y 1
+end
+arch magic_banned
+x 27
+y 2
+end
+arch dungeon_magic
+x 27
+y 2
+end
+arch unholy_ground
+x 27
+y 2
+end
+arch shop_empty
+x 27
+y 2
+end
+arch magic_banned
+x 27
+y 3
+end
+arch dungeon_magic
+x 27
+y 3
+end
+arch unholy_ground
+x 27
+y 3
+end
+arch shop_empty
+x 27
+y 3
+end
+arch magic_banned
+x 27
+y 4
+end
+arch dungeon_magic
+x 27
+y 4
+end
+arch unholy_ground
+x 27
+y 4
+end
+arch shop_empty
+x 27
+y 4
+end
+arch magic_banned
+x 27
+y 5
+end
+arch dungeon_magic
+x 27
+y 5
+end
+arch unholy_ground
+x 27
+y 5
+end
+arch shop_empty
+x 27
+y 5
+end
+arch magic_banned
+x 27
+y 6
+end
+arch dungeon_magic
+x 27
+y 6
+end
+arch unholy_ground
+x 27
+y 6
+end
+arch shop_empty
+x 27
+y 6
+end
+arch magic_banned
+x 27
+y 7
+end
+arch dungeon_magic
+x 27
+y 7
+end
+arch unholy_ground
+x 27
+y 7
+end
+arch shop_empty
+x 27
+y 7
+end
+arch magic_banned
+x 27
+y 8
+end
+arch dungeon_magic
+x 27
+y 8
+end
+arch unholy_ground
+x 27
+y 8
+end
+arch shop_empty
+x 27
+y 8
+end
+arch magic_banned
+x 27
+y 9
+end
+arch dungeon_magic
+x 27
+y 9
+end
+arch unholy_ground
+x 27
+y 9
+end
+arch shop_empty
+x 27
+y 9
+end
+arch magic_banned
+x 27
+y 10
+end
+arch dungeon_magic
+x 27
+y 10
+end
+arch unholy_ground
+x 27
+y 10
+end
+arch shop_empty
+x 27
+y 10
+end
+arch magic_banned
+x 27
+y 11
+end
+arch dungeon_magic
+x 27
+y 11
+end
+arch unholy_ground
+x 27
+y 11
+end
+arch shop_empty
+x 27
+y 11
+end
+arch magic_banned
+x 27
+y 12
+end
+arch dungeon_magic
+x 27
+y 12
+end
+arch unholy_ground
+x 27
+y 12
+end
+arch shop_empty
+x 27
+y 12
+end
+arch magic_banned
+x 27
+y 13
+end
+arch dungeon_magic
+x 27
+y 13
+end
+arch unholy_ground
+x 27
+y 13
+end
+arch shop_empty
+x 27
+y 13
+end
+arch magic_banned
+x 27
+y 14
+end
+arch dungeon_magic
+x 27
+y 14
+end
+arch unholy_ground
+x 27
+y 14
+end
+arch shop_empty
+x 27
+y 14
+end
+arch magic_banned
+x 27
+y 15
+end
+arch dungeon_magic
+x 27
+y 15
+end
+arch unholy_ground
+x 27
+y 15
+end
+arch shop_empty
+x 27
+y 15
+end
+arch magic_banned
+x 27
+y 16
+end
+arch dungeon_magic
+x 27
+y 16
+end
+arch unholy_ground
+x 27
+y 16
+end
+arch shop_empty
+x 27
+y 16
+end
+arch magic_banned
+x 27
+y 17
+end
+arch unholy_ground
+x 27
+y 17
+end
+arch dungeon_magic
+x 27
+y 17
+end
+arch shop_empty
+x 27
+y 17
+end
+arch building_marble
+x 27
+y 17
+no_pick 1
+end
+arch magic_banned
+x 27
+y 18
+end
+arch unholy_ground
+x 27
+y 18
+end
+arch shop_empty
+x 27
+y 18
+end
+arch dungeon_magic
+x 27
+y 18
+end
+arch creator
+x 27
+y 18
+connected 130
+lifesave 1
+arch building_marble
+unpaid 1
+end
+end
+arch shop_empty
+x 27
+y 18
+end
+arch button_lever
+name White Marble Floor Material
+face teleporter.111
+animation teleporter
+x 27
+y 18
+connected 130
+end
+arch magic_banned
+x 27
+y 19
+end
+arch dungeon_magic
+x 27
+y 19
+end
+arch unholy_ground
+x 27
+y 19
+end
+arch shop_empty
+x 27
+y 19
+end
+arch wwall_2_1_2
+x 27
+y 19
+end
+arch magic_banned
+x 28
+end
+arch dungeon_magic
+x 28
+end
+arch unholy_ground
+x 28
+end
+arch shop_empty
+x 28
+end
+arch wwall_2_1_2
+x 28
+end
+arch magic_banned
+x 28
+y 1
+end
+arch unholy_ground
+x 28
+y 1
+end
+arch dungeon_magic
+x 28
+y 1
+end
+arch creator
+x 28
+y 1
+connected 156
+lifesave 1
+arch building_shop_potion
+unpaid 1
+end
+end
+arch shop_empty
+x 28
+y 1
+end
+arch button_lever
+name Shop Potion Materials
+face teleporter.111
+animation teleporter
+x 28
+y 1
+connected 156
+end
+arch magic_banned
+x 28
+y 2
+end
+arch unholy_ground
+x 28
+y 2
+end
+arch dungeon_magic
+x 28
+y 2
+end
+arch shop_empty
+x 28
+y 2
+end
+arch building_shop_potion
+x 28
+y 2
+no_pick 1
+end
+arch magic_banned
+x 28
+y 3
+end
+arch dungeon_magic
+x 28
+y 3
+end
+arch unholy_ground
+x 28
+y 3
+end
+arch shop_empty
+x 28
+y 3
+end
+arch magic_banned
+x 28
+y 4
+end
+arch dungeon_magic
+x 28
+y 4
+end
+arch unholy_ground
+x 28
+y 4
+end
+arch shop_empty
+x 28
+y 4
+end
+arch magic_banned
+x 28
+y 5
+end
+arch dungeon_magic
+x 28
+y 5
+end
+arch unholy_ground
+x 28
+y 5
+end
+arch shop_empty
+x 28
+y 5
+end
+arch magic_banned
+x 28
+y 6
+end
+arch dungeon_magic
+x 28
+y 6
+end
+arch unholy_ground
+x 28
+y 6
+end
+arch shop_empty
+x 28
+y 6
+end
+arch magic_banned
+x 28
+y 7
+end
+arch dungeon_magic
+x 28
+y 7
+end
+arch unholy_ground
+x 28
+y 7
+end
+arch shop_empty
+x 28
+y 7
+end
+arch magic_banned
+x 28
+y 8
+end
+arch dungeon_magic
+x 28
+y 8
+end
+arch unholy_ground
+x 28
+y 8
+end
+arch shop_empty
+x 28
+y 8
+end
+arch magic_banned
+x 28
+y 9
+end
+arch dungeon_magic
+x 28
+y 9
+end
+arch unholy_ground
+x 28
+y 9
+end
+arch shop_empty
+x 28
+y 9
+end
+arch magic_banned
+x 28
+y 10
+end
+arch dungeon_magic
+x 28
+y 10
+end
+arch unholy_ground
+x 28
+y 10
+end
+arch shop_empty
+x 28
+y 10
+end
+arch magic_banned
+x 28
+y 11
+end
+arch dungeon_magic
+x 28
+y 11
+end
+arch unholy_ground
+x 28
+y 11
+end
+arch shop_empty
+x 28
+y 11
+end
+arch magic_banned
+x 28
+y 12
+end
+arch dungeon_magic
+x 28
+y 12
+end
+arch unholy_ground
+x 28
+y 12
+end
+arch shop_empty
+x 28
+y 12
+end
+arch magic_banned
+x 28
+y 13
+end
+arch dungeon_magic
+x 28
+y 13
+end
+arch unholy_ground
+x 28
+y 13
+end
+arch shop_empty
+x 28
+y 13
+end
+arch magic_banned
+x 28
+y 14
+end
+arch dungeon_magic
+x 28
+y 14
+end
+arch unholy_ground
+x 28
+y 14
+end
+arch shop_empty
+x 28
+y 14
+end
+arch magic_banned
+x 28
+y 15
+end
+arch dungeon_magic
+x 28
+y 15
+end
+arch unholy_ground
+x 28
+y 15
+end
+arch shop_empty
+x 28
+y 15
+end
+arch magic_banned
+x 28
+y 16
+end
+arch dungeon_magic
+x 28
+y 16
+end
+arch unholy_ground
+x 28
+y 16
+end
+arch shop_empty
+x 28
+y 16
+end
+arch magic_banned
+x 28
+y 17
+end
+arch dungeon_magic
+x 28
+y 17
+end
+arch unholy_ground
+x 28
+y 17
+end
+arch shop_empty
+x 28
+y 17
+end
+arch magic_banned
+x 28
+y 18
+end
+arch dungeon_magic
+x 28
+y 18
+end
+arch unholy_ground
+x 28
+y 18
+end
+arch shop_empty
+x 28
+y 18
+end
+arch wwall_1_1
+x 28
+y 18
+end
+arch magic_banned
+x 28
+y 19
+end
+arch dungeon_magic
+x 28
+y 19
+end
+arch unholy_ground
+x 28
+y 19
+end
+arch shop_empty
+x 28
+y 19
+end
+arch wwall_3_1
+x 28
+y 19
+end
+arch magic_banned
+x 29
+end
+arch dungeon_magic
+x 29
+end
+arch unholy_ground
+x 29
+end
+arch shop_empty
+x 29
+end
+arch wwall_3_3
+x 29
+end
+arch magic_banned
+x 29
+y 1
+end
+arch dungeon_magic
+x 29
+y 1
+end
+arch unholy_ground
+x 29
+y 1
+end
+arch shop_empty
+x 29
+y 1
+end
+arch wwall_1_2
+x 29
+y 1
+end
+arch magic_banned
+x 29
+y 2
+end
+arch dungeon_magic
+x 29
+y 2
+end
+arch unholy_ground
+x 29
+y 2
+end
+arch shop_empty
+x 29
+y 2
+end
+arch magic_banned
+x 29
+y 3
+end
+arch dungeon_magic
+x 29
+y 3
+end
+arch unholy_ground
+x 29
+y 3
+end
+arch shop_empty
+x 29
+y 3
+end
+arch magic_banned
+x 29
+y 4
+end
+arch dungeon_magic
+x 29
+y 4
+end
+arch unholy_ground
+x 29
+y 4
+end
+arch shop_empty
+x 29
+y 4
+end
+arch magic_banned
+x 29
+y 5
+end
+arch dungeon_magic
+x 29
+y 5
+end
+arch unholy_ground
+x 29
+y 5
+end
+arch shop_empty
+x 29
+y 5
+end
+arch magic_banned
+x 29
+y 6
+end
+arch dungeon_magic
+x 29
+y 6
+end
+arch unholy_ground
+x 29
+y 6
+end
+arch shop_empty
+x 29
+y 6
+end
+arch magic_banned
+x 29
+y 7
+end
+arch dungeon_magic
+x 29
+y 7
+end
+arch unholy_ground
+x 29
+y 7
+end
+arch shop_empty
+x 29
+y 7
+end
+arch magic_banned
+x 29
+y 8
+end
+arch dungeon_magic
+x 29
+y 8
+end
+arch unholy_ground
+x 29
+y 8
+end
+arch shop_empty
+x 29
+y 8
+end
+arch magic_banned
+x 29
+y 9
+end
+arch dungeon_magic
+x 29
+y 9
+end
+arch unholy_ground
+x 29
+y 9
+end
+arch shop_empty
+x 29
+y 9
+end
+arch magic_banned
+x 29
+y 10
+end
+arch dungeon_magic
+x 29
+y 10
+end
+arch unholy_ground
+x 29
+y 10
+end
+arch shop_empty
+x 29
+y 10
+end
+arch magic_banned
+x 29
+y 11
+end
+arch dungeon_magic
+x 29
+y 11
+end
+arch unholy_ground
+x 29
+y 11
+end
+arch shop_empty
+x 29
+y 11
+end
+arch magic_banned
+x 29
+y 12
+end
+arch dungeon_magic
+x 29
+y 12
+end
+arch unholy_ground
+x 29
+y 12
+end
+arch shop_empty
+x 29
+y 12
+end
+arch magic_banned
+x 29
+y 13
+end
+arch dungeon_magic
+x 29
+y 13
+end
+arch unholy_ground
+x 29
+y 13
+end
+arch shop_empty
+x 29
+y 13
+end
+arch magic_banned
+x 29
+y 14
+end
+arch dungeon_magic
+x 29
+y 14
+end
+arch unholy_ground
+x 29
+y 14
+end
+arch shop_empty
+x 29
+y 14
+end
+arch magic_banned
+x 29
+y 15
+end
+arch dungeon_magic
+x 29
+y 15
+end
+arch unholy_ground
+x 29
+y 15
+end
+arch shop_empty
+x 29
+y 15
+end
+arch magic_banned
+x 29
+y 16
+end
+arch dungeon_magic
+x 29
+y 16
+end
+arch unholy_ground
+x 29
+y 16
+end
+arch shop_empty
+x 29
+y 16
+end
+arch magic_banned
+x 29
+y 17
+end
+arch unholy_ground
+x 29
+y 17
+end
+arch dungeon_magic
+x 29
+y 17
+end
+arch shop_empty
+x 29
+y 17
+end
+arch building_lightmagentamarble
+x 29
+y 17
+no_pick 1
+end
+arch magic_banned
+x 29
+y 18
+end
+arch unholy_ground
+x 29
+y 18
+end
+arch shop_empty
+x 29
+y 18
+end
+arch dungeon_magic
+x 29
+y 18
+end
+arch creator
+x 29
+y 18
+connected 131
+lifesave 1
+arch building_lightmagentamarble
+unpaid 1
+end
+end
+arch shop_empty
+x 29
+y 18
+end
+arch button_lever
+name Light Magenta Marble Material
+face teleporter.111
+animation teleporter
+x 29
+y 18
+connected 131
+end
+arch magic_banned
+x 29
+y 19
+end
+arch dungeon_magic
+x 29
+y 19
+end
+arch unholy_ground
+x 29
+y 19
+end
+arch shop_empty
+x 29
+y 19
+end
+arch wwall_2_1_2
+x 29
+y 19
+end
+arch magic_banned
+x 30
+end
+arch dungeon_magic
+x 30
+end
+arch unholy_ground
+x 30
+end
+arch shop_empty
+x 30
+end
+arch wwall_2_1_2
+x 30
+end
+arch magic_banned
+x 30
+y 1
+end
+arch unholy_ground
+x 30
+y 1
+end
+arch dungeon_magic
+x 30
+y 1
+end
+arch creator
+x 30
+y 1
+connected 129
+lifesave 1
+arch building_shopfloor
+unpaid 1
+end
+end
+arch shop_empty
+x 30
+y 1
+end
+arch button_lever
+name Shop Floor Material
+face teleporter.111
+animation teleporter
+x 30
+y 1
+connected 129
+end
+arch magic_banned
+x 30
+y 2
+end
+arch unholy_ground
+x 30
+y 2
+end
+arch shop_empty
+x 30
+y 2
+end
+arch dungeon_magic
+x 30
+y 2
+end
+arch shop_empty
+x 30
+y 2
+end
+arch building_shopfloor
+x 30
+y 2
+no_pick 1
+end
+arch magic_banned
+x 30
+y 3
+end
+arch dungeon_magic
+x 30
+y 3
+end
+arch unholy_ground
+x 30
+y 3
+end
+arch shop_empty
+x 30
+y 3
+end
+arch magic_banned
+x 30
+y 4
+end
+arch dungeon_magic
+x 30
+y 4
+end
+arch unholy_ground
+x 30
+y 4
+end
+arch shop_empty
+x 30
+y 4
+end
+arch magic_banned
+x 30
+y 5
+end
+arch dungeon_magic
+x 30
+y 5
+end
+arch unholy_ground
+x 30
+y 5
+end
+arch shop_empty
+x 30
+y 5
+end
+arch magic_banned
+x 30
+y 6
+end
+arch dungeon_magic
+x 30
+y 6
+end
+arch unholy_ground
+x 30
+y 6
+end
+arch shop_empty
+x 30
+y 6
+end
+arch magic_banned
+x 30
+y 7
+end
+arch dungeon_magic
+x 30
+y 7
+end
+arch unholy_ground
+x 30
+y 7
+end
+arch shop_empty
+x 30
+y 7
+end
+arch magic_banned
+x 30
+y 8
+end
+arch dungeon_magic
+x 30
+y 8
+end
+arch unholy_ground
+x 30
+y 8
+end
+arch shop_empty
+x 30
+y 8
+end
+arch magic_banned
+x 30
+y 9
+end
+arch dungeon_magic
+x 30
+y 9
+end
+arch unholy_ground
+x 30
+y 9
+end
+arch shop_empty
+x 30
+y 9
+end
+arch magic_banned
+x 30
+y 10
+end
+arch dungeon_magic
+x 30
+y 10
+end
+arch unholy_ground
+x 30
+y 10
+end
+arch shop_empty
+x 30
+y 10
+end
+arch magic_banned
+x 30
+y 11
+end
+arch dungeon_magic
+x 30
+y 11
+end
+arch unholy_ground
+x 30
+y 11
+end
+arch shop_empty
+x 30
+y 11
+end
+arch magic_banned
+x 30
+y 12
+end
+arch dungeon_magic
+x 30
+y 12
+end
+arch unholy_ground
+x 30
+y 12
+end
+arch shop_empty
+x 30
+y 12
+end
+arch magic_banned
+x 30
+y 13
+end
+arch dungeon_magic
+x 30
+y 13
+end
+arch unholy_ground
+x 30
+y 13
+end
+arch shop_empty
+x 30
+y 13
+end
+arch magic_banned
+x 30
+y 14
+end
+arch dungeon_magic
+x 30
+y 14
+end
+arch unholy_ground
+x 30
+y 14
+end
+arch shop_empty
+x 30
+y 14
+end
+arch magic_banned
+x 30
+y 15
+end
+arch dungeon_magic
+x 30
+y 15
+end
+arch unholy_ground
+x 30
+y 15
+end
+arch shop_empty
+x 30
+y 15
+end
+arch magic_banned
+x 30
+y 16
+end
+arch dungeon_magic
+x 30
+y 16
+end
+arch unholy_ground
+x 30
+y 16
+end
+arch shop_empty
+x 30
+y 16
+end
+arch magic_banned
+x 30
+y 17
+end
+arch dungeon_magic
+x 30
+y 17
+end
+arch unholy_ground
+x 30
+y 17
+end
+arch shop_empty
+x 30
+y 17
+end
+arch magic_banned
+x 30
+y 18
+end
+arch dungeon_magic
+x 30
+y 18
+end
+arch unholy_ground
+x 30
+y 18
+end
+arch shop_empty
+x 30
+y 18
+end
+arch wwall_1_1
+x 30
+y 18
+end
+arch magic_banned
+x 30
+y 19
+end
+arch dungeon_magic
+x 30
+y 19
+end
+arch unholy_ground
+x 30
+y 19
+end
+arch shop_empty
+x 30
+y 19
+end
+arch wwall_3_1
+x 30
+y 19
+end
+arch magic_banned
+x 31
+end
+arch dungeon_magic
+x 31
+end
+arch unholy_ground
+x 31
+end
+arch shop_empty
+x 31
+end
+arch wwall_3_3
+x 31
+end
+arch magic_banned
+x 31
+y 1
+end
+arch dungeon_magic
+x 31
+y 1
+end
+arch unholy_ground
+x 31
+y 1
+end
+arch shop_empty
+x 31
+y 1
+end
+arch wwall_2_1_1
+x 31
+y 1
+end
+arch magic_banned
+x 31
+y 2
+end
+arch dungeon_magic
+x 31
+y 2
+end
+arch unholy_ground
+x 31
+y 2
+end
+arch shop_empty
+x 31
+y 2
+end
+arch wwall_2_1_1
+x 31
+y 2
+end
+arch magic_banned
+x 31
+y 3
+end
+arch dungeon_magic
+x 31
+y 3
+end
+arch unholy_ground
+x 31
+y 3
+end
+arch shop_empty
+x 31
+y 3
+end
+arch wwall_2_2_1
+x 31
+y 3
+end
+arch magic_banned
+x 31
+y 4
+end
+arch dungeon_magic
+x 31
+y 4
+end
+arch unholy_ground
+x 31
+y 4
+end
+arch shop_empty
+x 31
+y 4
+end
+arch magic_banned
+x 31
+y 5
+end
+arch dungeon_magic
+x 31
+y 5
+end
+arch unholy_ground
+x 31
+y 5
+end
+arch shop_empty
+x 31
+y 5
+end
+arch magic_banned
+x 31
+y 6
+end
+arch dungeon_magic
+x 31
+y 6
+end
+arch unholy_ground
+x 31
+y 6
+end
+arch shop_empty
+x 31
+y 6
+end
+arch magic_banned
+x 31
+y 7
+end
+arch dungeon_magic
+x 31
+y 7
+end
+arch unholy_ground
+x 31
+y 7
+end
+arch shop_empty
+x 31
+y 7
+end
+arch magic_banned
+x 31
+y 8
+end
+arch dungeon_magic
+x 31
+y 8
+end
+arch unholy_ground
+x 31
+y 8
+end
+arch shop_empty
+x 31
+y 8
+end
+arch magic_banned
+x 31
+y 9
+end
+arch dungeon_magic
+x 31
+y 9
+end
+arch unholy_ground
+x 31
+y 9
+end
+arch shop_empty
+x 31
+y 9
+end
+arch magic_banned
+x 31
+y 10
+end
+arch dungeon_magic
+x 31
+y 10
+end
+arch unholy_ground
+x 31
+y 10
+end
+arch shop_empty
+x 31
+y 10
+end
+arch magic_banned
+x 31
+y 11
+end
+arch dungeon_magic
+x 31
+y 11
+end
+arch unholy_ground
+x 31
+y 11
+end
+arch shop_empty
+x 31
+y 11
+end
+arch magic_banned
+x 31
+y 12
+end
+arch dungeon_magic
+x 31
+y 12
+end
+arch unholy_ground
+x 31
+y 12
+end
+arch shop_empty
+x 31
+y 12
+end
+arch magic_banned
+x 31
+y 13
+end
+arch dungeon_magic
+x 31
+y 13
+end
+arch unholy_ground
+x 31
+y 13
+end
+arch shop_empty
+x 31
+y 13
+end
+arch magic_banned
+x 31
+y 14
+end
+arch dungeon_magic
+x 31
+y 14
+end
+arch unholy_ground
+x 31
+y 14
+end
+arch shop_empty
+x 31
+y 14
+end
+arch magic_banned
+x 31
+y 15
+end
+arch dungeon_magic
+x 31
+y 15
+end
+arch unholy_ground
+x 31
+y 15
+end
+arch shop_empty
+x 31
+y 15
+end
+arch magic_banned
+x 31
+y 16
+end
+arch dungeon_magic
+x 31
+y 16
+end
+arch unholy_ground
+x 31
+y 16
+end
+arch shop_empty
+x 31
+y 16
+end
+arch magic_banned
+x 31
+y 17
+end
+arch unholy_ground
+x 31
+y 17
+end
+arch dungeon_magic
+x 31
+y 17
+end
+arch shop_empty
+x 31
+y 17
+end
+arch building_blackmarble
+x 31
+y 17
+no_pick 1
+end
+arch magic_banned
+x 31
+y 18
+end
+arch unholy_ground
+x 31
+y 18
+end
+arch shop_empty
+x 31
+y 18
+end
+arch dungeon_magic
+x 31
+y 18
+end
+arch creator
+x 31
+y 18
+connected 132
+lifesave 1
+arch building_blackmarble
+unpaid 1
+end
+end
+arch shop_empty
+x 31
+y 18
+end
+arch button_lever
+name Black Marble Floor Material
+face teleporter.111
+animation teleporter
+x 31
+y 18
+connected 132
+end
+arch magic_banned
+x 31
+y 19
+end
+arch dungeon_magic
+x 31
+y 19
+end
+arch unholy_ground
+x 31
+y 19
+end
+arch shop_empty
+x 31
+y 19
+end
+arch wwall_2_1_2
+x 31
+y 19
+end
+arch magic_banned
+x 32
+end
+arch dungeon_magic
+x 32
+end
+arch unholy_ground
+x 32
+end
+arch shop_empty
+x 32
+end
+arch wwall_2_1_2
+x 32
+end
+arch magic_banned
+x 32
+y 1
+end
+arch dungeon_magic
+x 32
+y 1
+end
+arch unholy_ground
+x 32
+y 1
+end
+arch shop_empty
+x 32
+y 1
+end
+arch magic_banned
+x 32
+y 2
+end
+arch dungeon_magic
+x 32
+y 2
+end
+arch unholy_ground
+x 32
+y 2
+end
+arch shop_empty
+x 32
+y 2
+end
+arch magic_banned
+x 32
+y 3
+end
+arch dungeon_magic
+x 32
+y 3
+end
+arch unholy_ground
+x 32
+y 3
+end
+arch shop_empty
+x 32
+y 3
+end
+arch wwall_2_1_2
+x 32
+y 3
+end
+arch magic_banned
+x 32
+y 4
+end
+arch unholy_ground
+x 32
+y 4
+end
+arch dungeon_magic
+x 32
+y 4
+end
+arch shop_empty
+x 32
+y 4
+end
+arch building_wall
+x 32
+y 4
+no_pick 1
+end
+arch magic_banned
+x 32
+y 5
+end
+arch unholy_ground
+x 32
+y 5
+end
+arch dungeon_magic
+x 32
+y 5
+end
+arch shop_empty
+x 32
+y 5
+end
+arch magic_banned
+x 32
+y 6
+end
+arch unholy_ground
+x 32
+y 6
+end
+arch dungeon_magic
+x 32
+y 6
+end
+arch shop_empty
+x 32
+y 6
+end
+arch building_wall2
+x 32
+y 6
+no_pick 1
+end
+arch magic_banned
+x 32
+y 7
+end
+arch unholy_ground
+x 32
+y 7
+end
+arch dungeon_magic
+x 32
+y 7
+end
+arch shop_empty
+x 32
+y 7
+end
+arch magic_banned
+x 32
+y 8
+end
+arch unholy_ground
+x 32
+y 8
+end
+arch dungeon_magic
+x 32
+y 8
+end
+arch shop_empty
+x 32
+y 8
+end
+arch building_wall3
+x 32
+y 8
+no_pick 1
+end
+arch magic_banned
+x 32
+y 9
+end
+arch unholy_ground
+x 32
+y 9
+end
+arch dungeon_magic
+x 32
+y 9
+end
+arch shop_empty
+x 32
+y 9
+end
+arch magic_banned
+x 32
+y 10
+end
+arch unholy_ground
+x 32
+y 10
+end
+arch dungeon_magic
+x 32
+y 10
+end
+arch shop_empty
+x 32
+y 10
+end
+arch building_wall4
+x 32
+y 10
+no_pick 1
+end
+arch magic_banned
+x 32
+y 11
+end
+arch unholy_ground
+x 32
+y 11
+end
+arch dungeon_magic
+x 32
+y 11
+end
+arch shop_empty
+x 32
+y 11
+end
+arch magic_banned
+x 32
+y 12
+end
+arch unholy_ground
+x 32
+y 12
+end
+arch dungeon_magic
+x 32
+y 12
+end
+arch shop_empty
+x 32
+y 12
+end
+arch building_wall5
+x 32
+y 12
+no_pick 1
+end
+arch magic_banned
+x 32
+y 13
+end
+arch unholy_ground
+x 32
+y 13
+end
+arch dungeon_magic
+x 32
+y 13
+end
+arch shop_empty
+x 32
+y 13
+end
+arch magic_banned
+x 32
+y 14
+end
+arch unholy_ground
+x 32
+y 14
+end
+arch dungeon_magic
+x 32
+y 14
+end
+arch shop_empty
+x 32
+y 14
+end
+arch building_builder
+x 32
+y 14
+no_pick 1
+end
+arch magic_banned
+x 32
+y 15
+end
+arch unholy_ground
+x 32
+y 15
+end
+arch dungeon_magic
+x 32
+y 15
+end
+arch shop_empty
+x 32
+y 15
+end
+arch magic_banned
+x 32
+y 16
+end
+arch unholy_ground
+x 32
+y 16
+end
+arch dungeon_magic
+x 32
+y 16
+end
+arch shop_empty
+x 32
+y 16
+end
+arch building_destroyer
+x 32
+y 16
+no_pick 1
+end
+arch magic_banned
+x 32
+y 17
+end
+arch dungeon_magic
+x 32
+y 17
+end
+arch unholy_ground
+x 32
+y 17
+end
+arch shop_empty
+x 32
+y 17
+end
+arch wwall_2_2_2
+x 32
+y 17
+end
+arch magic_banned
+x 32
+y 18
+end
+arch dungeon_magic
+x 32
+y 18
+end
+arch unholy_ground
+x 32
+y 18
+end
+arch shop_empty
+x 32
+y 18
+end
+arch wwall_2_1_1
+x 32
+y 18
+end
+arch magic_banned
+x 32
+y 19
+end
+arch dungeon_magic
+x 32
+y 19
+end
+arch unholy_ground
+x 32
+y 19
+end
+arch shop_empty
+x 32
+y 19
+end
+arch wwall_3_1
+x 32
+y 19
+end
+arch magic_banned
+x 33
+end
+arch unholy_ground
+x 33
+end
+arch shop_empty
+x 33
+end
+arch wwall_2_1_2
+x 33
+end
+arch magic_banned
+x 33
+y 1
+end
+arch unholy_ground
+x 33
+y 1
+end
+arch shop_empty
+x 33
+y 1
+end
+arch magic_banned
+x 33
+y 2
+end
+arch unholy_ground
+x 33
+y 2
+end
+arch shop_empty
+x 33
+y 2
+end
+arch magic_banned
+x 33
+y 3
+end
+arch unholy_ground
+x 33
+y 3
+end
+arch shop_empty
+x 33
+y 3
+end
+arch wwall_2_1_2
+x 33
+y 3
+end
+arch magic_banned
+x 33
+y 4
+end
+arch unholy_ground
+x 33
+y 4
+end
+arch dungeon_magic
+x 33
+y 4
+end
+arch creator
+x 33
+y 4
+connected 151
+lifesave 1
+arch building_wall
+unpaid 1
+end
+end
+arch shop_empty
+x 33
+y 4
+end
+arch button_lever
+name Wall Material
+face teleporter.111
+animation teleporter
+x 33
+y 4
+connected 151
+end
+arch magic_banned
+x 33
+y 5
+end
+arch unholy_ground
+x 33
+y 5
+end
+arch dungeon_magic
+x 33
+y 5
+end
+arch shop_empty
+x 33
+y 5
+end
+arch wwall_1_4
+x 33
+y 5
+end
+arch magic_banned
+x 33
+y 6
+end
+arch unholy_ground
+x 33
+y 6
+end
+arch dungeon_magic
+x 33
+y 6
+end
+arch creator
+x 33
+y 6
+connected 152
+lifesave 1
+arch building_wall2
+unpaid 1
+end
+end
+arch shop_empty
+x 33
+y 6
+end
+arch button_lever
+name DWall Material
+face teleporter.111
+animation teleporter
+x 33
+y 6
+connected 152
+end
+arch magic_banned
+x 33
+y 7
+end
+arch unholy_ground
+x 33
+y 7
+end
+arch dungeon_magic
+x 33
+y 7
+end
+arch shop_empty
+x 33
+y 7
+end
+arch wwall_1_4
+x 33
+y 7
+end
+arch magic_banned
+x 33
+y 8
+end
+arch unholy_ground
+x 33
+y 8
+end
+arch dungeon_magic
+x 33
+y 8
+end
+arch creator
+x 33
+y 8
+connected 153
+lifesave 1
+arch building_wall3
+unpaid 1
+end
+end
+arch shop_empty
+x 33
+y 8
+end
+arch button_lever
+name WestCWall Material
+face teleporter.111
+animation teleporter
+x 33
+y 8
+connected 153
+end
+arch magic_banned
+x 33
+y 9
+end
+arch unholy_ground
+x 33
+y 9
+end
+arch dungeon_magic
+x 33
+y 9
+end
+arch shop_empty
+x 33
+y 9
+end
+arch wwall_1_4
+x 33
+y 9
+end
+arch magic_banned
+x 33
+y 10
+end
+arch unholy_ground
+x 33
+y 10
+end
+arch dungeon_magic
+x 33
+y 10
+end
+arch creator
+x 33
+y 10
+connected 154
+lifesave 1
+arch building_wall4
+unpaid 1
+end
+end
+arch shop_empty
+x 33
+y 10
+end
+arch button_lever
+name Red CWall Material
+face teleporter.111
+animation teleporter
+x 33
+y 10
+connected 154
+end
+arch magic_banned
+x 33
+y 11
+end
+arch unholy_ground
+x 33
+y 11
+end
+arch dungeon_magic
+x 33
+y 11
+end
+arch shop_empty
+x 33
+y 11
+end
+arch wwall_1_4
+x 33
+y 11
+end
+arch magic_banned
+x 33
+y 12
+end
+arch unholy_ground
+x 33
+y 12
+end
+arch dungeon_magic
+x 33
+y 12
+end
+arch creator
+x 33
+y 12
+connected 155
+lifesave 1
+arch building_wall5
+unpaid 1
+end
+end
+arch shop_empty
+x 33
+y 12
+end
+arch button_lever
+name EastWall Material
+face teleporter.111
+animation teleporter
+x 33
+y 12
+connected 155
+end
+arch magic_banned
+x 33
+y 13
+end
+arch unholy_ground
+x 33
+y 13
+end
+arch dungeon_magic
+x 33
+y 13
+end
+arch shop_empty
+x 33
+y 13
+end
+arch wwall_1_4
+x 33
+y 13
+end
+arch magic_banned
+x 33
+y 14
+end
+arch unholy_ground
+x 33
+y 14
+end
+arch dungeon_magic
+x 33
+y 14
+end
+arch creator
+x 33
+y 14
+connected 124
+lifesave 1
+arch building_builder
+unpaid 1
+end
+end
+arch shop_empty
+x 33
+y 14
+end
+arch button_lever
+name Generic Builder
+face teleporter.111
+animation teleporter
+x 33
+y 14
+connected 124
+end
+arch magic_banned
+x 33
+y 15
+end
+arch unholy_ground
+x 33
+y 15
+end
+arch dungeon_magic
+x 33
+y 15
+end
+arch shop_empty
+x 33
+y 15
+end
+arch wwall_1_4
+x 33
+y 15
+end
+arch magic_banned
+x 33
+y 16
+end
+arch unholy_ground
+x 33
+y 16
+end
+arch dungeon_magic
+x 33
+y 16
+end
+arch creator
+x 33
+y 16
+connected 123
+lifesave 1
+arch building_destroyer
+unpaid 1
+end
+end
+arch shop_empty
+x 33
+y 16
+end
+arch button_lever
+name Generic Destroyer
+face teleporter.111
+animation teleporter
+x 33
+y 16
+connected 123
+end
+arch awall_0
+x 33
+y 16
+end
+arch magic_banned
+x 33
+y 17
+end
+arch unholy_ground
+x 33
+y 17
+end
+arch shop_empty
+x 33
+y 17
+end
+arch wwall_2_1_2
+x 33
+y 17
+end
+arch magic_banned
+x 33
+y 18
+end
+arch unholy_ground
+x 33
+y 18
+end
+arch shop_empty
+x 33
+y 18
+end
+arch magic_banned
+x 33
+y 19
+end
+arch unholy_ground
+x 33
+y 19
+end
+arch shop_empty
+x 33
+y 19
+end
+arch wwall_2_1_2
+x 33
+y 19
+end
+arch magic_banned
+x 34
+end
+arch unholy_ground
+x 34
+end
+arch shop_empty
+x 34
+end
+arch wwall_2_2_3
+x 34
+end
+arch magic_banned
+x 34
+y 1
+end
+arch unholy_ground
+x 34
+y 1
+end
+arch shop_empty
+x 34
+y 1
+end
+arch wwall_2_1_1
+x 34
+y 1
+end
+arch magic_banned
+x 34
+y 2
+end
+arch unholy_ground
+x 34
+y 2
+end
+arch shop_empty
+x 34
+y 2
+end
+arch wwall_2_1_1
+x 34
+y 2
+end
+arch magic_banned
+x 34
+y 3
+end
+arch unholy_ground
+x 34
+y 3
+end
+arch shop_empty
+x 34
+y 3
+end
+arch wwall_3_4
+x 34
+y 3
+end
+arch magic_banned
+x 34
+y 4
+end
+arch unholy_ground
+x 34
+y 4
+end
+arch shop_empty
+x 34
+y 4
+end
+arch wwall_2_1_1
+x 34
+y 4
+end
+arch magic_banned
+x 34
+y 5
+end
+arch unholy_ground
+x 34
+y 5
+end
+arch shop_empty
+x 34
+y 5
+end
+arch wwall_3_4
+x 34
+y 5
+end
+arch magic_banned
+x 34
+y 6
+end
+arch unholy_ground
+x 34
+y 6
+end
+arch shop_empty
+x 34
+y 6
+end
+arch wwall_2_1_1
+x 34
+y 6
+end
+arch magic_banned
+x 34
+y 7
+end
+arch unholy_ground
+x 34
+y 7
+end
+arch shop_empty
+x 34
+y 7
+end
+arch wwall_3_4
+x 34
+y 7
+end
+arch magic_banned
+x 34
+y 8
+end
+arch unholy_ground
+x 34
+y 8
+end
+arch shop_empty
+x 34
+y 8
+end
+arch wwall_2_1_1
+x 34
+y 8
+end
+arch magic_banned
+x 34
+y 9
+end
+arch unholy_ground
+x 34
+y 9
+end
+arch shop_empty
+x 34
+y 9
+end
+arch wwall_3_4
+x 34
+y 9
+end
+arch magic_banned
+x 34
+y 10
+end
+arch unholy_ground
+x 34
+y 10
+end
+arch shop_empty
+x 34
+y 10
+end
+arch wwall_2_1_1
+x 34
+y 10
+end
+arch magic_banned
+x 34
+y 11
+end
+arch unholy_ground
+x 34
+y 11
+end
+arch wwall_3_4
+x 34
+y 11
+end
+arch magic_banned
+x 34
+y 12
+end
+arch unholy_ground
+x 34
+y 12
+end
+arch shop_empty
+x 34
+y 12
+end
+arch wwall_2_1_1
+x 34
+y 12
+end
+arch magic_banned
+x 34
+y 13
+end
+arch unholy_ground
+x 34
+y 13
+end
+arch wwall_3_4
+x 34
+y 13
+end
+arch magic_banned
+x 34
+y 14
+end
+arch unholy_ground
+x 34
+y 14
+end
+arch shop_empty
+x 34
+y 14
+end
+arch wwall_2_1_1
+x 34
+y 14
+end
+arch magic_banned
+x 34
+y 15
+end
+arch unholy_ground
+x 34
+y 15
+end
+arch wwall_3_4
+x 34
+y 15
+end
+arch magic_banned
+x 34
+y 16
+end
+arch unholy_ground
+x 34
+y 16
+end
+arch shop_empty
+x 34
+y 16
+end
+arch wwall_2_1_1
+x 34
+y 16
+end
+arch magic_banned
+x 34
+y 17
+end
+arch unholy_ground
+x 34
+y 17
+end
+arch shop_empty
+x 34
+y 17
+end
+arch wwall_3_4
+x 34
+y 17
+end
+arch magic_banned
+x 34
+y 18
+end
+arch unholy_ground
+x 34
+y 18
+end
+arch shop_empty
+x 34
+y 18
+end
+arch wwall_2_1_1
+x 34
+y 18
+end
+arch magic_banned
+x 34
+y 19
+end
+arch unholy_ground
+x 34
+y 19
+end
+arch shop_empty
+x 34
+y 19
+end
+arch wwall_2_2_4
+x 34
+y 19
+end

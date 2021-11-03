@@ -1,0 +1,58 @@
+arch map
+name minitrade
+width 3
+height 3
+msg
+Creator: Gnat the Gnu
+Email: gnu@foo.bar
+Date: Mon Jan 18 15:47:50 1999
+Modified: 2019-04-07 Acer
+endmsg
+end
+arch stonefloor2
+end
+arch stonefloorred2
+y 1
+end
+arch cloudfloor_bl
+y 1
+end
+arch stonefloor2
+y 2
+end
+arch stonefloorred2
+x 1
+end
+arch flaming_tower
+x 1
+level 60
+type 111
+arch spell_flaming_aura
+end
+end
+arch stonefloorred2
+x 1
+y 1
+end
+arch stonefloorred2
+x 1
+y 2
+end
+arch stonefloor2
+x 2
+end
+arch cloudfloor_bl
+x 2
+end
+arch stonefloorred2
+x 2
+y 1
+end
+arch stonefloor2
+x 2
+y 2
+end
+arch cloudfloor_bl
+x 2
+y 2
+end
